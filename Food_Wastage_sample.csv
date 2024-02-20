@@ -1,0 +1,5001 @@
+,Food,Location,Week,Month,Amt_bought,Amt_Consumed,Wastage
+0,Beans,Globe,8,2,9.0,6.0,3.0
+1,Parmesan cheese,Nue Vegan,7,2,2.5,0.1,2.4
+2,Burger,Ike's,11,3,6.9,6.0,0.9
+3,Drumsticks,Nue Vegan,7,2,2.1,0.2,1.9
+4,Drumsticks,Nue Vegan,6,2,1.1,0.8,0.3
+5,Parmesan cheese,Halal Guys,7,2,7.0,6.4,0.6
+6,Burger,Flip kitchen,7,2,8.6,5.1,3.5
+7,Fries,Flip kitchen,2,1,3.6,3.3,0.3
+8,Chicken,Ike's,9,3,9.0,8.0,1.0
+9,Beans,Halal Guys,4,1,3.5,1.9,1.6
+10,Pork,Chick-fil-a,4,1,6.9,4.1,2.8
+11,Tune,Southside,2,1,6.2,3.3,2.9
+12,Beef,Ike's,11,3,4.2,1.0,3.2
+13,Chicken,Southside,9,3,9.9,9.9,0.0
+14,Tune,Chipotle,11,3,4.9,1.2,3.7
+15,Beef,Ike's,6,2,7.4,1.6,5.8
+16,Pizza,Flip kitchen,6,2,7.1,7.0,0.1
+17,Burger,Akino sushi,7,2,3.2,0.4,2.8
+18,Pizza,Southside,7,2,8.8,4.9,3.9
+19,Pork,Nue Vegan,5,2,8.2,2.4,5.8
+20,Salad,Flip kitchen,2,1,4.6,0.8,3.8
+21,Beef,Halal Guys,5,2,4.0,3.8,0.2
+22,Pizza,Halal Guys,9,3,5.6,1.1,4.5
+23,Beef,Chick-fil-a,12,3,5.2,4.3,0.9
+24,Pizza,Nue Vegan,8,2,2.0,0.1,1.9
+25,Salad,Chick-fil-a,11,3,8.7,7.3,1.4
+26,Pork,Halal Guys,12,3,2.1,1.9,0.2
+27,Pork,Chick-fil-a,6,2,4.0,0.5,3.5
+28,Parmesan cheese,Chick-fil-a,1,1,4.9,0.7,4.2
+29,Burger,Halal Guys,6,2,9.6,1.6,8.0
+30,Burger,Halal Guys,1,1,4.4,0.2,4.2
+31,Fries,Flip kitchen,6,2,3.5,1.4,2.1
+32,Burger,Akino sushi,10,3,5.4,2.7,2.7
+33,Tune,Halal Guys,6,2,7.1,6.7,0.4
+34,Drumsticks,Nue Vegan,12,3,1.7,1.2,0.5
+35,Drumsticks,Halal Guys,2,1,9.8,4.7,5.1
+36,Beef,Akino sushi,5,2,4.5,1.5,3.0
+37,Fries,Flip kitchen,12,3,1.7,1.0,0.7
+38,Pork,Chick-fil-a,4,1,2.1,1.4,0.7
+39,Chicken,Flip kitchen,7,2,5.9,1.3,4.6
+40,Chicken,Flip kitchen,12,3,2.9,0.6,2.3
+41,Drumsticks,Southside,5,2,8.2,3.0,5.2
+42,Beef,Ike's,3,1,1.9,1.4,0.5
+43,Chicken,Ike's,7,2,1.4,0.7,0.7
+44,Pork,Akino sushi,6,2,4.0,3.2,0.8
+45,Parmesan cheese,Blaze pizza,8,2,2.8,0.4,2.4
+46,Fries,Halal Guys,10,3,6.2,1.3,4.9
+47,Fries,Blaze pizza,6,2,9.4,0.5,8.9
+48,Burger,Halal Guys,8,2,9.6,7.0,2.6
+49,Tune,Southside,8,2,3.4,3.3,0.1
+50,Drumsticks,Southside,6,2,8.7,4.2,4.5
+51,Salad,Chick-fil-a,2,1,3.6,2.6,1.0
+52,Fries,Blaze pizza,10,3,2.6,0.9,1.7
+53,Beef,Halal Guys,3,1,2.9,0.5,2.4
+54,Drumsticks,Southside,2,1,9.9,2.4,7.5
+55,Parmesan cheese,Southside,10,3,6.7,2.0,4.7
+56,Tune,Blaze pizza,6,2,8.2,1.8,6.4
+57,Salad,Akino sushi,6,2,5.0,1.1,3.9
+58,Pork,Southside,8,2,7.0,0.3,6.7
+59,Parmesan cheese,Globe,11,3,5.6,5.4,0.2
+60,Parmesan cheese,Chipotle,2,1,5.9,5.0,0.9
+61,Beans,Halal Guys,10,3,4.5,0.1,4.4
+62,Beef,Akino sushi,9,3,1.1,0.4,0.7
+63,Pizza,Chipotle,1,1,7.7,5.5,2.2
+64,Tune,Chipotle,10,3,1.7,0.9,0.8
+65,Tune,Chick-fil-a,9,3,6.2,3.0,3.2
+66,Burger,Flip kitchen,8,2,2.8,0.3,2.5
+67,Salad,Globe,7,2,7.5,4.5,3.0
+68,Drumsticks,Blaze pizza,5,2,9.9,0.6,9.3
+69,Chicken,Southside,2,1,9.2,3.2,6.0
+70,Tune,Blaze pizza,11,3,9.4,0.5,8.9
+71,Burger,Akino sushi,11,3,4.0,1.4,2.6
+72,Drumsticks,Chipotle,9,3,7.2,5.5,1.7
+73,Tune,Halal Guys,6,2,5.1,0.1,5.0
+74,Burger,Flip kitchen,4,1,7.5,1.1,6.4
+75,Tune,Nue Vegan,11,3,5.5,1.8,3.7
+76,Burger,Southside,5,2,4.3,1.1,3.2
+77,Drumsticks,Flip kitchen,2,1,6.4,4.5,1.9
+78,Tune,Globe,6,2,3.7,0.8,2.9
+79,Chicken,Globe,3,1,5.4,3.4,2.0
+80,Tune,Blaze pizza,9,3,2.4,0.9,1.5
+81,Parmesan cheese,Flip kitchen,10,3,1.2,1.1,0.1
+82,Parmesan cheese,Akino sushi,10,3,9.5,6.0,3.5
+83,Chicken,Ike's,12,3,3.2,1.2,2.0
+84,Drumsticks,Akino sushi,5,2,1.7,0.5,1.2
+85,Pizza,Blaze pizza,12,3,9.3,6.9,2.4
+86,Tune,Ike's,3,1,6.6,3.9,2.7
+87,Parmesan cheese,Globe,11,3,3.3,2.1,1.2
+88,Beans,Nue Vegan,1,1,4.6,3.1,1.5
+89,Pizza,Chick-fil-a,6,2,7.9,0.5,7.4
+90,Drumsticks,Halal Guys,8,2,5.9,0.0,5.9
+91,Beef,Akino sushi,5,2,9.7,9.5,0.2
+92,Drumsticks,Halal Guys,9,3,2.3,1.0,1.3
+93,Parmesan cheese,Ike's,6,2,2.0,1.6,0.4
+94,Fries,Ike's,8,2,5.5,1.8,3.7
+95,Pork,Chick-fil-a,7,2,4.0,1.4,2.6
+96,Burger,Chick-fil-a,6,2,5.2,1.2,4.0
+97,Drumsticks,Globe,8,2,7.5,3.9,3.6
+98,Chicken,Blaze pizza,5,2,2.8,2.4,0.4
+99,Tune,Globe,9,3,5.9,1.6,4.3
+100,Chicken,Globe,7,2,8.4,5.5,2.9
+101,Burger,Globe,11,3,7.8,3.6,4.2
+102,Burger,Globe,3,1,5.8,2.2,3.6
+103,Drumsticks,Ike's,12,3,5.1,1.6,3.5
+104,Tune,Ike's,12,3,4.8,3.6,1.2
+105,Salad,Nue Vegan,4,1,7.4,0.8,6.6
+106,Beans,Ike's,1,1,9.3,3.1,6.2
+107,Parmesan cheese,Nue Vegan,12,3,1.6,0.6,1.0
+108,Pork,Blaze pizza,5,2,9.6,6.7,2.9
+109,Burger,Globe,6,2,8.7,6.1,2.6
+110,Burger,Blaze pizza,11,3,1.2,0.8,0.4
+111,Beans,Southside,4,1,1.2,0.6,0.6
+112,Salad,Blaze pizza,4,1,3.0,2.3,0.7
+113,Drumsticks,Nue Vegan,2,1,6.1,0.1,6.0
+114,Drumsticks,Halal Guys,5,2,9.0,2.0,7.0
+115,Drumsticks,Halal Guys,12,3,3.9,3.8,0.1
+116,Salad,Blaze pizza,1,1,8.4,6.5,1.9
+117,Tune,Flip kitchen,10,3,4.6,1.1,3.5
+118,Burger,Nue Vegan,11,3,4.1,1.8,2.3
+119,Drumsticks,Akino sushi,12,3,9.6,7.4,2.2
+120,Pizza,Ike's,4,1,3.1,2.9,0.2
+121,Burger,Flip kitchen,8,2,8.8,1.0,7.8
+122,Burger,Flip kitchen,1,1,2.6,0.5,2.1
+123,Burger,Southside,8,2,4.0,1.7,2.3
+124,Parmesan cheese,Nue Vegan,1,1,9.9,4.8,5.1
+125,Pizza,Halal Guys,11,3,5.0,2.1,2.9
+126,Fries,Chick-fil-a,10,3,5.7,4.0,1.7
+127,Fries,Blaze pizza,12,3,7.4,5.1,2.3
+128,Beans,Flip kitchen,3,1,4.7,4.1,0.6
+129,Beef,Southside,7,2,3.9,1.8,2.1
+130,Parmesan cheese,Ike's,6,2,5.8,4.2,1.6
+131,Salad,Nue Vegan,2,1,5.0,1.4,3.6
+132,Beans,Ike's,1,1,9.1,4.7,4.4
+133,Chicken,Chipotle,9,3,5.9,5.7,0.2
+134,Beans,Halal Guys,11,3,5.4,0.6,4.8
+135,Pork,Akino sushi,3,1,2.0,1.1,0.9
+136,Salad,Akino sushi,8,2,1.4,1.3,0.1
+137,Pork,Halal Guys,1,1,4.9,1.1,3.8
+138,Salad,Blaze pizza,7,2,4.3,0.8,3.5
+139,Beef,Blaze pizza,1,1,7.1,6.4,0.7
+140,Salad,Nue Vegan,2,1,7.9,6.6,1.3
+141,Pork,Blaze pizza,12,3,1.3,0.6,0.7
+142,Chicken,Ike's,10,3,1.4,1.1,0.3
+143,Parmesan cheese,Nue Vegan,11,3,6.2,0.8,5.4
+144,Chicken,Chipotle,10,3,7.5,5.2,2.3
+145,Drumsticks,Chipotle,5,2,2.4,0.8,1.6
+146,Pork,Blaze pizza,12,3,1.1,0.2,0.9
+147,Salad,Southside,9,3,9.5,6.0,3.5
+148,Burger,Akino sushi,11,3,5.8,4.1,1.7
+149,Beef,Chipotle,2,1,2.9,0.2,2.7
+150,Salad,Globe,6,2,3.4,1.8,1.6
+151,Drumsticks,Ike's,1,1,1.7,1.3,0.4
+152,Pork,Halal Guys,8,2,9.3,7.8,1.5
+153,Tune,Chipotle,12,3,1.0,0.9,0.1
+154,Burger,Akino sushi,8,2,1.5,0.3,1.2
+155,Beans,Halal Guys,3,1,5.5,0.4,5.1
+156,Burger,Globe,3,1,1.1,0.6,0.5
+157,Burger,Chick-fil-a,7,2,3.5,2.2,1.3
+158,Drumsticks,Flip kitchen,6,2,3.2,0.8,2.4
+159,Burger,Blaze pizza,6,2,1.0,0.4,0.6
+160,Beans,Flip kitchen,2,1,2.7,1.0,1.7
+161,Pizza,Chipotle,12,3,1.1,0.4,0.7
+162,Drumsticks,Nue Vegan,11,3,2.7,0.3,2.4
+163,Pizza,Chipotle,1,1,3.3,1.2,2.1
+164,Pork,Ike's,11,3,8.2,3.7,4.5
+165,Beans,Nue Vegan,2,1,5.2,2.2,3.0
+166,Burger,Flip kitchen,4,1,1.6,0.3,1.3
+167,Burger,Southside,6,2,9.5,3.1,6.4
+168,Beef,Southside,7,2,4.8,1.1,3.7
+169,Chicken,Ike's,9,3,9.5,8.2,1.3
+170,Parmesan cheese,Flip kitchen,2,1,6.7,6.3,0.4
+171,Parmesan cheese,Ike's,10,3,8.7,5.9,2.8
+172,Beans,Chipotle,10,3,4.8,1.1,3.7
+173,Pork,Ike's,2,1,6.2,2.2,4.0
+174,Parmesan cheese,Ike's,10,3,5.5,1.5,4.0
+175,Beans,Chick-fil-a,12,3,9.4,9.4,0.0
+176,Beef,Ike's,8,2,2.2,2.1,0.1
+177,Burger,Halal Guys,3,1,9.1,2.7,6.4
+178,Salad,Globe,10,3,9.4,1.3,8.1
+179,Beans,Akino sushi,3,1,6.8,4.4,2.4
+180,Pizza,Akino sushi,4,1,6.0,5.4,0.6
+181,Chicken,Southside,6,2,8.4,4.4,4.0
+182,Pork,Nue Vegan,4,1,5.8,5.5,0.3
+183,Parmesan cheese,Halal Guys,5,2,4.9,0.1,4.8
+184,Chicken,Flip kitchen,5,2,3.7,0.1,3.6
+185,Salad,Nue Vegan,7,2,8.3,2.8,5.5
+186,Pizza,Flip kitchen,3,1,9.1,3.0,6.1
+187,Pork,Chick-fil-a,7,2,8.1,3.2,4.9
+188,Burger,Globe,11,3,9.1,3.2,5.9
+189,Drumsticks,Akino sushi,12,3,4.0,3.8,0.2
+190,Pork,Akino sushi,4,1,4.6,1.0,3.6
+191,Burger,Globe,12,3,2.7,1.9,0.8
+192,Beef,Blaze pizza,9,3,2.0,0.6,1.4
+193,Salad,Halal Guys,11,3,3.0,1.1,1.9
+194,Parmesan cheese,Southside,4,1,7.1,0.5,6.6
+195,Beans,Nue Vegan,2,1,4.7,1.4,3.3
+196,Tune,Chick-fil-a,10,3,7.0,1.8,5.2
+197,Beans,Nue Vegan,3,1,9.0,2.0,7.0
+198,Pizza,Flip kitchen,1,1,8.6,2.8,5.8
+199,Burger,Halal Guys,10,3,2.2,1.4,0.8
+200,Parmesan cheese,Akino sushi,11,3,9.9,7.5,2.4
+201,Fries,Ike's,10,3,9.6,5.2,4.4
+202,Beef,Nue Vegan,11,3,3.5,3.3,0.2
+203,Beef,Halal Guys,8,2,5.6,3.3,2.3
+204,Pork,Ike's,10,3,4.2,1.2,3.0
+205,Beef,Southside,8,2,1.8,0.5,1.3
+206,Tune,Akino sushi,2,1,4.5,3.1,1.4
+207,Beef,Akino sushi,8,2,8.9,2.0,6.9
+208,Pizza,Halal Guys,12,3,1.3,0.9,0.4
+209,Fries,Akino sushi,5,2,1.2,0.3,0.9
+210,Drumsticks,Blaze pizza,11,3,2.1,1.3,0.8
+211,Pork,Chipotle,5,2,4.0,1.6,2.4
+212,Beef,Ike's,9,3,5.3,4.6,0.7
+213,Drumsticks,Blaze pizza,2,1,6.0,1.7,4.3
+214,Fries,Southside,6,2,9.9,1.5,8.4
+215,Burger,Ike's,11,3,5.0,1.0,4.0
+216,Tune,Chick-fil-a,1,1,8.1,2.7,5.4
+217,Salad,Ike's,4,1,3.1,0.2,2.9
+218,Beans,Flip kitchen,1,1,3.8,0.0,3.8
+219,Chicken,Akino sushi,5,2,8.2,6.9,1.3
+220,Burger,Flip kitchen,4,1,1.4,1.1,0.3
+221,Drumsticks,Flip kitchen,5,2,2.4,1.2,1.2
+222,Pork,Chick-fil-a,8,2,7.8,5.9,1.9
+223,Salad,Blaze pizza,9,3,2.3,1.5,0.8
+224,Parmesan cheese,Nue Vegan,10,3,3.4,0.5,2.9
+225,Chicken,Nue Vegan,11,3,4.8,3.1,1.7
+226,Beef,Nue Vegan,2,1,8.0,4.7,3.3
+227,Fries,Globe,3,1,3.5,1.9,1.6
+228,Tune,Flip kitchen,1,1,9.7,7.3,2.4
+229,Chicken,Globe,11,3,1.9,1.2,0.7
+230,Salad,Ike's,5,2,2.5,2.4,0.1
+231,Salad,Nue Vegan,10,3,9.2,9.0,0.2
+232,Tune,Halal Guys,10,3,9.5,3.2,6.3
+233,Parmesan cheese,Ike's,12,3,4.6,2.9,1.7
+234,Burger,Flip kitchen,3,1,6.3,3.0,3.3
+235,Parmesan cheese,Blaze pizza,1,1,4.6,1.7,2.9
+236,Salad,Halal Guys,10,3,7.4,4.8,2.6
+237,Tune,Akino sushi,2,1,6.3,2.3,4.0
+238,Drumsticks,Globe,6,2,2.8,2.0,0.8
+239,Pork,Chipotle,9,3,1.3,0.8,0.5
+240,Pizza,Chipotle,4,1,3.1,2.7,0.4
+241,Chicken,Akino sushi,6,2,1.1,0.9,0.2
+242,Tune,Ike's,4,1,1.8,0.6,1.2
+243,Pizza,Chick-fil-a,10,3,5.7,5.7,0.0
+244,Salad,Akino sushi,6,2,8.2,6.1,2.1
+245,Fries,Chipotle,6,2,1.5,1.4,0.1
+246,Pizza,Flip kitchen,8,2,9.3,7.9,1.4
+247,Parmesan cheese,Halal Guys,6,2,9.6,8.2,1.4
+248,Parmesan cheese,Flip kitchen,12,3,2.0,1.8,0.2
+249,Pork,Chipotle,7,2,3.4,1.8,1.6
+250,Tune,Flip kitchen,7,2,8.6,2.5,6.1
+251,Beans,Southside,9,3,8.9,7.2,1.7
+252,Beans,Globe,2,1,4.9,3.3,1.6
+253,Beef,Southside,2,1,7.2,1.9,5.3
+254,Drumsticks,Halal Guys,2,1,2.3,2.2,0.1
+255,Tune,Halal Guys,10,3,7.1,5.1,2.0
+256,Parmesan cheese,Flip kitchen,6,2,6.1,3.8,2.3
+257,Pork,Nue Vegan,6,2,5.3,3.9,1.4
+258,Beef,Halal Guys,12,3,3.0,2.6,0.4
+259,Beans,Akino sushi,7,2,4.7,2.1,2.6
+260,Parmesan cheese,Nue Vegan,11,3,8.4,3.8,4.6
+261,Tune,Chipotle,2,1,6.0,1.6,4.4
+262,Drumsticks,Blaze pizza,7,2,6.6,5.3,1.3
+263,Burger,Flip kitchen,12,3,5.6,1.4,4.2
+264,Pizza,Globe,10,3,8.6,3.7,4.9
+265,Parmesan cheese,Southside,7,2,8.1,6.8,1.3
+266,Drumsticks,Nue Vegan,12,3,1.9,0.4,1.5
+267,Parmesan cheese,Globe,7,2,1.6,1.6,0.0
+268,Beans,Blaze pizza,6,2,5.5,1.1,4.4
+269,Beans,Southside,11,3,8.0,0.5,7.5
+270,Burger,Akino sushi,3,1,8.1,6.6,1.5
+271,Drumsticks,Chick-fil-a,8,2,7.0,1.0,6.0
+272,Beans,Flip kitchen,7,2,1.4,0.5,0.9
+273,Fries,Globe,6,2,9.3,3.6,5.7
+274,Salad,Akino sushi,2,1,1.3,0.8,0.5
+275,Tune,Akino sushi,4,1,6.6,5.2,1.4
+276,Drumsticks,Globe,11,3,1.7,0.7,1.0
+277,Burger,Halal Guys,6,2,2.3,1.5,0.8
+278,Beans,Chick-fil-a,3,1,1.8,1.3,0.5
+279,Salad,Blaze pizza,3,1,5.1,4.1,1.0
+280,Tune,Akino sushi,9,3,6.2,5.4,0.8
+281,Fries,Akino sushi,12,3,7.4,2.6,4.8
+282,Salad,Southside,1,1,6.5,2.8,3.7
+283,Burger,Chick-fil-a,9,3,6.2,5.8,0.4
+284,Fries,Chipotle,3,1,3.2,0.9,2.3
+285,Salad,Chipotle,11,3,3.6,3.1,0.5
+286,Parmesan cheese,Southside,12,3,9.5,6.5,3.0
+287,Burger,Flip kitchen,8,2,5.4,5.3,0.1
+288,Salad,Ike's,2,1,7.8,7.0,0.8
+289,Chicken,Globe,4,1,5.3,3.5,1.8
+290,Beef,Nue Vegan,7,2,3.4,0.7,2.7
+291,Tune,Globe,3,1,7.2,1.1,6.1
+292,Parmesan cheese,Chick-fil-a,2,1,5.7,0.7,5.0
+293,Salad,Halal Guys,2,1,8.8,2.5,6.3
+294,Salad,Flip kitchen,3,1,9.0,6.3,2.7
+295,Chicken,Halal Guys,5,2,7.5,5.3,2.2
+296,Pork,Akino sushi,2,1,9.3,4.1,5.2
+297,Beans,Ike's,9,3,5.7,1.7,4.0
+298,Salad,Chick-fil-a,4,1,2.5,0.7,1.8
+299,Parmesan cheese,Ike's,11,3,9.3,0.5,8.8
+300,Burger,Chick-fil-a,5,2,6.3,6.0,0.3
+301,Burger,Blaze pizza,1,1,3.0,1.0,2.0
+302,Tune,Globe,8,2,2.6,2.0,0.6
+303,Chicken,Akino sushi,6,2,4.2,2.3,1.9
+304,Drumsticks,Southside,11,3,7.5,6.6,0.9
+305,Parmesan cheese,Akino sushi,9,3,2.2,0.9,1.3
+306,Fries,Chick-fil-a,6,2,7.9,5.6,2.3
+307,Salad,Blaze pizza,8,2,2.8,2.5,0.3
+308,Chicken,Blaze pizza,8,2,6.8,0.5,6.3
+309,Fries,Blaze pizza,2,1,6.1,0.3,5.8
+310,Tune,Chipotle,2,1,9.8,1.5,8.3
+311,Beans,Ike's,12,3,1.7,0.5,1.2
+312,Fries,Flip kitchen,5,2,7.7,1.2,6.5
+313,Drumsticks,Blaze pizza,2,1,8.8,2.3,6.5
+314,Pizza,Blaze pizza,4,1,6.5,6.1,0.4
+315,Pork,Chick-fil-a,5,2,4.3,1.6,2.7
+316,Burger,Nue Vegan,2,1,3.9,1.0,2.9
+317,Burger,Southside,4,1,5.1,5.1,0.0
+318,Burger,Akino sushi,2,1,1.9,0.9,1.0
+319,Beef,Halal Guys,11,3,8.8,4.3,4.5
+320,Pork,Flip kitchen,12,3,6.7,3.4,3.3
+321,Pizza,Halal Guys,8,2,9.6,4.2,5.4
+322,Burger,Halal Guys,3,1,2.8,0.8,2.0
+323,Fries,Globe,11,3,8.0,7.1,0.9
+324,Beef,Globe,5,2,1.6,0.4,1.2
+325,Beans,Globe,5,2,2.5,2.0,0.5
+326,Beans,Nue Vegan,11,3,5.5,3.9,1.6
+327,Chicken,Ike's,3,1,7.7,1.2,6.5
+328,Chicken,Flip kitchen,9,3,8.4,1.3,7.1
+329,Burger,Blaze pizza,3,1,8.2,5.5,2.7
+330,Tune,Chick-fil-a,2,1,2.0,1.0,1.0
+331,Drumsticks,Akino sushi,11,3,9.0,0.6,8.4
+332,Chicken,Nue Vegan,1,1,8.5,2.8,5.7
+333,Pork,Southside,1,1,3.7,3.4,0.3
+334,Parmesan cheese,Globe,10,3,2.8,2.3,0.5
+335,Pork,Nue Vegan,12,3,4.0,2.3,1.7
+336,Salad,Nue Vegan,1,1,5.4,2.0,3.4
+337,Pork,Nue Vegan,8,2,4.1,0.9,3.2
+338,Parmesan cheese,Globe,7,2,7.4,6.7,0.7
+339,Salad,Globe,3,1,1.7,1.2,0.5
+340,Beans,Southside,1,1,5.7,3.7,2.0
+341,Pork,Akino sushi,5,2,1.8,1.7,0.1
+342,Pork,Halal Guys,9,3,4.5,1.6,2.9
+343,Tune,Halal Guys,5,2,8.5,2.7,5.8
+344,Beans,Akino sushi,3,1,4.1,0.7,3.4
+345,Pizza,Ike's,2,1,4.2,3.8,0.4
+346,Drumsticks,Globe,5,2,8.5,2.3,6.2
+347,Beef,Blaze pizza,8,2,7.4,4.7,2.7
+348,Pork,Ike's,11,3,8.8,6.4,2.4
+349,Salad,Halal Guys,9,3,4.0,1.7,2.3
+350,Salad,Chick-fil-a,5,2,9.1,1.1,8.0
+351,Salad,Akino sushi,7,2,3.3,2.6,0.7
+352,Pizza,Nue Vegan,2,1,6.5,2.0,4.5
+353,Parmesan cheese,Blaze pizza,12,3,2.9,2.3,0.6
+354,Pizza,Flip kitchen,11,3,7.9,7.1,0.8
+355,Tune,Flip kitchen,8,2,3.0,0.7,2.3
+356,Beans,Chick-fil-a,6,2,4.0,0.9,3.1
+357,Burger,Flip kitchen,9,3,6.8,1.9,4.9
+358,Pizza,Globe,12,3,9.5,6.5,3.0
+359,Chicken,Ike's,2,1,8.5,7.5,1.0
+360,Pork,Chick-fil-a,1,1,5.6,5.3,0.3
+361,Tune,Flip kitchen,2,1,4.2,2.8,1.4
+362,Drumsticks,Ike's,4,1,4.0,2.6,1.4
+363,Beef,Blaze pizza,9,3,9.2,8.5,0.7
+364,Chicken,Akino sushi,2,1,8.6,1.4,7.2
+365,Beef,Chick-fil-a,11,3,7.7,3.3,4.4
+366,Parmesan cheese,Nue Vegan,1,1,3.9,0.7,3.2
+367,Burger,Blaze pizza,12,3,3.5,1.8,1.7
+368,Pork,Blaze pizza,8,2,8.3,8.1,0.2
+369,Drumsticks,Chick-fil-a,10,3,8.0,1.0,7.0
+370,Beans,Southside,10,3,7.6,6.6,1.0
+371,Pork,Southside,10,3,4.0,3.6,0.4
+372,Beans,Southside,7,2,9.6,3.2,6.4
+373,Drumsticks,Flip kitchen,9,3,7.4,2.9,4.5
+374,Fries,Southside,6,2,9.5,0.6,8.9
+375,Pizza,Flip kitchen,3,1,3.2,0.7,2.5
+376,Pork,Southside,6,2,4.8,4.2,0.6
+377,Parmesan cheese,Ike's,8,2,6.3,3.3,3.0
+378,Burger,Nue Vegan,3,1,9.8,3.6,6.2
+379,Pizza,Southside,8,2,6.7,6.3,0.4
+380,Burger,Southside,3,1,4.7,1.6,3.1
+381,Pizza,Akino sushi,5,2,2.4,0.2,2.2
+382,Tune,Ike's,10,3,3.1,1.7,1.4
+383,Tune,Southside,4,1,4.3,3.3,1.0
+384,Drumsticks,Nue Vegan,2,1,6.1,0.5,5.6
+385,Beef,Blaze pizza,8,2,1.4,1.0,0.4
+386,Drumsticks,Flip kitchen,10,3,4.3,1.7,2.6
+387,Tune,Globe,4,1,1.7,0.0,1.7
+388,Beans,Flip kitchen,5,2,6.5,4.7,1.8
+389,Tune,Flip kitchen,7,2,5.9,2.7,3.2
+390,Beef,Southside,9,3,9.0,6.2,2.8
+391,Burger,Southside,11,3,7.6,7.0,0.6
+392,Chicken,Chick-fil-a,5,2,4.6,0.4,4.2
+393,Fries,Nue Vegan,9,3,9.9,2.9,7.0
+394,Parmesan cheese,Chipotle,1,1,1.9,0.6,1.3
+395,Chicken,Nue Vegan,1,1,5.2,3.2,2.0
+396,Beans,Akino sushi,4,1,9.0,8.2,0.8
+397,Beef,Chick-fil-a,7,2,6.6,6.2,0.4
+398,Tune,Flip kitchen,3,1,2.7,0.6,2.1
+399,Beef,Blaze pizza,5,2,2.7,0.8,1.9
+400,Pork,Akino sushi,1,1,7.1,0.4,6.7
+401,Fries,Flip kitchen,10,3,6.7,1.4,5.3
+402,Salad,Ike's,1,1,1.6,1.3,0.3
+403,Tune,Ike's,3,1,5.8,2.5,3.3
+404,Burger,Southside,2,1,7.4,4.9,2.5
+405,Beef,Nue Vegan,4,1,4.5,1.0,3.5
+406,Tune,Nue Vegan,1,1,3.8,3.7,0.1
+407,Chicken,Nue Vegan,2,1,7.5,2.2,5.3
+408,Tune,Blaze pizza,10,3,10.0,0.9,9.1
+409,Beans,Ike's,3,1,4.9,2.0,2.9
+410,Pork,Chipotle,5,2,8.9,3.9,5.0
+411,Salad,Globe,2,1,5.0,3.2,1.8
+412,Fries,Chipotle,3,1,7.9,1.5,6.4
+413,Parmesan cheese,Blaze pizza,6,2,6.0,5.6,0.4
+414,Parmesan cheese,Globe,8,2,6.5,4.5,2.0
+415,Beef,Southside,7,2,9.7,6.0,3.7
+416,Beans,Southside,3,1,6.4,5.7,0.7
+417,Salad,Flip kitchen,8,2,8.0,2.3,5.7
+418,Chicken,Nue Vegan,4,1,5.5,2.8,2.7
+419,Beans,Southside,12,3,9.7,1.9,7.8
+420,Drumsticks,Flip kitchen,3,1,2.3,0.5,1.8
+421,Fries,Chipotle,3,1,9.9,0.9,9.0
+422,Tune,Flip kitchen,2,1,8.0,5.6,2.4
+423,Pork,Southside,10,3,6.7,2.5,4.2
+424,Burger,Akino sushi,3,1,6.5,1.8,4.7
+425,Chicken,Chick-fil-a,8,2,1.2,0.8,0.4
+426,Tune,Halal Guys,6,2,2.8,2.6,0.2
+427,Drumsticks,Flip kitchen,11,3,7.8,2.2,5.6
+428,Beans,Ike's,11,3,3.4,1.7,1.7
+429,Pork,Globe,5,2,7.9,1.6,6.3
+430,Pizza,Chipotle,9,3,9.1,6.3,2.8
+431,Pork,Ike's,5,2,6.1,0.7,5.4
+432,Beef,Globe,5,2,9.1,6.5,2.6
+433,Tune,Flip kitchen,1,1,9.0,7.3,1.7
+434,Drumsticks,Chick-fil-a,3,1,8.7,1.9,6.8
+435,Beans,Chipotle,4,1,5.5,2.6,2.9
+436,Pork,Flip kitchen,10,3,3.4,1.6,1.8
+437,Drumsticks,Ike's,7,2,3.7,2.7,1.0
+438,Chicken,Halal Guys,7,2,7.1,6.8,0.3
+439,Parmesan cheese,Halal Guys,9,3,8.2,3.6,4.6
+440,Beef,Southside,10,3,9.6,7.8,1.8
+441,Beans,Globe,4,1,6.2,2.8,3.4
+442,Pizza,Chick-fil-a,8,2,7.1,2.2,4.9
+443,Burger,Flip kitchen,8,2,7.9,5.9,2.0
+444,Parmesan cheese,Chick-fil-a,6,2,2.0,1.4,0.6
+445,Burger,Ike's,11,3,8.7,3.3,5.4
+446,Drumsticks,Blaze pizza,6,2,5.6,0.9,4.7
+447,Beans,Halal Guys,11,3,8.1,0.4,7.7
+448,Drumsticks,Globe,11,3,2.5,2.2,0.3
+449,Parmesan cheese,Globe,9,3,2.7,0.9,1.8
+450,Beef,Chick-fil-a,6,2,1.1,0.1,1.0
+451,Chicken,Chick-fil-a,6,2,4.4,0.4,4.0
+452,Salad,Chipotle,8,2,3.9,3.8,0.1
+453,Salad,Globe,11,3,10.0,2.2,7.8
+454,Drumsticks,Globe,6,2,9.5,7.6,1.9
+455,Drumsticks,Akino sushi,1,1,5.0,3.6,1.4
+456,Chicken,Flip kitchen,4,1,1.0,0.2,0.8
+457,Burger,Southside,12,3,6.4,1.5,4.9
+458,Tune,Halal Guys,12,3,7.7,2.3,5.4
+459,Chicken,Halal Guys,8,2,5.9,1.5,4.4
+460,Pork,Chipotle,8,2,8.7,2.9,5.8
+461,Pork,Globe,2,1,4.1,4.0,0.1
+462,Chicken,Ike's,5,2,6.6,0.9,5.7
+463,Pork,Chipotle,8,2,2.3,1.0,1.3
+464,Beans,Flip kitchen,9,3,3.4,2.1,1.3
+465,Pizza,Nue Vegan,2,1,1.1,0.9,0.2
+466,Pork,Nue Vegan,7,2,1.5,1.0,0.5
+467,Pizza,Ike's,7,2,3.7,0.8,2.9
+468,Beef,Flip kitchen,1,1,6.9,2.4,4.5
+469,Beef,Akino sushi,6,2,6.7,1.3,5.4
+470,Parmesan cheese,Flip kitchen,7,2,2.9,2.4,0.5
+471,Fries,Nue Vegan,1,1,7.4,1.8,5.6
+472,Fries,Chipotle,3,1,1.8,1.6,0.2
+473,Pork,Southside,6,2,6.6,1.9,4.7
+474,Fries,Blaze pizza,12,3,7.4,3.0,4.4
+475,Pizza,Halal Guys,2,1,4.8,1.3,3.5
+476,Fries,Chipotle,3,1,9.2,3.5,5.7
+477,Salad,Halal Guys,5,2,4.0,1.4,2.6
+478,Drumsticks,Flip kitchen,8,2,3.9,0.5,3.4
+479,Salad,Ike's,7,2,7.4,1.0,6.4
+480,Salad,Chick-fil-a,1,1,4.0,2.6,1.4
+481,Salad,Flip kitchen,9,3,6.4,0.9,5.5
+482,Beans,Chipotle,1,1,4.1,3.1,1.0
+483,Salad,Halal Guys,3,1,3.2,1.8,1.4
+484,Pork,Nue Vegan,10,3,1.8,0.6,1.2
+485,Beans,Akino sushi,5,2,4.1,0.3,3.8
+486,Beans,Chick-fil-a,1,1,8.8,2.1,6.7
+487,Tune,Nue Vegan,4,1,1.6,0.2,1.4
+488,Fries,Blaze pizza,3,1,4.8,1.9,2.9
+489,Beans,Globe,3,1,6.7,1.3,5.4
+490,Drumsticks,Chipotle,6,2,3.2,1.4,1.8
+491,Fries,Blaze pizza,2,1,9.6,6.6,3.0
+492,Fries,Halal Guys,11,3,2.0,1.1,0.9
+493,Beef,Halal Guys,3,1,1.7,0.0,1.7
+494,Beef,Blaze pizza,2,1,8.6,5.5,3.1
+495,Parmesan cheese,Nue Vegan,9,3,7.5,6.4,1.1
+496,Burger,Globe,9,3,2.3,2.0,0.3
+497,Salad,Globe,11,3,6.9,3.7,3.2
+498,Chicken,Chipotle,9,3,9.9,3.9,6.0
+499,Pork,Southside,10,3,9.1,5.9,3.2
+500,Beans,Nue Vegan,1,1,9.7,3.7,6.0
+501,Pizza,Southside,10,3,8.9,5.2,3.7
+502,Beef,Halal Guys,3,1,9.2,9.1,0.1
+503,Pizza,Ike's,1,1,5.3,4.3,1.0
+504,Burger,Ike's,3,1,1.7,1.2,0.5
+505,Pizza,Nue Vegan,4,1,8.0,1.3,6.7
+506,Parmesan cheese,Globe,11,3,6.1,1.7,4.4
+507,Beef,Chick-fil-a,6,2,7.8,2.4,5.4
+508,Salad,Akino sushi,12,3,4.4,3.9,0.5
+509,Beans,Flip kitchen,10,3,4.7,3.4,1.3
+510,Chicken,Flip kitchen,4,1,3.1,1.2,1.9
+511,Beef,Globe,3,1,3.6,0.7,2.9
+512,Fries,Southside,11,3,2.7,1.5,1.2
+513,Parmesan cheese,Globe,9,3,9.6,3.9,5.7
+514,Pork,Southside,10,3,5.7,0.9,4.8
+515,Parmesan cheese,Chick-fil-a,9,3,4.2,3.4,0.8
+516,Pork,Ike's,6,2,7.4,1.0,6.4
+517,Drumsticks,Blaze pizza,7,2,5.7,1.2,4.5
+518,Tune,Blaze pizza,7,2,8.3,6.5,1.8
+519,Beans,Halal Guys,2,1,3.9,0.3,3.6
+520,Chicken,Globe,2,1,6.6,2.0,4.6
+521,Chicken,Halal Guys,8,2,4.4,2.6,1.8
+522,Burger,Flip kitchen,9,3,6.4,1.2,5.2
+523,Chicken,Halal Guys,8,2,9.2,8.1,1.1
+524,Pork,Chick-fil-a,7,2,5.4,0.1,5.3
+525,Beef,Flip kitchen,5,2,1.7,1.2,0.5
+526,Fries,Ike's,7,2,3.8,3.1,0.7
+527,Drumsticks,Nue Vegan,7,2,9.8,3.2,6.6
+528,Fries,Blaze pizza,6,2,5.6,4.4,1.2
+529,Fries,Chick-fil-a,5,2,2.8,1.7,1.1
+530,Tune,Nue Vegan,9,3,9.0,1.4,7.6
+531,Pork,Ike's,1,1,1.9,1.5,0.4
+532,Salad,Nue Vegan,9,3,3.8,1.9,1.9
+533,Beans,Globe,9,3,8.4,2.9,5.5
+534,Beef,Akino sushi,11,3,10.0,4.9,5.1
+535,Drumsticks,Blaze pizza,8,2,2.2,2.1,0.1
+536,Beef,Ike's,2,1,6.1,5.7,0.4
+537,Chicken,Akino sushi,7,2,2.6,1.9,0.7
+538,Parmesan cheese,Chick-fil-a,5,2,3.0,2.6,0.4
+539,Burger,Nue Vegan,4,1,6.9,0.3,6.6
+540,Beef,Akino sushi,12,3,4.9,1.1,3.8
+541,Burger,Blaze pizza,9,3,6.4,4.9,1.5
+542,Drumsticks,Flip kitchen,10,3,9.9,8.3,1.6
+543,Beans,Nue Vegan,3,1,9.3,8.3,1.0
+544,Chicken,Chick-fil-a,9,3,2.3,1.3,1.0
+545,Tune,Flip kitchen,1,1,6.5,1.9,4.6
+546,Parmesan cheese,Southside,10,3,8.1,0.7,7.4
+547,Pork,Akino sushi,7,2,5.6,1.1,4.5
+548,Beans,Akino sushi,7,2,8.4,4.9,3.5
+549,Parmesan cheese,Nue Vegan,8,2,1.5,0.1,1.4
+550,Tune,Globe,11,3,9.8,1.8,8.0
+551,Beef,Flip kitchen,3,1,9.7,2.9,6.8
+552,Beans,Ike's,1,1,4.3,0.7,3.6
+553,Burger,Southside,9,3,4.3,1.6,2.7
+554,Burger,Globe,9,3,8.3,3.1,5.2
+555,Burger,Flip kitchen,1,1,6.6,6.4,0.2
+556,Burger,Halal Guys,4,1,7.2,0.4,6.8
+557,Burger,Chick-fil-a,3,1,7.8,1.4,6.4
+558,Parmesan cheese,Globe,12,3,6.3,6.3,0.0
+559,Beef,Ike's,7,2,7.5,1.7,5.8
+560,Pork,Southside,5,2,7.7,5.8,1.9
+561,Burger,Ike's,3,1,3.9,3.4,0.5
+562,Burger,Ike's,3,1,9.0,4.1,4.9
+563,Parmesan cheese,Halal Guys,5,2,8.4,6.2,2.2
+564,Fries,Flip kitchen,4,1,3.8,2.9,0.9
+565,Drumsticks,Nue Vegan,9,3,4.0,1.0,3.0
+566,Beef,Chick-fil-a,9,3,2.9,1.2,1.7
+567,Pork,Globe,6,2,5.9,5.7,0.2
+568,Pizza,Akino sushi,8,2,4.5,0.9,3.6
+569,Pork,Akino sushi,10,3,1.7,0.0,1.7
+570,Parmesan cheese,Chipotle,6,2,2.8,2.8,0.0
+571,Parmesan cheese,Flip kitchen,9,3,3.3,0.9,2.4
+572,Beef,Southside,9,3,6.8,2.4,4.4
+573,Pork,Nue Vegan,1,1,4.0,0.7,3.3
+574,Chicken,Flip kitchen,9,3,3.2,1.0,2.2
+575,Tune,Chipotle,2,1,2.2,0.5,1.7
+576,Parmesan cheese,Akino sushi,5,2,8.0,4.2,3.8
+577,Drumsticks,Globe,12,3,2.2,1.5,0.7
+578,Pork,Chipotle,2,1,5.0,3.6,1.4
+579,Pizza,Halal Guys,5,2,9.2,3.6,5.6
+580,Fries,Chick-fil-a,10,3,1.2,0.7,0.5
+581,Tune,Flip kitchen,6,2,2.8,0.4,2.4
+582,Fries,Flip kitchen,3,1,8.3,1.3,7.0
+583,Pizza,Nue Vegan,3,1,6.1,5.3,0.8
+584,Salad,Globe,4,1,7.0,6.4,0.6
+585,Tune,Southside,3,1,1.4,1.2,0.2
+586,Burger,Nue Vegan,12,3,5.6,1.4,4.2
+587,Beans,Halal Guys,11,3,4.2,3.2,1.0
+588,Drumsticks,Halal Guys,6,2,9.6,2.7,6.9
+589,Chicken,Flip kitchen,9,3,7.3,3.4,3.9
+590,Tune,Chick-fil-a,10,3,2.4,1.4,1.0
+591,Fries,Flip kitchen,5,2,8.8,4.9,3.9
+592,Parmesan cheese,Chipotle,4,1,7.0,3.2,3.8
+593,Parmesan cheese,Ike's,1,1,6.9,5.4,1.5
+594,Parmesan cheese,Southside,11,3,3.7,3.7,0.0
+595,Pork,Halal Guys,6,2,7.4,3.9,3.5
+596,Salad,Globe,1,1,2.6,1.2,1.4
+597,Pork,Ike's,8,2,1.5,1.4,0.1
+598,Fries,Globe,5,2,8.9,3.2,5.7
+599,Fries,Chipotle,1,1,8.7,3.2,5.5
+600,Beans,Chipotle,9,3,6.6,2.3,4.3
+601,Tune,Halal Guys,10,3,4.9,3.3,1.6
+602,Parmesan cheese,Southside,7,2,3.4,3.2,0.2
+603,Tune,Chick-fil-a,10,3,8.9,0.4,8.5
+604,Salad,Flip kitchen,1,1,1.6,0.0,1.6
+605,Salad,Nue Vegan,12,3,4.5,1.1,3.4
+606,Tune,Akino sushi,8,2,6.7,0.4,6.3
+607,Parmesan cheese,Nue Vegan,2,1,2.0,0.5,1.5
+608,Fries,Chick-fil-a,5,2,3.0,1.6,1.4
+609,Salad,Akino sushi,9,3,2.2,1.4,0.8
+610,Pizza,Ike's,9,3,2.8,0.1,2.7
+611,Chicken,Nue Vegan,1,1,3.4,1.4,2.0
+612,Pork,Nue Vegan,2,1,9.1,6.5,2.6
+613,Beans,Halal Guys,6,2,9.3,0.3,9.0
+614,Drumsticks,Akino sushi,10,3,6.3,2.6,3.7
+615,Beef,Ike's,6,2,3.5,0.7,2.8
+616,Beans,Ike's,1,1,6.9,5.8,1.1
+617,Salad,Akino sushi,6,2,5.3,1.0,4.3
+618,Fries,Globe,10,3,6.5,2.2,4.3
+619,Pork,Halal Guys,5,2,9.7,1.1,8.6
+620,Salad,Blaze pizza,2,1,6.9,1.5,5.4
+621,Parmesan cheese,Blaze pizza,2,1,5.3,3.0,2.3
+622,Pork,Ike's,2,1,9.4,2.8,6.6
+623,Beef,Akino sushi,6,2,2.5,1.1,1.4
+624,Beef,Globe,11,3,9.3,4.4,4.9
+625,Pork,Blaze pizza,10,3,6.2,3.5,2.7
+626,Chicken,Nue Vegan,12,3,6.9,0.9,6.0
+627,Parmesan cheese,Nue Vegan,1,1,3.2,0.6,2.6
+628,Salad,Globe,8,2,8.9,6.3,2.6
+629,Burger,Ike's,3,1,9.2,8.3,0.9
+630,Burger,Globe,6,2,2.8,1.7,1.1
+631,Parmesan cheese,Nue Vegan,10,3,4.3,1.5,2.8
+632,Drumsticks,Blaze pizza,7,2,8.3,4.6,3.7
+633,Beans,Ike's,6,2,9.0,7.7,1.3
+634,Pork,Flip kitchen,9,3,2.5,1.1,1.4
+635,Tune,Nue Vegan,5,2,6.0,2.3,3.7
+636,Pizza,Halal Guys,12,3,3.2,0.9,2.3
+637,Chicken,Blaze pizza,12,3,9.8,8.7,1.1
+638,Salad,Southside,4,1,4.0,1.3,2.7
+639,Drumsticks,Chick-fil-a,9,3,6.0,2.2,3.8
+640,Pizza,Akino sushi,12,3,2.8,2.1,0.7
+641,Pork,Nue Vegan,10,3,3.7,0.8,2.9
+642,Pork,Chipotle,6,2,3.3,0.2,3.1
+643,Chicken,Akino sushi,2,1,2.5,0.5,2.0
+644,Fries,Globe,9,3,8.4,6.0,2.4
+645,Chicken,Halal Guys,11,3,4.0,0.2,3.8
+646,Pork,Blaze pizza,1,1,6.7,5.7,1.0
+647,Parmesan cheese,Chick-fil-a,7,2,9.5,2.6,6.9
+648,Burger,Nue Vegan,10,3,1.7,0.7,1.0
+649,Burger,Globe,7,2,9.4,4.3,5.1
+650,Burger,Flip kitchen,5,2,8.4,0.9,7.5
+651,Drumsticks,Globe,11,3,8.5,2.9,5.6
+652,Fries,Globe,10,3,3.8,2.7,1.1
+653,Pork,Southside,6,2,7.0,5.7,1.3
+654,Beef,Akino sushi,12,3,1.4,1.3,0.1
+655,Fries,Flip kitchen,5,2,9.1,6.1,3.0
+656,Beans,Akino sushi,11,3,9.4,3.8,5.6
+657,Salad,Ike's,7,2,2.9,0.6,2.3
+658,Beans,Chick-fil-a,1,1,1.2,1.0,0.2
+659,Chicken,Halal Guys,12,3,5.2,4.1,1.1
+660,Salad,Flip kitchen,5,2,3.3,2.0,1.3
+661,Salad,Flip kitchen,1,1,2.2,1.5,0.7
+662,Parmesan cheese,Chick-fil-a,3,1,3.3,1.1,2.2
+663,Pizza,Halal Guys,6,2,9.0,0.9,8.1
+664,Salad,Ike's,6,2,1.3,1.1,0.2
+665,Beans,Blaze pizza,9,3,5.4,3.1,2.3
+666,Fries,Halal Guys,1,1,6.1,1.7,4.4
+667,Tune,Chick-fil-a,7,2,4.9,2.9,2.0
+668,Fries,Southside,3,1,3.4,1.4,2.0
+669,Beef,Ike's,10,3,1.8,0.6,1.2
+670,Fries,Globe,11,3,9.4,2.4,7.0
+671,Tune,Chick-fil-a,2,1,2.0,1.2,0.8
+672,Beef,Chipotle,8,2,5.3,0.7,4.6
+673,Chicken,Chick-fil-a,6,2,3.2,1.0,2.2
+674,Burger,Globe,9,3,7.3,4.6,2.7
+675,Beef,Flip kitchen,2,1,3.9,1.1,2.8
+676,Chicken,Globe,10,3,3.9,2.5,1.4
+677,Beans,Blaze pizza,1,1,8.7,3.3,5.4
+678,Beans,Flip kitchen,3,1,5.4,0.0,5.4
+679,Chicken,Blaze pizza,9,3,4.0,2.3,1.7
+680,Burger,Globe,1,1,2.3,0.8,1.5
+681,Beef,Halal Guys,2,1,8.9,5.9,3.0
+682,Beans,Southside,3,1,7.7,5.5,2.2
+683,Chicken,Halal Guys,8,2,1.8,0.2,1.6
+684,Pork,Ike's,4,1,6.0,5.3,0.7
+685,Salad,Blaze pizza,7,2,10.0,3.8,6.2
+686,Burger,Chick-fil-a,1,1,1.8,1.7,0.1
+687,Beans,Chipotle,3,1,3.8,2.5,1.3
+688,Tune,Flip kitchen,4,1,4.7,0.6,4.1
+689,Fries,Blaze pizza,1,1,2.4,2.2,0.2
+690,Beans,Ike's,5,2,3.6,1.4,2.2
+691,Chicken,Flip kitchen,5,2,8.5,3.7,4.8
+692,Parmesan cheese,Halal Guys,2,1,8.3,4.8,3.5
+693,Pork,Chipotle,10,3,1.5,0.4,1.1
+694,Pork,Blaze pizza,11,3,1.2,0.7,0.5
+695,Pork,Globe,10,3,2.1,2.1,0.0
+696,Parmesan cheese,Halal Guys,4,1,5.5,1.4,4.1
+697,Fries,Nue Vegan,6,2,8.4,0.9,7.5
+698,Parmesan cheese,Chipotle,8,2,8.1,7.9,0.2
+699,Beans,Globe,11,3,1.8,1.6,0.2
+700,Burger,Halal Guys,2,1,4.1,2.5,1.6
+701,Burger,Chipotle,9,3,5.8,2.1,3.7
+702,Beans,Akino sushi,4,1,5.4,3.8,1.6
+703,Beef,Ike's,5,2,6.6,2.9,3.7
+704,Parmesan cheese,Globe,7,2,4.5,2.8,1.7
+705,Burger,Chick-fil-a,11,3,8.2,5.7,2.5
+706,Tune,Blaze pizza,2,1,7.3,4.6,2.7
+707,Fries,Globe,3,1,8.4,1.5,6.9
+708,Chicken,Nue Vegan,9,3,1.2,0.6,0.6
+709,Pizza,Globe,12,3,4.6,4.0,0.6
+710,Parmesan cheese,Blaze pizza,9,3,8.0,0.3,7.7
+711,Parmesan cheese,Chipotle,6,2,9.0,7.9,1.1
+712,Tune,Globe,3,1,9.2,8.9,0.3
+713,Fries,Chipotle,1,1,7.7,3.8,3.9
+714,Beef,Blaze pizza,11,3,8.7,6.1,2.6
+715,Chicken,Akino sushi,5,2,5.6,5.6,0.0
+716,Beans,Ike's,11,3,2.4,0.2,2.2
+717,Drumsticks,Blaze pizza,10,3,4.4,0.7,3.7
+718,Chicken,Chick-fil-a,4,1,1.4,1.3,0.1
+719,Drumsticks,Chick-fil-a,9,3,8.2,5.3,2.9
+720,Parmesan cheese,Nue Vegan,3,1,3.4,3.1,0.3
+721,Tune,Flip kitchen,1,1,4.2,4.0,0.2
+722,Burger,Flip kitchen,3,1,2.2,0.5,1.7
+723,Drumsticks,Nue Vegan,5,2,9.9,8.8,1.1
+724,Pizza,Blaze pizza,3,1,4.1,0.7,3.4
+725,Fries,Flip kitchen,12,3,5.9,4.5,1.4
+726,Tune,Globe,2,1,4.6,4.4,0.2
+727,Beef,Southside,8,2,9.4,0.8,8.6
+728,Beans,Ike's,6,2,3.6,2.6,1.0
+729,Salad,Chipotle,4,1,2.7,0.3,2.4
+730,Parmesan cheese,Chick-fil-a,11,3,1.4,1.2,0.2
+731,Fries,Halal Guys,4,1,3.2,0.3,2.9
+732,Salad,Halal Guys,7,2,7.6,0.5,7.1
+733,Drumsticks,Ike's,5,2,2.4,2.2,0.2
+734,Pizza,Flip kitchen,5,2,6.9,3.3,3.6
+735,Burger,Flip kitchen,11,3,6.5,2.2,4.3
+736,Tune,Flip kitchen,11,3,9.3,4.1,5.2
+737,Beef,Chick-fil-a,2,1,4.4,4.2,0.2
+738,Salad,Flip kitchen,3,1,8.7,2.5,6.2
+739,Pizza,Halal Guys,6,2,7.8,2.6,5.2
+740,Burger,Chipotle,10,3,1.4,0.5,0.9
+741,Pizza,Flip kitchen,5,2,6.5,1.4,5.1
+742,Drumsticks,Halal Guys,10,3,8.9,0.7,8.2
+743,Fries,Blaze pizza,8,2,1.3,0.1,1.2
+744,Fries,Globe,1,1,9.1,4.3,4.8
+745,Drumsticks,Flip kitchen,10,3,6.6,3.2,3.4
+746,Burger,Flip kitchen,9,3,2.0,1.0,1.0
+747,Beef,Ike's,7,2,7.3,4.7,2.6
+748,Parmesan cheese,Southside,10,3,1.7,1.4,0.3
+749,Chicken,Chick-fil-a,6,2,1.3,1.0,0.3
+750,Beef,Nue Vegan,10,3,8.7,6.4,2.3
+751,Tune,Halal Guys,6,2,6.3,2.5,3.8
+752,Burger,Nue Vegan,9,3,9.3,3.7,5.6
+753,Chicken,Nue Vegan,6,2,3.4,2.1,1.3
+754,Burger,Chick-fil-a,8,2,2.0,1.9,0.1
+755,Beans,Blaze pizza,3,1,1.6,0.2,1.4
+756,Fries,Blaze pizza,10,3,6.9,0.9,6.0
+757,Chicken,Globe,1,1,8.5,2.7,5.8
+758,Beans,Southside,9,3,3.4,1.8,1.6
+759,Tune,Flip kitchen,3,1,5.1,3.4,1.7
+760,Fries,Chick-fil-a,2,1,1.6,1.2,0.4
+761,Parmesan cheese,Blaze pizza,12,3,4.3,2.8,1.5
+762,Beans,Chick-fil-a,2,1,5.9,3.3,2.6
+763,Parmesan cheese,Akino sushi,7,2,4.5,2.1,2.4
+764,Chicken,Ike's,6,2,6.9,1.1,5.8
+765,Drumsticks,Flip kitchen,5,2,8.3,1.8,6.5
+766,Burger,Chipotle,8,2,9.8,4.3,5.5
+767,Burger,Nue Vegan,9,3,6.1,5.5,0.6
+768,Fries,Halal Guys,1,1,1.5,0.4,1.1
+769,Salad,Nue Vegan,2,1,6.4,2.3,4.1
+770,Burger,Blaze pizza,12,3,7.7,4.8,2.9
+771,Salad,Chick-fil-a,10,3,8.9,4.4,4.5
+772,Beef,Nue Vegan,12,3,2.5,0.7,1.8
+773,Pizza,Globe,3,1,8.6,2.0,6.6
+774,Beef,Blaze pizza,9,3,2.1,1.8,0.3
+775,Beef,Chick-fil-a,6,2,6.8,5.9,0.9
+776,Parmesan cheese,Chipotle,6,2,4.5,0.7,3.8
+777,Beef,Globe,3,1,6.4,0.9,5.5
+778,Beef,Halal Guys,5,2,7.5,0.1,7.4
+779,Tune,Nue Vegan,12,3,6.9,6.5,0.4
+780,Beef,Chipotle,11,3,3.7,1.5,2.2
+781,Pork,Blaze pizza,6,2,8.4,6.8,1.6
+782,Beans,Akino sushi,8,2,10.0,9.4,0.6
+783,Fries,Akino sushi,9,3,7.7,3.7,4.0
+784,Fries,Nue Vegan,7,2,7.9,1.6,6.3
+785,Parmesan cheese,Halal Guys,9,3,1.6,1.2,0.4
+786,Beans,Ike's,6,2,5.7,2.0,3.7
+787,Tune,Globe,3,1,2.0,1.2,0.8
+788,Pork,Southside,6,2,9.9,1.6,8.3
+789,Drumsticks,Nue Vegan,11,3,7.1,0.4,6.7
+790,Pizza,Ike's,2,1,1.7,0.2,1.5
+791,Beans,Flip kitchen,4,1,5.7,3.7,2.0
+792,Pizza,Southside,5,2,5.0,0.7,4.3
+793,Beef,Blaze pizza,3,1,5.6,3.9,1.7
+794,Salad,Ike's,2,1,6.5,6.0,0.5
+795,Tune,Globe,12,3,5.8,1.9,3.9
+796,Fries,Halal Guys,2,1,5.6,2.5,3.1
+797,Drumsticks,Blaze pizza,1,1,5.5,0.5,5.0
+798,Burger,Chick-fil-a,12,3,5.2,5.0,0.2
+799,Salad,Blaze pizza,11,3,4.7,1.9,2.8
+800,Burger,Globe,3,1,4.6,4.2,0.4
+801,Beans,Nue Vegan,10,3,6.3,2.2,4.1
+802,Chicken,Chipotle,2,1,9.0,4.3,4.7
+803,Tune,Flip kitchen,10,3,5.1,1.1,4.0
+804,Beans,Globe,2,1,1.5,1.1,0.4
+805,Parmesan cheese,Blaze pizza,12,3,5.1,2.5,2.6
+806,Salad,Ike's,4,1,8.5,7.7,0.8
+807,Tune,Chick-fil-a,3,1,9.2,7.3,1.9
+808,Beans,Nue Vegan,1,1,9.4,8.2,1.2
+809,Pork,Blaze pizza,9,3,3.5,0.8,2.7
+810,Beans,Chipotle,6,2,3.0,0.9,2.1
+811,Beans,Halal Guys,2,1,7.7,0.7,7.0
+812,Pizza,Chipotle,4,1,1.7,1.1,0.6
+813,Burger,Akino sushi,4,1,8.3,6.1,2.2
+814,Beef,Globe,8,2,4.7,1.2,3.5
+815,Tune,Southside,3,1,6.6,3.9,2.7
+816,Burger,Globe,1,1,8.2,2.9,5.3
+817,Parmesan cheese,Halal Guys,3,1,6.2,2.0,4.2
+818,Beef,Chick-fil-a,7,2,1.5,1.4,0.1
+819,Drumsticks,Southside,3,1,1.4,1.0,0.4
+820,Beans,Blaze pizza,8,2,3.5,2.5,1.0
+821,Salad,Chick-fil-a,9,3,6.5,3.8,2.7
+822,Fries,Southside,7,2,3.4,0.9,2.5
+823,Drumsticks,Flip kitchen,12,3,4.3,1.8,2.5
+824,Pizza,Southside,7,2,7.4,1.4,6.0
+825,Burger,Flip kitchen,1,1,7.5,1.4,6.1
+826,Beef,Ike's,5,2,8.7,3.5,5.2
+827,Fries,Southside,12,3,2.3,1.6,0.7
+828,Burger,Flip kitchen,4,1,4.3,0.8,3.5
+829,Tune,Akino sushi,3,1,3.8,3.2,0.6
+830,Tune,Halal Guys,2,1,9.0,1.1,7.9
+831,Tune,Flip kitchen,2,1,3.8,3.2,0.6
+832,Pork,Globe,1,1,6.9,4.3,2.6
+833,Chicken,Globe,1,1,5.3,5.2,0.1
+834,Pork,Blaze pizza,7,2,6.0,1.2,4.8
+835,Fries,Halal Guys,2,1,6.1,2.6,3.5
+836,Beans,Chipotle,11,3,3.8,3.2,0.6
+837,Salad,Flip kitchen,1,1,5.8,1.0,4.8
+838,Parmesan cheese,Akino sushi,6,2,3.1,3.1,0.0
+839,Drumsticks,Flip kitchen,9,3,7.0,6.2,0.8
+840,Salad,Chick-fil-a,6,2,3.6,2.4,1.2
+841,Chicken,Globe,1,1,5.0,0.9,4.1
+842,Beans,Halal Guys,5,2,6.8,2.4,4.4
+843,Salad,Chipotle,5,2,8.6,0.7,7.9
+844,Chicken,Chipotle,12,3,9.3,0.0,9.3
+845,Pork,Southside,1,1,9.2,5.1,4.1
+846,Chicken,Globe,4,1,1.2,0.1,1.1
+847,Pizza,Halal Guys,12,3,3.1,0.3,2.8
+848,Beef,Halal Guys,10,3,4.2,1.1,3.1
+849,Pork,Southside,11,3,9.6,6.1,3.5
+850,Chicken,Halal Guys,3,1,3.4,2.4,1.0
+851,Tune,Flip kitchen,8,2,2.2,2.1,0.1
+852,Beans,Globe,4,1,7.1,4.2,2.9
+853,Pork,Nue Vegan,12,3,8.1,7.1,1.0
+854,Tune,Flip kitchen,2,1,2.4,0.1,2.3
+855,Pork,Halal Guys,5,2,8.5,0.5,8.0
+856,Fries,Southside,2,1,6.4,6.3,0.1
+857,Burger,Chipotle,2,1,5.9,1.1,4.8
+858,Beef,Chick-fil-a,1,1,8.0,8.0,0.0
+859,Chicken,Akino sushi,11,3,4.9,0.1,4.8
+860,Salad,Ike's,9,3,5.5,5.2,0.3
+861,Tune,Flip kitchen,3,1,3.0,2.6,0.4
+862,Salad,Chipotle,2,1,1.4,1.1,0.3
+863,Beef,Halal Guys,3,1,5.8,4.6,1.2
+864,Drumsticks,Ike's,9,3,3.3,1.3,2.0
+865,Pizza,Chipotle,8,2,4.0,3.2,0.8
+866,Beef,Nue Vegan,5,2,8.1,6.7,1.4
+867,Parmesan cheese,Blaze pizza,10,3,8.2,6.9,1.3
+868,Chicken,Blaze pizza,11,3,1.5,0.4,1.1
+869,Burger,Blaze pizza,2,1,10.0,5.2,4.8
+870,Drumsticks,Blaze pizza,4,1,4.1,1.5,2.6
+871,Pork,Chipotle,4,1,7.0,3.7,3.3
+872,Pork,Southside,2,1,4.4,3.3,1.1
+873,Pizza,Akino sushi,9,3,4.0,1.9,2.1
+874,Beef,Nue Vegan,10,3,5.6,4.0,1.6
+875,Tune,Nue Vegan,11,3,1.3,0.2,1.1
+876,Fries,Akino sushi,5,2,8.5,8.1,0.4
+877,Pork,Akino sushi,7,2,1.5,0.7,0.8
+878,Fries,Blaze pizza,8,2,2.1,0.9,1.2
+879,Beef,Akino sushi,6,2,6.0,0.9,5.1
+880,Fries,Globe,8,2,6.0,3.6,2.4
+881,Beef,Chick-fil-a,2,1,3.7,1.8,1.9
+882,Pizza,Blaze pizza,5,2,3.5,1.5,2.0
+883,Salad,Akino sushi,6,2,2.4,0.0,2.4
+884,Salad,Globe,2,1,2.3,0.6,1.7
+885,Salad,Chick-fil-a,3,1,6.6,6.4,0.2
+886,Beef,Chipotle,6,2,7.0,4.0,3.0
+887,Tune,Flip kitchen,2,1,8.0,6.0,2.0
+888,Tune,Ike's,5,2,7.2,2.6,4.6
+889,Tune,Southside,8,2,4.5,1.7,2.8
+890,Drumsticks,Halal Guys,8,2,2.2,1.0,1.2
+891,Drumsticks,Ike's,12,3,8.1,4.3,3.8
+892,Parmesan cheese,Blaze pizza,6,2,4.4,2.5,1.9
+893,Beans,Chick-fil-a,4,1,9.6,2.4,7.2
+894,Beans,Akino sushi,8,2,3.3,0.4,2.9
+895,Beans,Nue Vegan,11,3,6.9,1.9,5.0
+896,Drumsticks,Chipotle,4,1,9.5,3.7,5.8
+897,Pizza,Halal Guys,6,2,7.2,2.8,4.4
+898,Chicken,Ike's,2,1,2.9,2.2,0.7
+899,Tune,Globe,11,3,6.6,6.6,0.0
+900,Drumsticks,Chick-fil-a,7,2,8.2,3.5,4.7
+901,Drumsticks,Globe,2,1,5.5,2.4,3.1
+902,Beans,Nue Vegan,3,1,8.2,1.7,6.5
+903,Burger,Halal Guys,7,2,2.6,1.2,1.4
+904,Beans,Chick-fil-a,9,3,8.7,4.1,4.6
+905,Parmesan cheese,Ike's,11,3,4.9,1.1,3.8
+906,Burger,Ike's,3,1,1.4,0.5,0.9
+907,Pizza,Flip kitchen,1,1,7.0,4.5,2.5
+908,Tune,Nue Vegan,9,3,3.0,2.7,0.3
+909,Pizza,Nue Vegan,6,2,1.4,1.2,0.2
+910,Chicken,Blaze pizza,1,1,2.8,1.9,0.9
+911,Beef,Flip kitchen,12,3,3.4,2.4,1.0
+912,Beef,Blaze pizza,12,3,3.4,0.2,3.2
+913,Fries,Halal Guys,9,3,9.4,3.2,6.2
+914,Beef,Halal Guys,4,1,6.5,3.1,3.4
+915,Beef,Southside,4,1,1.6,0.9,0.7
+916,Burger,Globe,6,2,2.1,1.6,0.5
+917,Beef,Halal Guys,10,3,2.2,2.2,0.0
+918,Fries,Flip kitchen,8,2,3.6,3.5,0.1
+919,Beans,Nue Vegan,10,3,5.9,0.1,5.8
+920,Pizza,Flip kitchen,12,3,1.4,0.8,0.6
+921,Fries,Southside,11,3,5.7,2.5,3.2
+922,Beans,Halal Guys,12,3,3.0,0.5,2.5
+923,Chicken,Nue Vegan,12,3,3.5,1.6,1.9
+924,Parmesan cheese,Chick-fil-a,12,3,4.7,0.9,3.8
+925,Tune,Southside,2,1,6.1,2.0,4.1
+926,Pork,Chick-fil-a,7,2,3.5,2.6,0.9
+927,Parmesan cheese,Halal Guys,7,2,9.3,0.3,9.0
+928,Salad,Flip kitchen,5,2,1.9,1.6,0.3
+929,Salad,Southside,8,2,1.7,0.8,0.9
+930,Fries,Akino sushi,5,2,6.2,2.4,3.8
+931,Burger,Blaze pizza,10,3,9.2,8.3,0.9
+932,Tune,Nue Vegan,11,3,1.2,0.8,0.4
+933,Beef,Nue Vegan,5,2,2.2,0.8,1.4
+934,Parmesan cheese,Globe,6,2,2.9,2.7,0.2
+935,Drumsticks,Flip kitchen,2,1,7.0,1.6,5.4
+936,Parmesan cheese,Flip kitchen,9,3,7.5,4.9,2.6
+937,Beans,Nue Vegan,7,2,8.2,0.3,7.9
+938,Drumsticks,Flip kitchen,1,1,5.1,4.4,0.7
+939,Salad,Nue Vegan,11,3,5.4,3.7,1.7
+940,Chicken,Akino sushi,12,3,3.9,2.3,1.6
+941,Fries,Globe,1,1,4.7,2.0,2.7
+942,Burger,Halal Guys,8,2,7.0,4.6,2.4
+943,Pizza,Globe,6,2,4.2,1.1,3.1
+944,Parmesan cheese,Halal Guys,3,1,4.9,1.2,3.7
+945,Burger,Ike's,7,2,1.2,1.0,0.2
+946,Pizza,Nue Vegan,8,2,9.0,7.4,1.6
+947,Beans,Southside,10,3,1.8,0.9,0.9
+948,Beans,Chick-fil-a,2,1,5.6,5.0,0.6
+949,Fries,Halal Guys,8,2,4.6,2.8,1.8
+950,Beans,Halal Guys,8,2,4.4,4.1,0.3
+951,Pizza,Halal Guys,1,1,2.3,0.3,2.0
+952,Pizza,Chipotle,7,2,5.3,2.5,2.8
+953,Tune,Chipotle,2,1,4.0,3.9,0.1
+954,Pork,Southside,12,3,4.2,3.7,0.5
+955,Chicken,Halal Guys,4,1,6.4,4.0,2.4
+956,Pizza,Globe,2,1,5.7,4.4,1.3
+957,Parmesan cheese,Southside,11,3,1.7,1.4,0.3
+958,Beans,Nue Vegan,9,3,6.1,0.7,5.4
+959,Salad,Chipotle,6,2,9.8,3.1,6.7
+960,Burger,Ike's,4,1,9.1,2.8,6.3
+961,Pizza,Globe,1,1,6.5,4.5,2.0
+962,Beans,Ike's,8,2,1.9,1.2,0.7
+963,Fries,Halal Guys,12,3,5.2,1.0,4.2
+964,Tune,Blaze pizza,2,1,8.6,4.8,3.8
+965,Beans,Southside,3,1,5.1,0.6,4.5
+966,Chicken,Southside,10,3,2.6,1.7,0.9
+967,Salad,Globe,3,1,8.7,5.9,2.8
+968,Drumsticks,Globe,9,3,3.4,0.5,2.9
+969,Beans,Southside,12,3,2.0,1.3,0.7
+970,Fries,Chick-fil-a,4,1,8.4,5.8,2.6
+971,Beef,Globe,12,3,2.2,0.1,2.1
+972,Pizza,Halal Guys,12,3,4.7,1.7,3.0
+973,Burger,Akino sushi,11,3,2.9,2.6,0.3
+974,Drumsticks,Chick-fil-a,8,2,7.4,1.2,6.2
+975,Tune,Flip kitchen,11,3,6.0,5.1,0.9
+976,Drumsticks,Chipotle,10,3,4.2,2.6,1.6
+977,Tune,Globe,12,3,5.0,0.7,4.3
+978,Salad,Blaze pizza,12,3,5.2,0.7,4.5
+979,Fries,Chick-fil-a,8,2,1.7,0.7,1.0
+980,Beef,Akino sushi,5,2,7.9,1.6,6.3
+981,Parmesan cheese,Southside,9,3,4.2,2.0,2.2
+982,Drumsticks,Chipotle,1,1,8.6,8.0,0.6
+983,Pork,Flip kitchen,6,2,6.9,5.5,1.4
+984,Beans,Ike's,12,3,8.9,6.8,2.1
+985,Beef,Nue Vegan,8,2,4.4,1.8,2.6
+986,Drumsticks,Halal Guys,1,1,2.3,0.2,2.1
+987,Pizza,Chick-fil-a,7,2,7.2,5.8,1.4
+988,Burger,Southside,3,1,6.0,0.7,5.3
+989,Drumsticks,Southside,2,1,1.6,1.6,0.0
+990,Pizza,Halal Guys,5,2,6.1,2.3,3.8
+991,Burger,Blaze pizza,9,3,2.5,1.6,0.9
+992,Parmesan cheese,Nue Vegan,12,3,9.6,2.5,7.1
+993,Pork,Chick-fil-a,4,1,1.5,0.0,1.5
+994,Beans,Globe,3,1,4.8,0.4,4.4
+995,Pork,Halal Guys,10,3,1.4,1.4,0.0
+996,Salad,Southside,12,3,7.1,5.2,1.9
+997,Tune,Akino sushi,3,1,6.0,5.3,0.7
+998,Salad,Nue Vegan,5,2,2.4,2.0,0.4
+999,Pork,Southside,11,3,7.8,0.7,7.1
+1000,Beef,Nue Vegan,8,2,7.3,3.0,4.3
+1001,Salad,Ike's,1,1,5.1,3.6,1.5
+1002,Chicken,Chick-fil-a,1,1,7.3,4.9,2.4
+1003,Tune,Chipotle,11,3,7.2,6.2,1.0
+1004,Fries,Nue Vegan,1,1,9.3,0.8,8.5
+1005,Beans,Globe,7,2,8.7,1.7,7.0
+1006,Parmesan cheese,Akino sushi,3,1,9.8,8.4,1.4
+1007,Tune,Akino sushi,7,2,6.9,0.6,6.3
+1008,Pork,Ike's,9,3,7.5,5.7,1.8
+1009,Drumsticks,Nue Vegan,8,2,3.9,1.0,2.9
+1010,Drumsticks,Ike's,3,1,5.1,1.8,3.3
+1011,Drumsticks,Nue Vegan,7,2,9.3,1.9,7.4
+1012,Beans,Chipotle,10,3,1.1,0.3,0.8
+1013,Beans,Chipotle,12,3,4.8,2.6,2.2
+1014,Parmesan cheese,Southside,6,2,5.6,4.3,1.3
+1015,Pork,Nue Vegan,2,1,1.3,0.8,0.5
+1016,Beans,Flip kitchen,3,1,4.2,0.8,3.4
+1017,Pork,Chick-fil-a,3,1,3.8,0.2,3.6
+1018,Beans,Halal Guys,6,2,7.8,5.8,2.0
+1019,Burger,Chick-fil-a,4,1,8.3,6.0,2.3
+1020,Pork,Globe,8,2,2.7,0.6,2.1
+1021,Parmesan cheese,Ike's,4,1,9.0,8.0,1.0
+1022,Drumsticks,Southside,12,3,8.6,2.5,6.1
+1023,Parmesan cheese,Halal Guys,9,3,4.4,2.4,2.0
+1024,Fries,Blaze pizza,11,3,5.8,1.7,4.1
+1025,Fries,Blaze pizza,7,2,7.0,4.6,2.4
+1026,Salad,Southside,4,1,5.7,1.3,4.4
+1027,Salad,Southside,9,3,1.8,1.0,0.8
+1028,Chicken,Akino sushi,11,3,5.6,3.3,2.3
+1029,Chicken,Chick-fil-a,12,3,7.8,2.3,5.5
+1030,Drumsticks,Akino sushi,3,1,9.9,4.8,5.1
+1031,Chicken,Southside,8,2,6.3,5.4,0.9
+1032,Fries,Chick-fil-a,1,1,3.0,0.3,2.7
+1033,Drumsticks,Globe,6,2,7.5,6.5,1.0
+1034,Beef,Flip kitchen,12,3,1.6,0.8,0.8
+1035,Pizza,Akino sushi,3,1,8.7,4.9,3.8
+1036,Parmesan cheese,Globe,12,3,7.5,5.5,2.0
+1037,Chicken,Ike's,11,3,9.0,7.2,1.8
+1038,Chicken,Nue Vegan,9,3,2.3,2.3,0.0
+1039,Beans,Nue Vegan,1,1,2.9,1.4,1.5
+1040,Drumsticks,Blaze pizza,7,2,7.5,0.9,6.6
+1041,Tune,Nue Vegan,5,2,5.2,1.6,3.6
+1042,Beans,Nue Vegan,8,2,7.6,3.7,3.9
+1043,Parmesan cheese,Halal Guys,1,1,7.0,0.6,6.4
+1044,Pizza,Chick-fil-a,6,2,7.5,4.4,3.1
+1045,Burger,Flip kitchen,8,2,2.1,1.5,0.6
+1046,Pork,Nue Vegan,8,2,1.5,1.2,0.3
+1047,Beef,Flip kitchen,11,3,7.0,2.3,4.7
+1048,Salad,Ike's,4,1,2.3,1.4,0.9
+1049,Burger,Southside,4,1,7.6,6.2,1.4
+1050,Pizza,Halal Guys,1,1,8.6,1.8,6.8
+1051,Chicken,Flip kitchen,1,1,1.6,1.1,0.5
+1052,Parmesan cheese,Ike's,8,2,1.7,0.5,1.2
+1053,Beans,Ike's,12,3,5.7,2.4,3.3
+1054,Pork,Chick-fil-a,9,3,8.9,3.0,5.9
+1055,Pizza,Chipotle,2,1,2.6,1.8,0.8
+1056,Drumsticks,Nue Vegan,2,1,8.0,7.1,0.9
+1057,Chicken,Nue Vegan,10,3,4.3,1.9,2.4
+1058,Pizza,Chipotle,5,2,6.9,0.5,6.4
+1059,Fries,Nue Vegan,9,3,7.3,6.2,1.1
+1060,Tune,Southside,10,3,4.7,0.4,4.3
+1061,Parmesan cheese,Southside,1,1,4.6,2.8,1.8
+1062,Parmesan cheese,Chick-fil-a,4,1,2.4,0.4,2.0
+1063,Salad,Nue Vegan,4,1,2.1,1.7,0.4
+1064,Chicken,Flip kitchen,9,3,1.1,0.3,0.8
+1065,Pizza,Flip kitchen,2,1,8.2,7.7,0.5
+1066,Pork,Blaze pizza,10,3,7.1,0.7,6.4
+1067,Salad,Chipotle,6,2,3.0,0.6,2.4
+1068,Burger,Blaze pizza,1,1,7.0,3.4,3.6
+1069,Drumsticks,Ike's,4,1,6.7,2.1,4.6
+1070,Tune,Southside,6,2,3.8,3.2,0.6
+1071,Tune,Ike's,12,3,6.6,0.7,5.9
+1072,Beans,Globe,2,1,5.9,4.8,1.1
+1073,Burger,Flip kitchen,8,2,2.8,1.8,1.0
+1074,Beef,Flip kitchen,8,2,4.6,1.7,2.9
+1075,Burger,Flip kitchen,10,3,7.5,4.4,3.1
+1076,Tune,Flip kitchen,6,2,6.2,0.5,5.7
+1077,Pork,Chick-fil-a,6,2,1.9,1.8,0.1
+1078,Beef,Chick-fil-a,2,1,8.5,0.5,8.0
+1079,Chicken,Chipotle,4,1,7.8,4.6,3.2
+1080,Salad,Southside,2,1,1.4,0.7,0.7
+1081,Burger,Halal Guys,3,1,6.7,3.9,2.8
+1082,Parmesan cheese,Flip kitchen,9,3,6.2,3.3,2.9
+1083,Chicken,Chipotle,4,1,5.2,4.5,0.7
+1084,Salad,Halal Guys,11,3,4.6,3.7,0.9
+1085,Beef,Chick-fil-a,10,3,6.7,6.0,0.7
+1086,Salad,Ike's,12,3,7.6,2.1,5.5
+1087,Tune,Blaze pizza,10,3,2.1,0.3,1.8
+1088,Fries,Halal Guys,11,3,3.2,2.2,1.0
+1089,Fries,Nue Vegan,11,3,2.3,0.3,2.0
+1090,Pork,Akino sushi,11,3,1.2,0.6,0.6
+1091,Parmesan cheese,Ike's,1,1,4.4,1.4,3.0
+1092,Tune,Chick-fil-a,6,2,5.2,0.7,4.5
+1093,Pizza,Akino sushi,9,3,2.0,1.7,0.3
+1094,Drumsticks,Globe,8,2,4.4,1.5,2.9
+1095,Pork,Chick-fil-a,11,3,5.9,3.2,2.7
+1096,Fries,Chipotle,4,1,3.7,0.7,3.0
+1097,Beef,Chick-fil-a,4,1,3.7,0.1,3.6
+1098,Pizza,Blaze pizza,10,3,2.8,2.6,0.2
+1099,Beans,Halal Guys,10,3,8.4,1.2,7.2
+1100,Salad,Flip kitchen,10,3,7.5,4.1,3.4
+1101,Chicken,Globe,8,2,2.9,0.1,2.8
+1102,Tune,Flip kitchen,9,3,1.7,0.0,1.7
+1103,Pizza,Halal Guys,8,2,7.3,0.2,7.1
+1104,Fries,Ike's,12,3,6.3,2.3,4.0
+1105,Salad,Halal Guys,5,2,4.1,3.5,0.6
+1106,Salad,Ike's,5,2,6.4,1.2,5.2
+1107,Chicken,Southside,12,3,2.0,1.9,0.1
+1108,Salad,Ike's,4,1,2.6,1.1,1.5
+1109,Drumsticks,Globe,7,2,5.2,4.9,0.3
+1110,Burger,Ike's,12,3,5.8,0.1,5.7
+1111,Pork,Globe,10,3,3.8,1.1,2.7
+1112,Drumsticks,Akino sushi,12,3,3.2,1.9,1.3
+1113,Burger,Southside,3,1,9.4,4.9,4.5
+1114,Parmesan cheese,Globe,10,3,9.1,1.4,7.7
+1115,Salad,Chick-fil-a,10,3,1.0,0.6,0.4
+1116,Pizza,Ike's,9,3,6.6,0.4,6.2
+1117,Pizza,Blaze pizza,10,3,9.5,4.2,5.3
+1118,Pork,Akino sushi,8,2,5.1,1.6,3.5
+1119,Salad,Ike's,9,3,7.5,3.7,3.8
+1120,Pork,Nue Vegan,4,1,9.1,2.0,7.1
+1121,Chicken,Southside,1,1,9.1,3.0,6.1
+1122,Fries,Halal Guys,6,2,6.6,5.6,1.0
+1123,Pizza,Nue Vegan,3,1,5.7,0.1,5.6
+1124,Chicken,Globe,3,1,5.3,3.4,1.9
+1125,Beans,Chipotle,8,2,1.8,1.0,0.8
+1126,Drumsticks,Ike's,8,2,2.7,2.1,0.6
+1127,Beans,Southside,4,1,1.2,1.2,0.0
+1128,Beans,Southside,9,3,10.0,10.0,0.0
+1129,Burger,Globe,8,2,8.5,6.1,2.4
+1130,Beef,Chick-fil-a,1,1,9.1,7.3,1.8
+1131,Burger,Blaze pizza,2,1,9.1,6.0,3.1
+1132,Parmesan cheese,Chick-fil-a,1,1,4.3,0.2,4.1
+1133,Beans,Globe,1,1,3.1,0.8,2.3
+1134,Drumsticks,Akino sushi,10,3,6.6,0.4,6.2
+1135,Chicken,Flip kitchen,12,3,2.9,2.0,0.9
+1136,Salad,Chipotle,6,2,8.9,7.4,1.5
+1137,Fries,Globe,12,3,6.0,2.2,3.8
+1138,Burger,Globe,10,3,4.9,2.6,2.3
+1139,Parmesan cheese,Blaze pizza,7,2,5.4,2.5,2.9
+1140,Tune,Flip kitchen,9,3,3.7,0.7,3.0
+1141,Drumsticks,Halal Guys,4,1,5.2,3.6,1.6
+1142,Parmesan cheese,Blaze pizza,1,1,8.0,4.9,3.1
+1143,Tune,Blaze pizza,11,3,3.5,0.0,3.5
+1144,Salad,Ike's,1,1,8.8,3.2,5.6
+1145,Pizza,Ike's,9,3,4.0,3.9,0.1
+1146,Fries,Blaze pizza,2,1,8.4,0.8,7.6
+1147,Pizza,Chipotle,12,3,4.0,0.8,3.2
+1148,Burger,Halal Guys,11,3,6.2,4.6,1.6
+1149,Pork,Chick-fil-a,1,1,1.8,0.4,1.4
+1150,Tune,Chick-fil-a,1,1,8.2,6.2,2.0
+1151,Burger,Chipotle,3,1,8.6,8.1,0.5
+1152,Drumsticks,Globe,10,3,3.3,1.6,1.7
+1153,Pork,Akino sushi,5,2,5.9,4.8,1.1
+1154,Pizza,Akino sushi,7,2,7.4,0.2,7.2
+1155,Beef,Nue Vegan,9,3,1.6,1.3,0.3
+1156,Fries,Southside,4,1,8.3,1.6,6.7
+1157,Beans,Halal Guys,1,1,6.4,1.4,5.0
+1158,Pizza,Nue Vegan,12,3,1.2,0.1,1.1
+1159,Tune,Chick-fil-a,9,3,5.9,0.6,5.3
+1160,Salad,Southside,9,3,8.8,0.9,7.9
+1161,Salad,Blaze pizza,5,2,6.1,1.2,4.9
+1162,Pizza,Blaze pizza,4,1,2.0,0.0,2.0
+1163,Fries,Akino sushi,4,1,2.3,0.2,2.1
+1164,Salad,Globe,12,3,3.4,0.4,3.0
+1165,Chicken,Ike's,5,2,6.6,0.4,6.2
+1166,Tune,Flip kitchen,9,3,3.4,1.0,2.4
+1167,Beef,Ike's,11,3,6.1,0.9,5.2
+1168,Beef,Globe,4,1,5.8,2.9,2.9
+1169,Parmesan cheese,Ike's,12,3,6.7,0.3,6.4
+1170,Pork,Globe,11,3,2.4,1.4,1.0
+1171,Pork,Flip kitchen,12,3,6.2,0.0,6.2
+1172,Tune,Chipotle,3,1,9.7,1.4,8.3
+1173,Pork,Chick-fil-a,4,1,4.0,0.0,4.0
+1174,Pizza,Flip kitchen,8,2,2.4,1.7,0.7
+1175,Parmesan cheese,Southside,3,1,7.6,0.9,6.7
+1176,Chicken,Southside,1,1,5.0,1.9,3.1
+1177,Salad,Halal Guys,8,2,1.2,1.0,0.2
+1178,Tune,Globe,7,2,5.2,2.2,3.0
+1179,Drumsticks,Akino sushi,2,1,7.1,3.1,4.0
+1180,Beef,Chipotle,1,1,8.7,1.2,7.5
+1181,Fries,Flip kitchen,8,2,9.8,9.2,0.6
+1182,Tune,Blaze pizza,8,2,6.3,5.1,1.2
+1183,Chicken,Ike's,9,3,8.2,3.9,4.3
+1184,Pork,Southside,9,3,5.3,3.7,1.6
+1185,Pizza,Southside,10,3,7.6,0.4,7.2
+1186,Salad,Flip kitchen,10,3,9.6,6.9,2.7
+1187,Burger,Globe,4,1,7.9,6.2,1.7
+1188,Pizza,Ike's,10,3,8.1,1.4,6.7
+1189,Chicken,Ike's,12,3,7.4,7.3,0.1
+1190,Tune,Chipotle,6,2,7.0,4.8,2.2
+1191,Fries,Globe,2,1,4.9,3.8,1.1
+1192,Beans,Halal Guys,1,1,1.9,1.8,0.1
+1193,Pork,Ike's,4,1,5.2,2.8,2.4
+1194,Salad,Chick-fil-a,10,3,6.8,5.5,1.3
+1195,Tune,Chipotle,1,1,4.3,3.9,0.4
+1196,Pizza,Southside,7,2,5.3,3.5,1.8
+1197,Tune,Southside,9,3,2.4,0.8,1.6
+1198,Beef,Flip kitchen,10,3,6.1,3.6,2.5
+1199,Tune,Flip kitchen,8,2,9.6,8.9,0.7
+1200,Pork,Ike's,8,2,9.7,5.6,4.1
+1201,Fries,Ike's,6,2,4.8,3.8,1.0
+1202,Tune,Flip kitchen,4,1,7.8,5.8,2.0
+1203,Pork,Halal Guys,7,2,5.6,1.2,4.4
+1204,Beef,Southside,3,1,1.2,0.4,0.8
+1205,Pizza,Chipotle,6,2,3.9,1.1,2.8
+1206,Pizza,Akino sushi,12,3,9.1,6.5,2.6
+1207,Drumsticks,Flip kitchen,4,1,2.9,2.8,0.1
+1208,Beef,Southside,12,3,5.0,0.7,4.3
+1209,Chicken,Southside,12,3,6.4,1.2,5.2
+1210,Fries,Globe,2,1,2.7,1.1,1.6
+1211,Beans,Ike's,11,3,4.2,1.1,3.1
+1212,Chicken,Southside,3,1,9.9,6.0,3.9
+1213,Parmesan cheese,Akino sushi,4,1,7.9,2.8,5.1
+1214,Pork,Halal Guys,1,1,4.4,0.4,4.0
+1215,Parmesan cheese,Halal Guys,2,1,1.9,1.3,0.6
+1216,Drumsticks,Southside,12,3,2.1,0.1,2.0
+1217,Beans,Halal Guys,8,2,2.5,1.8,0.7
+1218,Tune,Nue Vegan,1,1,2.4,0.7,1.7
+1219,Burger,Chipotle,8,2,7.9,6.6,1.3
+1220,Tune,Globe,7,2,1.7,0.9,0.8
+1221,Fries,Chipotle,4,1,3.4,3.1,0.3
+1222,Pizza,Southside,10,3,5.4,4.2,1.2
+1223,Parmesan cheese,Ike's,9,3,5.3,1.0,4.3
+1224,Chicken,Halal Guys,3,1,4.6,2.0,2.6
+1225,Pizza,Flip kitchen,5,2,3.8,3.3,0.5
+1226,Pizza,Chipotle,8,2,4.4,3.8,0.6
+1227,Drumsticks,Chick-fil-a,4,1,1.9,0.0,1.9
+1228,Chicken,Chick-fil-a,9,3,1.6,0.7,0.9
+1229,Parmesan cheese,Chipotle,12,3,8.0,5.9,2.1
+1230,Beans,Halal Guys,12,3,1.9,1.3,0.6
+1231,Beef,Ike's,5,2,2.8,1.6,1.2
+1232,Parmesan cheese,Akino sushi,4,1,1.2,0.6,0.6
+1233,Drumsticks,Blaze pizza,7,2,6.4,0.2,6.2
+1234,Drumsticks,Ike's,9,3,2.8,0.3,2.5
+1235,Fries,Chick-fil-a,3,1,7.3,4.5,2.8
+1236,Parmesan cheese,Blaze pizza,12,3,8.7,1.6,7.1
+1237,Burger,Southside,9,3,7.4,1.9,5.5
+1238,Fries,Globe,7,2,4.4,3.3,1.1
+1239,Tune,Chick-fil-a,2,1,8.3,8.0,0.3
+1240,Salad,Chick-fil-a,2,1,1.7,0.3,1.4
+1241,Beef,Ike's,8,2,7.9,5.5,2.4
+1242,Beans,Flip kitchen,1,1,7.7,3.5,4.2
+1243,Pizza,Southside,1,1,1.0,0.9,0.1
+1244,Drumsticks,Blaze pizza,3,1,1.6,1.2,0.4
+1245,Salad,Halal Guys,10,3,7.6,3.8,3.8
+1246,Pizza,Ike's,11,3,6.5,0.2,6.3
+1247,Beef,Globe,7,2,7.5,6.7,0.8
+1248,Pork,Halal Guys,10,3,3.2,2.9,0.3
+1249,Drumsticks,Halal Guys,11,3,9.5,1.5,8.0
+1250,Salad,Southside,2,1,3.3,2.8,0.5
+1251,Beef,Globe,5,2,6.9,4.7,2.2
+1252,Salad,Blaze pizza,5,2,6.4,1.5,4.9
+1253,Fries,Ike's,7,2,6.3,4.7,1.6
+1254,Beef,Blaze pizza,6,2,8.7,7.9,0.8
+1255,Beans,Globe,5,2,7.0,2.9,4.1
+1256,Fries,Flip kitchen,7,2,3.7,1.2,2.5
+1257,Pork,Southside,2,1,7.6,0.5,7.1
+1258,Fries,Ike's,3,1,4.8,2.4,2.4
+1259,Salad,Chipotle,6,2,7.4,3.4,4.0
+1260,Pork,Globe,5,2,2.0,1.2,0.8
+1261,Pizza,Chipotle,9,3,7.0,5.5,1.5
+1262,Fries,Halal Guys,10,3,1.1,0.7,0.4
+1263,Parmesan cheese,Halal Guys,8,2,7.8,6.1,1.7
+1264,Beef,Southside,3,1,5.3,1.6,3.7
+1265,Beef,Blaze pizza,3,1,8.0,0.1,7.9
+1266,Tune,Blaze pizza,7,2,8.3,0.2,8.1
+1267,Beans,Nue Vegan,3,1,8.0,7.0,1.0
+1268,Fries,Southside,1,1,9.7,1.3,8.4
+1269,Burger,Southside,2,1,9.8,5.0,4.8
+1270,Pork,Akino sushi,2,1,2.2,0.4,1.8
+1271,Burger,Chipotle,12,3,8.2,8.1,0.1
+1272,Burger,Chick-fil-a,11,3,7.4,5.1,2.3
+1273,Chicken,Nue Vegan,10,3,5.2,3.1,2.1
+1274,Chicken,Akino sushi,7,2,4.8,0.6,4.2
+1275,Drumsticks,Halal Guys,7,2,3.9,0.0,3.9
+1276,Fries,Blaze pizza,6,2,7.4,4.1,3.3
+1277,Burger,Akino sushi,5,2,7.5,2.2,5.3
+1278,Pork,Blaze pizza,2,1,8.5,0.3,8.2
+1279,Burger,Ike's,5,2,6.6,2.0,4.6
+1280,Parmesan cheese,Chipotle,5,2,8.6,4.2,4.4
+1281,Drumsticks,Chipotle,9,3,9.0,1.1,7.9
+1282,Pork,Ike's,6,2,6.8,4.1,2.7
+1283,Salad,Flip kitchen,9,3,3.9,3.3,0.6
+1284,Salad,Akino sushi,10,3,4.9,1.1,3.8
+1285,Drumsticks,Nue Vegan,1,1,1.9,0.3,1.6
+1286,Tune,Halal Guys,9,3,5.6,2.1,3.5
+1287,Parmesan cheese,Southside,10,3,6.6,4.7,1.9
+1288,Tune,Southside,1,1,4.0,3.5,0.5
+1289,Tune,Chick-fil-a,9,3,2.0,0.1,1.9
+1290,Salad,Ike's,7,2,8.5,1.0,7.5
+1291,Pork,Akino sushi,4,1,8.0,0.4,7.6
+1292,Salad,Southside,11,3,4.7,1.6,3.1
+1293,Parmesan cheese,Chick-fil-a,10,3,5.4,0.6,4.8
+1294,Chicken,Chick-fil-a,3,1,1.7,0.2,1.5
+1295,Drumsticks,Southside,4,1,2.9,0.5,2.4
+1296,Pork,Blaze pizza,4,1,9.9,2.9,7.0
+1297,Burger,Chipotle,12,3,8.6,0.3,8.3
+1298,Salad,Chipotle,10,3,3.8,3.3,0.5
+1299,Salad,Globe,12,3,6.5,5.9,0.6
+1300,Beef,Flip kitchen,11,3,8.0,0.9,7.1
+1301,Chicken,Ike's,11,3,3.7,3.2,0.5
+1302,Fries,Blaze pizza,2,1,5.8,1.7,4.1
+1303,Burger,Halal Guys,2,1,4.9,4.7,0.2
+1304,Salad,Southside,10,3,9.8,4.6,5.2
+1305,Burger,Chick-fil-a,9,3,2.8,0.3,2.5
+1306,Burger,Nue Vegan,7,2,5.7,0.9,4.8
+1307,Beans,Flip kitchen,5,2,8.1,1.4,6.7
+1308,Drumsticks,Globe,12,3,8.7,0.2,8.5
+1309,Drumsticks,Chick-fil-a,11,3,3.8,2.4,1.4
+1310,Beef,Flip kitchen,9,3,3.4,1.5,1.9
+1311,Pizza,Southside,9,3,4.8,3.3,1.5
+1312,Beef,Chipotle,6,2,1.8,1.5,0.3
+1313,Drumsticks,Southside,11,3,6.6,6.3,0.3
+1314,Salad,Akino sushi,4,1,9.3,1.7,7.6
+1315,Tune,Flip kitchen,3,1,6.2,5.0,1.2
+1316,Parmesan cheese,Chick-fil-a,5,2,5.4,2.5,2.9
+1317,Pizza,Akino sushi,9,3,5.9,5.5,0.4
+1318,Salad,Nue Vegan,4,1,3.9,0.3,3.6
+1319,Fries,Southside,5,2,7.1,5.8,1.3
+1320,Pizza,Nue Vegan,5,2,7.2,6.4,0.8
+1321,Chicken,Nue Vegan,2,1,5.2,0.8,4.4
+1322,Salad,Flip kitchen,3,1,6.9,4.1,2.8
+1323,Pizza,Nue Vegan,8,2,4.6,1.1,3.5
+1324,Salad,Chipotle,12,3,2.8,1.7,1.1
+1325,Burger,Globe,2,1,3.3,0.1,3.2
+1326,Drumsticks,Nue Vegan,6,2,4.5,1.8,2.7
+1327,Salad,Southside,7,2,7.3,1.9,5.4
+1328,Pork,Flip kitchen,5,2,7.8,2.9,4.9
+1329,Parmesan cheese,Blaze pizza,3,1,4.4,0.9,3.5
+1330,Parmesan cheese,Globe,3,1,7.4,7.0,0.4
+1331,Parmesan cheese,Blaze pizza,9,3,4.3,0.9,3.4
+1332,Chicken,Chick-fil-a,8,2,2.0,0.6,1.4
+1333,Fries,Chick-fil-a,5,2,4.2,3.2,1.0
+1334,Fries,Chipotle,12,3,9.0,5.0,4.0
+1335,Pizza,Ike's,12,3,5.5,4.2,1.3
+1336,Tune,Southside,10,3,9.4,6.0,3.4
+1337,Burger,Southside,4,1,1.6,1.5,0.1
+1338,Chicken,Akino sushi,8,2,9.8,3.3,6.5
+1339,Parmesan cheese,Flip kitchen,8,2,3.9,0.1,3.8
+1340,Tune,Blaze pizza,3,1,5.5,4.0,1.5
+1341,Tune,Akino sushi,9,3,7.2,3.6,3.6
+1342,Drumsticks,Chick-fil-a,4,1,5.5,3.0,2.5
+1343,Parmesan cheese,Blaze pizza,8,2,9.6,3.6,6.0
+1344,Pork,Flip kitchen,3,1,7.1,6.6,0.5
+1345,Fries,Halal Guys,5,2,3.3,1.9,1.4
+1346,Beef,Southside,10,3,4.4,2.9,1.5
+1347,Beans,Chipotle,2,1,7.8,7.6,0.2
+1348,Tune,Ike's,4,1,8.1,7.5,0.6
+1349,Drumsticks,Globe,12,3,1.5,0.3,1.2
+1350,Chicken,Blaze pizza,12,3,9.3,4.8,4.5
+1351,Parmesan cheese,Akino sushi,8,2,7.8,2.3,5.5
+1352,Chicken,Flip kitchen,9,3,5.8,4.5,1.3
+1353,Pizza,Chick-fil-a,10,3,7.3,5.4,1.9
+1354,Parmesan cheese,Southside,7,2,7.6,1.2,6.4
+1355,Pizza,Halal Guys,2,1,1.4,1.3,0.1
+1356,Pizza,Nue Vegan,11,3,9.4,4.2,5.2
+1357,Pizza,Halal Guys,2,1,4.9,3.9,1.0
+1358,Drumsticks,Chipotle,2,1,3.2,1.0,2.2
+1359,Chicken,Blaze pizza,3,1,3.1,0.4,2.7
+1360,Salad,Southside,11,3,4.2,2.9,1.3
+1361,Parmesan cheese,Chick-fil-a,12,3,4.7,3.9,0.8
+1362,Tune,Southside,9,3,7.1,1.8,5.3
+1363,Tune,Southside,6,2,4.0,0.5,3.5
+1364,Beef,Chipotle,10,3,2.6,0.9,1.7
+1365,Tune,Southside,10,3,3.3,2.5,0.8
+1366,Beans,Akino sushi,5,2,1.2,1.0,0.2
+1367,Beans,Halal Guys,4,1,9.7,1.2,8.5
+1368,Pizza,Ike's,7,2,5.2,3.9,1.3
+1369,Fries,Globe,6,2,8.5,4.3,4.2
+1370,Fries,Chipotle,10,3,3.1,2.1,1.0
+1371,Fries,Chipotle,1,1,5.0,4.1,0.9
+1372,Pizza,Flip kitchen,10,3,5.1,3.7,1.4
+1373,Tune,Akino sushi,1,1,2.6,2.4,0.2
+1374,Salad,Flip kitchen,2,1,8.6,0.1,8.5
+1375,Burger,Globe,2,1,2.6,2.3,0.3
+1376,Beef,Chipotle,6,2,8.9,1.4,7.5
+1377,Beans,Flip kitchen,9,3,1.2,0.6,0.6
+1378,Salad,Chipotle,3,1,7.8,6.2,1.6
+1379,Drumsticks,Blaze pizza,9,3,3.3,1.0,2.3
+1380,Drumsticks,Nue Vegan,11,3,8.3,1.3,7.0
+1381,Salad,Halal Guys,8,2,5.5,3.2,2.3
+1382,Tune,Chipotle,8,2,9.4,4.1,5.3
+1383,Beef,Globe,4,1,4.5,3.2,1.3
+1384,Tune,Chipotle,6,2,6.6,1.8,4.8
+1385,Chicken,Southside,5,2,4.3,4.2,0.1
+1386,Chicken,Flip kitchen,7,2,1.3,0.1,1.2
+1387,Fries,Southside,5,2,3.8,0.3,3.5
+1388,Tune,Nue Vegan,3,1,7.5,5.3,2.2
+1389,Burger,Chick-fil-a,8,2,9.1,0.4,8.7
+1390,Beef,Chick-fil-a,11,3,1.7,1.7,0.0
+1391,Beans,Blaze pizza,12,3,8.4,4.8,3.6
+1392,Salad,Southside,6,2,1.3,0.1,1.2
+1393,Beans,Akino sushi,1,1,3.9,2.2,1.7
+1394,Drumsticks,Globe,8,2,5.1,3.0,2.1
+1395,Pork,Southside,3,1,1.9,0.3,1.6
+1396,Pizza,Nue Vegan,4,1,9.9,5.8,4.1
+1397,Beef,Halal Guys,12,3,6.2,1.3,4.9
+1398,Beans,Ike's,7,2,6.5,4.4,2.1
+1399,Pork,Nue Vegan,11,3,5.0,3.7,1.3
+1400,Salad,Ike's,5,2,3.1,0.4,2.7
+1401,Beef,Globe,5,2,1.2,1.2,0.0
+1402,Pizza,Nue Vegan,4,1,7.5,3.5,4.0
+1403,Drumsticks,Southside,2,1,9.8,7.6,2.2
+1404,Beef,Chipotle,7,2,5.6,0.4,5.2
+1405,Tune,Chick-fil-a,12,3,2.9,1.3,1.6
+1406,Burger,Akino sushi,12,3,2.8,0.2,2.6
+1407,Beans,Flip kitchen,11,3,2.4,1.7,0.7
+1408,Drumsticks,Halal Guys,7,2,7.7,5.8,1.9
+1409,Pork,Blaze pizza,12,3,2.1,1.3,0.8
+1410,Pork,Nue Vegan,9,3,8.5,4.6,3.9
+1411,Parmesan cheese,Ike's,2,1,1.0,0.1,0.9
+1412,Beans,Flip kitchen,9,3,8.6,1.4,7.2
+1413,Drumsticks,Blaze pizza,3,1,5.3,0.2,5.1
+1414,Tune,Nue Vegan,4,1,8.1,4.9,3.2
+1415,Pork,Halal Guys,5,2,1.3,1.1,0.2
+1416,Drumsticks,Globe,10,3,4.2,0.4,3.8
+1417,Tune,Flip kitchen,5,2,2.0,0.5,1.5
+1418,Drumsticks,Flip kitchen,9,3,9.6,0.9,8.7
+1419,Chicken,Southside,9,3,7.7,7.3,0.4
+1420,Burger,Globe,9,3,1.9,1.5,0.4
+1421,Beef,Nue Vegan,2,1,9.8,2.2,7.6
+1422,Beef,Chick-fil-a,8,2,5.8,1.0,4.8
+1423,Parmesan cheese,Blaze pizza,11,3,3.6,0.4,3.2
+1424,Drumsticks,Nue Vegan,5,2,2.9,1.5,1.4
+1425,Pizza,Globe,8,2,6.2,5.3,0.9
+1426,Pork,Ike's,6,2,4.8,0.2,4.6
+1427,Tune,Globe,2,1,3.4,2.8,0.6
+1428,Tune,Blaze pizza,9,3,1.9,1.7,0.2
+1429,Pork,Southside,3,1,6.5,5.5,1.0
+1430,Beef,Nue Vegan,8,2,4.7,3.5,1.2
+1431,Salad,Flip kitchen,10,3,5.2,3.0,2.2
+1432,Salad,Blaze pizza,3,1,7.2,2.9,4.3
+1433,Drumsticks,Blaze pizza,7,2,7.4,4.5,2.9
+1434,Salad,Blaze pizza,3,1,9.2,1.0,8.2
+1435,Tune,Chick-fil-a,12,3,1.8,0.1,1.7
+1436,Beans,Southside,2,1,9.8,9.0,0.8
+1437,Parmesan cheese,Globe,2,1,2.5,1.4,1.1
+1438,Beef,Nue Vegan,8,2,2.0,1.8,0.2
+1439,Pork,Globe,12,3,1.2,0.3,0.9
+1440,Parmesan cheese,Globe,9,3,9.9,1.0,8.9
+1441,Pizza,Southside,8,2,2.3,1.7,0.6
+1442,Salad,Halal Guys,4,1,6.6,2.2,4.4
+1443,Pork,Akino sushi,8,2,6.1,1.7,4.4
+1444,Pizza,Chipotle,5,2,9.5,7.4,2.1
+1445,Beans,Southside,8,2,4.7,0.7,4.0
+1446,Fries,Halal Guys,7,2,6.5,0.1,6.4
+1447,Burger,Chipotle,1,1,3.4,2.9,0.5
+1448,Parmesan cheese,Nue Vegan,5,2,2.4,2.1,0.3
+1449,Parmesan cheese,Halal Guys,1,1,8.2,3.4,4.8
+1450,Pizza,Chick-fil-a,11,3,9.2,8.1,1.1
+1451,Parmesan cheese,Chick-fil-a,6,2,9.3,4.1,5.2
+1452,Pork,Nue Vegan,10,3,9.8,2.2,7.6
+1453,Beans,Blaze pizza,3,1,4.7,2.6,2.1
+1454,Salad,Blaze pizza,8,2,1.1,0.2,0.9
+1455,Drumsticks,Globe,4,1,6.9,5.7,1.2
+1456,Parmesan cheese,Nue Vegan,8,2,2.1,1.3,0.8
+1457,Beef,Globe,8,2,1.6,1.4,0.2
+1458,Pork,Southside,3,1,7.9,5.2,2.7
+1459,Fries,Blaze pizza,2,1,2.1,1.2,0.9
+1460,Pizza,Blaze pizza,11,3,3.3,0.1,3.2
+1461,Chicken,Chipotle,12,3,5.6,5.2,0.4
+1462,Chicken,Southside,1,1,9.9,4.7,5.2
+1463,Pork,Nue Vegan,9,3,8.2,2.7,5.5
+1464,Pork,Southside,1,1,8.1,2.0,6.1
+1465,Beans,Globe,7,2,2.9,0.6,2.3
+1466,Beans,Akino sushi,12,3,8.9,4.5,4.4
+1467,Pizza,Halal Guys,2,1,3.9,1.5,2.4
+1468,Pork,Globe,1,1,4.9,2.2,2.7
+1469,Beans,Akino sushi,10,3,9.0,0.6,8.4
+1470,Parmesan cheese,Chipotle,2,1,4.3,3.7,0.6
+1471,Burger,Flip kitchen,2,1,7.6,6.2,1.4
+1472,Parmesan cheese,Chick-fil-a,8,2,8.2,1.8,6.4
+1473,Pork,Ike's,4,1,3.3,1.0,2.3
+1474,Salad,Halal Guys,6,2,9.4,2.3,7.1
+1475,Tune,Blaze pizza,12,3,3.6,2.7,0.9
+1476,Chicken,Nue Vegan,1,1,1.1,0.7,0.4
+1477,Pork,Blaze pizza,2,1,8.9,4.9,4.0
+1478,Tune,Flip kitchen,7,2,1.3,0.2,1.1
+1479,Parmesan cheese,Chick-fil-a,1,1,4.5,1.7,2.8
+1480,Burger,Akino sushi,11,3,2.2,0.7,1.5
+1481,Chicken,Chick-fil-a,11,3,2.2,0.9,1.3
+1482,Chicken,Globe,5,2,5.3,1.0,4.3
+1483,Tune,Globe,10,3,2.8,1.1,1.7
+1484,Pork,Globe,3,1,3.6,1.4,2.2
+1485,Tune,Halal Guys,4,1,8.2,3.9,4.3
+1486,Burger,Akino sushi,5,2,7.6,7.5,0.1
+1487,Drumsticks,Blaze pizza,2,1,9.0,2.8,6.2
+1488,Beans,Globe,8,2,6.1,2.9,3.2
+1489,Drumsticks,Globe,10,3,7.6,5.1,2.5
+1490,Pork,Akino sushi,9,3,7.4,0.8,6.6
+1491,Salad,Blaze pizza,8,2,5.8,3.8,2.0
+1492,Parmesan cheese,Chipotle,1,1,8.3,2.5,5.8
+1493,Pork,Ike's,1,1,7.7,0.4,7.3
+1494,Chicken,Flip kitchen,6,2,7.4,2.0,5.4
+1495,Beef,Globe,7,2,3.3,1.7,1.6
+1496,Chicken,Globe,6,2,7.8,3.0,4.8
+1497,Fries,Southside,4,1,9.9,1.2,8.7
+1498,Chicken,Southside,1,1,7.4,2.3,5.1
+1499,Drumsticks,Globe,5,2,8.8,0.9,7.9
+1500,Parmesan cheese,Chipotle,8,2,9.8,9.8,0.0
+1501,Pork,Halal Guys,7,2,5.3,1.7,3.6
+1502,Drumsticks,Globe,2,1,6.4,2.4,4.0
+1503,Pizza,Blaze pizza,2,1,4.7,3.6,1.1
+1504,Parmesan cheese,Southside,11,3,3.2,2.8,0.4
+1505,Parmesan cheese,Chick-fil-a,12,3,3.8,3.7,0.1
+1506,Parmesan cheese,Halal Guys,12,3,9.9,3.3,6.6
+1507,Burger,Halal Guys,2,1,9.4,8.8,0.6
+1508,Salad,Halal Guys,12,3,4.3,1.9,2.4
+1509,Tune,Ike's,10,3,1.0,0.3,0.7
+1510,Parmesan cheese,Halal Guys,4,1,8.8,4.4,4.4
+1511,Parmesan cheese,Blaze pizza,2,1,1.2,0.8,0.4
+1512,Salad,Blaze pizza,12,3,6.2,5.4,0.8
+1513,Parmesan cheese,Ike's,2,1,9.0,5.8,3.2
+1514,Fries,Halal Guys,1,1,5.1,0.2,4.9
+1515,Pork,Southside,6,2,5.1,4.7,0.4
+1516,Salad,Akino sushi,5,2,5.4,0.3,5.1
+1517,Beans,Chipotle,11,3,2.6,0.9,1.7
+1518,Burger,Nue Vegan,9,3,8.4,5.5,2.9
+1519,Parmesan cheese,Halal Guys,9,3,8.5,4.5,4.0
+1520,Pork,Globe,2,1,3.0,0.8,2.2
+1521,Burger,Nue Vegan,11,3,3.0,2.9,0.1
+1522,Beans,Halal Guys,6,2,2.5,1.7,0.8
+1523,Parmesan cheese,Flip kitchen,8,2,6.0,3.2,2.8
+1524,Chicken,Southside,10,3,7.3,5.8,1.5
+1525,Beans,Nue Vegan,2,1,3.0,0.6,2.4
+1526,Parmesan cheese,Flip kitchen,3,1,7.4,4.4,3.0
+1527,Beef,Flip kitchen,6,2,2.0,0.6,1.4
+1528,Beef,Nue Vegan,7,2,5.2,2.5,2.7
+1529,Salad,Nue Vegan,10,3,4.1,0.6,3.5
+1530,Pork,Chick-fil-a,3,1,6.6,0.2,6.4
+1531,Burger,Akino sushi,2,1,1.9,0.4,1.5
+1532,Beans,Akino sushi,4,1,1.7,1.3,0.4
+1533,Chicken,Globe,12,3,3.3,1.5,1.8
+1534,Chicken,Akino sushi,5,2,3.6,3.1,0.5
+1535,Beef,Flip kitchen,9,3,5.5,5.4,0.1
+1536,Beans,Chick-fil-a,7,2,1.7,1.2,0.5
+1537,Salad,Halal Guys,7,2,9.4,6.6,2.8
+1538,Burger,Flip kitchen,4,1,9.9,6.0,3.9
+1539,Tune,Blaze pizza,10,3,3.8,3.5,0.3
+1540,Salad,Akino sushi,5,2,2.7,2.7,0.0
+1541,Beans,Nue Vegan,7,2,9.9,3.4,6.5
+1542,Tune,Southside,4,1,8.8,4.1,4.7
+1543,Fries,Blaze pizza,6,2,9.1,7.6,1.5
+1544,Parmesan cheese,Chipotle,10,3,7.5,3.8,3.7
+1545,Salad,Ike's,7,2,9.1,6.2,2.9
+1546,Fries,Halal Guys,9,3,8.9,8.2,0.7
+1547,Fries,Akino sushi,3,1,1.0,0.4,0.6
+1548,Pizza,Flip kitchen,12,3,6.8,4.4,2.4
+1549,Tune,Globe,5,2,7.4,1.8,5.6
+1550,Parmesan cheese,Ike's,1,1,1.1,0.2,0.9
+1551,Pizza,Blaze pizza,2,1,5.9,3.3,2.6
+1552,Burger,Akino sushi,10,3,9.6,4.4,5.2
+1553,Fries,Nue Vegan,2,1,2.2,0.1,2.1
+1554,Salad,Ike's,1,1,1.3,0.9,0.4
+1555,Drumsticks,Ike's,3,1,7.2,1.2,6.0
+1556,Fries,Halal Guys,8,2,9.7,4.0,5.7
+1557,Drumsticks,Blaze pizza,12,3,7.4,4.6,2.8
+1558,Pizza,Flip kitchen,2,1,8.9,4.1,4.8
+1559,Pizza,Halal Guys,4,1,5.6,1.9,3.7
+1560,Salad,Chipotle,5,2,8.8,0.4,8.4
+1561,Pork,Ike's,6,2,8.8,0.8,8.0
+1562,Parmesan cheese,Chick-fil-a,5,2,7.1,2.2,4.9
+1563,Beef,Chipotle,9,3,6.3,3.9,2.4
+1564,Pork,Chipotle,3,1,1.9,1.7,0.2
+1565,Pizza,Nue Vegan,10,3,9.5,0.1,9.4
+1566,Burger,Akino sushi,4,1,9.3,3.6,5.7
+1567,Parmesan cheese,Halal Guys,4,1,9.1,3.3,5.8
+1568,Chicken,Akino sushi,5,2,6.6,2.3,4.3
+1569,Drumsticks,Southside,7,2,10.0,1.9,8.1
+1570,Pizza,Chick-fil-a,12,3,8.0,7.5,0.5
+1571,Beef,Chipotle,5,2,4.7,0.1,4.6
+1572,Drumsticks,Halal Guys,12,3,3.1,3.0,0.1
+1573,Salad,Akino sushi,2,1,5.0,0.7,4.3
+1574,Fries,Southside,7,2,7.5,0.2,7.3
+1575,Drumsticks,Chipotle,9,3,4.0,3.2,0.8
+1576,Fries,Nue Vegan,5,2,5.9,4.1,1.8
+1577,Salad,Chick-fil-a,4,1,6.0,3.2,2.8
+1578,Tune,Ike's,5,2,6.4,4.7,1.7
+1579,Pork,Ike's,11,3,7.0,3.2,3.8
+1580,Pizza,Chipotle,9,3,4.7,1.4,3.3
+1581,Chicken,Southside,10,3,3.4,2.2,1.2
+1582,Tune,Akino sushi,8,2,3.1,0.4,2.7
+1583,Tune,Chick-fil-a,8,2,4.4,0.9,3.5
+1584,Drumsticks,Chipotle,8,2,9.0,5.4,3.6
+1585,Drumsticks,Flip kitchen,5,2,9.9,4.6,5.3
+1586,Beef,Halal Guys,8,2,9.4,5.4,4.0
+1587,Fries,Chipotle,7,2,8.5,3.0,5.5
+1588,Tune,Southside,2,1,7.4,1.0,6.4
+1589,Fries,Southside,6,2,2.0,0.0,2.0
+1590,Pork,Halal Guys,10,3,8.8,3.5,5.3
+1591,Tune,Blaze pizza,12,3,5.2,2.3,2.9
+1592,Fries,Akino sushi,7,2,8.4,2.1,6.3
+1593,Fries,Flip kitchen,8,2,7.4,5.8,1.6
+1594,Burger,Chipotle,10,3,9.4,8.9,0.5
+1595,Salad,Ike's,5,2,5.8,2.7,3.1
+1596,Pork,Chipotle,5,2,7.6,3.5,4.1
+1597,Chicken,Chick-fil-a,1,1,10.0,5.4,4.6
+1598,Pizza,Chick-fil-a,6,2,1.0,0.9,0.1
+1599,Tune,Halal Guys,8,2,5.9,3.1,2.8
+1600,Salad,Flip kitchen,5,2,5.8,3.5,2.3
+1601,Chicken,Ike's,9,3,9.1,5.3,3.8
+1602,Parmesan cheese,Ike's,1,1,9.3,5.4,3.9
+1603,Chicken,Chipotle,4,1,3.3,2.9,0.4
+1604,Parmesan cheese,Ike's,10,3,1.9,0.1,1.8
+1605,Fries,Chipotle,2,1,2.0,0.3,1.7
+1606,Chicken,Chipotle,3,1,4.7,1.7,3.0
+1607,Chicken,Halal Guys,9,3,1.4,0.5,0.9
+1608,Pork,Ike's,10,3,7.7,1.4,6.3
+1609,Chicken,Globe,5,2,6.4,5.9,0.5
+1610,Tune,Flip kitchen,5,2,7.4,4.7,2.7
+1611,Chicken,Blaze pizza,2,1,4.2,2.1,2.1
+1612,Chicken,Blaze pizza,11,3,4.7,1.9,2.8
+1613,Beef,Chipotle,6,2,7.6,1.1,6.5
+1614,Beef,Southside,2,1,8.3,3.4,4.9
+1615,Beef,Chick-fil-a,9,3,7.4,0.7,6.7
+1616,Beans,Ike's,4,1,6.7,2.6,4.1
+1617,Tune,Blaze pizza,8,2,4.9,3.1,1.8
+1618,Chicken,Nue Vegan,10,3,1.8,1.4,0.4
+1619,Pork,Nue Vegan,9,3,6.0,3.2,2.8
+1620,Burger,Ike's,12,3,6.0,4.3,1.7
+1621,Pizza,Akino sushi,7,2,1.4,1.2,0.2
+1622,Pork,Flip kitchen,1,1,1.1,0.5,0.6
+1623,Pizza,Flip kitchen,7,2,3.9,2.7,1.2
+1624,Salad,Flip kitchen,7,2,5.2,2.8,2.4
+1625,Tune,Nue Vegan,3,1,5.4,4.2,1.2
+1626,Salad,Halal Guys,1,1,6.3,4.4,1.9
+1627,Tune,Globe,8,2,5.7,0.1,5.6
+1628,Pork,Chick-fil-a,10,3,3.7,3.0,0.7
+1629,Beef,Nue Vegan,3,1,2.4,0.9,1.5
+1630,Parmesan cheese,Southside,1,1,8.2,5.0,3.2
+1631,Chicken,Southside,3,1,1.9,0.1,1.8
+1632,Drumsticks,Chipotle,11,3,5.7,2.9,2.8
+1633,Pork,Blaze pizza,11,3,10.0,3.1,6.9
+1634,Beans,Ike's,8,2,2.5,1.1,1.4
+1635,Beans,Chipotle,1,1,1.2,1.0,0.2
+1636,Parmesan cheese,Chick-fil-a,5,2,3.8,0.7,3.1
+1637,Chicken,Chipotle,5,2,7.5,1.6,5.9
+1638,Salad,Globe,7,2,7.8,1.9,5.9
+1639,Burger,Globe,6,2,5.5,2.6,2.9
+1640,Salad,Globe,7,2,8.7,1.6,7.1
+1641,Fries,Akino sushi,9,3,8.7,0.7,8.0
+1642,Fries,Chick-fil-a,9,3,8.6,7.0,1.6
+1643,Tune,Chick-fil-a,3,1,5.0,0.3,4.7
+1644,Salad,Nue Vegan,7,2,5.5,4.2,1.3
+1645,Tune,Ike's,12,3,7.2,4.3,2.9
+1646,Drumsticks,Flip kitchen,10,3,1.5,0.2,1.3
+1647,Fries,Chipotle,8,2,1.1,0.9,0.2
+1648,Beef,Nue Vegan,5,2,3.5,0.3,3.2
+1649,Beef,Ike's,3,1,2.1,1.5,0.6
+1650,Beans,Flip kitchen,11,3,7.7,4.1,3.6
+1651,Beans,Akino sushi,6,2,4.9,1.4,3.5
+1652,Drumsticks,Southside,12,3,8.0,0.1,7.9
+1653,Pizza,Flip kitchen,2,1,4.9,1.2,3.7
+1654,Burger,Akino sushi,2,1,6.9,1.9,5.0
+1655,Pork,Southside,8,2,1.0,0.1,0.9
+1656,Drumsticks,Blaze pizza,7,2,1.1,0.6,0.5
+1657,Beef,Nue Vegan,4,1,5.1,0.1,5.0
+1658,Pizza,Nue Vegan,2,1,4.8,3.9,0.9
+1659,Pork,Ike's,3,1,4.5,1.7,2.8
+1660,Pork,Chick-fil-a,1,1,7.8,6.1,1.7
+1661,Drumsticks,Chick-fil-a,3,1,2.3,1.3,1.0
+1662,Burger,Chipotle,5,2,9.5,3.3,6.2
+1663,Parmesan cheese,Southside,6,2,9.8,3.5,6.3
+1664,Pizza,Chick-fil-a,2,1,8.9,0.4,8.5
+1665,Parmesan cheese,Ike's,2,1,4.6,2.1,2.5
+1666,Beef,Nue Vegan,3,1,6.7,5.2,1.5
+1667,Beans,Halal Guys,5,2,6.8,6.1,0.7
+1668,Beans,Flip kitchen,7,2,9.2,1.8,7.4
+1669,Beef,Chipotle,4,1,5.7,5.3,0.4
+1670,Fries,Blaze pizza,9,3,3.8,3.0,0.8
+1671,Parmesan cheese,Akino sushi,9,3,7.8,3.0,4.8
+1672,Tune,Blaze pizza,12,3,9.9,4.4,5.5
+1673,Beans,Halal Guys,8,2,3.7,0.5,3.2
+1674,Fries,Southside,7,2,9.3,0.0,9.3
+1675,Burger,Globe,5,2,3.8,3.7,0.1
+1676,Tune,Chick-fil-a,1,1,2.9,0.2,2.7
+1677,Pizza,Blaze pizza,3,1,5.4,2.1,3.3
+1678,Drumsticks,Flip kitchen,3,1,9.1,5.1,4.0
+1679,Salad,Chick-fil-a,6,2,8.1,4.1,4.0
+1680,Tune,Globe,10,3,6.0,4.4,1.6
+1681,Burger,Blaze pizza,12,3,3.3,2.3,1.0
+1682,Beef,Akino sushi,4,1,3.5,2.6,0.9
+1683,Parmesan cheese,Nue Vegan,10,3,3.5,1.1,2.4
+1684,Pork,Ike's,5,2,5.5,0.0,5.5
+1685,Chicken,Akino sushi,10,3,3.6,1.7,1.9
+1686,Pork,Flip kitchen,4,1,5.0,1.5,3.5
+1687,Tune,Nue Vegan,5,2,8.8,5.0,3.8
+1688,Pork,Akino sushi,1,1,9.9,5.1,4.8
+1689,Salad,Ike's,4,1,3.2,2.2,1.0
+1690,Pizza,Flip kitchen,10,3,6.4,1.0,5.4
+1691,Pizza,Globe,9,3,2.0,0.2,1.8
+1692,Pizza,Ike's,8,2,5.6,2.5,3.1
+1693,Chicken,Chipotle,11,3,6.6,6.3,0.3
+1694,Beans,Southside,8,2,7.9,1.8,6.1
+1695,Salad,Ike's,3,1,7.6,6.7,0.9
+1696,Tune,Nue Vegan,2,1,3.1,0.2,2.9
+1697,Beef,Southside,1,1,9.3,4.6,4.7
+1698,Pizza,Nue Vegan,3,1,2.6,2.0,0.6
+1699,Salad,Nue Vegan,5,2,5.8,5.4,0.4
+1700,Salad,Ike's,5,2,7.9,7.5,0.4
+1701,Pizza,Globe,4,1,9.6,0.8,8.8
+1702,Drumsticks,Nue Vegan,7,2,2.4,0.5,1.9
+1703,Fries,Ike's,1,1,1.3,1.2,0.1
+1704,Pork,Ike's,6,2,2.8,0.9,1.9
+1705,Pork,Nue Vegan,10,3,3.4,0.3,3.1
+1706,Parmesan cheese,Ike's,9,3,7.9,6.8,1.1
+1707,Beans,Southside,5,2,7.0,6.3,0.7
+1708,Pork,Southside,10,3,1.9,1.8,0.1
+1709,Salad,Nue Vegan,7,2,9.6,5.5,4.1
+1710,Pork,Halal Guys,7,2,3.2,0.3,2.9
+1711,Salad,Flip kitchen,7,2,4.1,3.1,1.0
+1712,Beef,Akino sushi,3,1,8.7,8.4,0.3
+1713,Pork,Flip kitchen,3,1,6.8,1.9,4.9
+1714,Burger,Ike's,11,3,5.6,1.1,4.5
+1715,Fries,Blaze pizza,12,3,8.2,3.6,4.6
+1716,Burger,Flip kitchen,7,2,2.7,2.2,0.5
+1717,Beans,Blaze pizza,1,1,5.0,3.9,1.1
+1718,Salad,Akino sushi,6,2,2.5,0.0,2.5
+1719,Drumsticks,Ike's,11,3,8.9,8.7,0.2
+1720,Salad,Akino sushi,4,1,2.4,0.1,2.3
+1721,Pork,Chick-fil-a,4,1,4.8,4.5,0.3
+1722,Chicken,Blaze pizza,11,3,7.2,0.4,6.8
+1723,Parmesan cheese,Blaze pizza,4,1,6.1,0.7,5.4
+1724,Fries,Southside,9,3,1.4,1.3,0.1
+1725,Burger,Chipotle,8,2,7.6,2.5,5.1
+1726,Tune,Chipotle,6,2,9.3,7.4,1.9
+1727,Fries,Halal Guys,10,3,5.0,2.1,2.9
+1728,Beef,Chipotle,7,2,8.4,6.0,2.4
+1729,Salad,Ike's,8,2,1.6,1.4,0.2
+1730,Tune,Flip kitchen,5,2,6.7,3.9,2.8
+1731,Pizza,Southside,1,1,1.8,1.7,0.1
+1732,Tune,Chipotle,5,2,4.9,3.5,1.4
+1733,Pork,Halal Guys,12,3,7.0,4.3,2.7
+1734,Parmesan cheese,Ike's,4,1,1.3,0.7,0.6
+1735,Burger,Akino sushi,6,2,5.9,1.5,4.4
+1736,Beans,Chipotle,9,3,6.1,1.4,4.7
+1737,Tune,Nue Vegan,10,3,9.4,6.7,2.7
+1738,Tune,Nue Vegan,12,3,2.0,1.7,0.3
+1739,Fries,Southside,3,1,6.9,4.1,2.8
+1740,Tune,Globe,4,1,7.6,5.4,2.2
+1741,Parmesan cheese,Chick-fil-a,1,1,8.3,8.0,0.3
+1742,Pork,Southside,1,1,9.4,1.6,7.8
+1743,Pork,Flip kitchen,1,1,4.9,2.8,2.1
+1744,Pork,Blaze pizza,9,3,7.8,0.6,7.2
+1745,Beef,Chick-fil-a,11,3,2.3,2.0,0.3
+1746,Beef,Ike's,10,3,1.9,1.8,0.1
+1747,Pork,Southside,12,3,1.3,1.2,0.1
+1748,Fries,Nue Vegan,2,1,3.2,2.3,0.9
+1749,Salad,Blaze pizza,1,1,6.0,5.3,0.7
+1750,Fries,Halal Guys,10,3,8.6,6.3,2.3
+1751,Tune,Akino sushi,9,3,5.0,3.7,1.3
+1752,Beef,Blaze pizza,12,3,1.1,1.1,0.0
+1753,Salad,Ike's,4,1,2.8,0.4,2.4
+1754,Chicken,Halal Guys,9,3,2.4,0.5,1.9
+1755,Beans,Southside,11,3,9.9,9.3,0.6
+1756,Beef,Chick-fil-a,6,2,1.9,1.2,0.7
+1757,Beans,Nue Vegan,4,1,2.7,2.2,0.5
+1758,Tune,Chick-fil-a,8,2,7.5,0.8,6.7
+1759,Drumsticks,Globe,4,1,1.5,0.4,1.1
+1760,Salad,Halal Guys,9,3,9.2,6.1,3.1
+1761,Fries,Blaze pizza,9,3,7.6,1.3,6.3
+1762,Beef,Ike's,10,3,7.0,1.4,5.6
+1763,Burger,Ike's,10,3,7.1,3.1,4.0
+1764,Burger,Halal Guys,2,1,6.8,0.5,6.3
+1765,Burger,Chick-fil-a,8,2,8.4,6.8,1.6
+1766,Burger,Southside,11,3,5.5,2.7,2.8
+1767,Salad,Chipotle,3,1,3.2,0.4,2.8
+1768,Fries,Chick-fil-a,2,1,5.6,4.3,1.3
+1769,Tune,Akino sushi,1,1,7.0,1.2,5.8
+1770,Parmesan cheese,Chick-fil-a,11,3,5.9,2.3,3.6
+1771,Pizza,Chick-fil-a,11,3,1.2,0.9,0.3
+1772,Pork,Chick-fil-a,1,1,9.7,8.5,1.2
+1773,Beef,Akino sushi,4,1,1.2,0.4,0.8
+1774,Salad,Ike's,5,2,9.3,0.4,8.9
+1775,Fries,Blaze pizza,1,1,4.8,0.8,4.0
+1776,Beans,Globe,1,1,8.5,6.4,2.1
+1777,Parmesan cheese,Chick-fil-a,3,1,7.3,5.3,2.0
+1778,Tune,Ike's,10,3,3.9,0.2,3.7
+1779,Drumsticks,Ike's,4,1,1.2,0.8,0.4
+1780,Beef,Flip kitchen,6,2,3.4,0.4,3.0
+1781,Salad,Chipotle,9,3,8.2,3.5,4.7
+1782,Beans,Globe,5,2,4.5,3.5,1.0
+1783,Salad,Halal Guys,10,3,3.3,2.1,1.2
+1784,Beans,Flip kitchen,1,1,8.5,6.9,1.6
+1785,Fries,Chick-fil-a,8,2,9.4,0.8,8.6
+1786,Pork,Halal Guys,12,3,6.7,4.8,1.9
+1787,Salad,Blaze pizza,1,1,2.1,0.8,1.3
+1788,Chicken,Ike's,5,2,5.0,3.2,1.8
+1789,Beans,Halal Guys,7,2,3.2,2.6,0.6
+1790,Pork,Halal Guys,8,2,6.5,5.0,1.5
+1791,Tune,Blaze pizza,4,1,8.8,0.1,8.7
+1792,Beef,Southside,9,3,2.9,1.0,1.9
+1793,Salad,Halal Guys,6,2,5.2,3.8,1.4
+1794,Chicken,Chick-fil-a,7,2,9.3,1.7,7.6
+1795,Beef,Nue Vegan,6,2,6.3,2.1,4.2
+1796,Pork,Chipotle,6,2,7.6,3.4,4.2
+1797,Burger,Southside,5,2,8.8,5.5,3.3
+1798,Chicken,Blaze pizza,1,1,2.3,1.9,0.4
+1799,Parmesan cheese,Globe,4,1,3.0,0.6,2.4
+1800,Burger,Halal Guys,4,1,6.9,5.0,1.9
+1801,Beef,Akino sushi,9,3,4.5,1.2,3.3
+1802,Drumsticks,Chick-fil-a,2,1,4.3,2.5,1.8
+1803,Salad,Akino sushi,10,3,4.8,3.0,1.8
+1804,Tune,Ike's,7,2,8.4,8.2,0.2
+1805,Parmesan cheese,Blaze pizza,12,3,2.0,1.1,0.9
+1806,Salad,Flip kitchen,9,3,6.6,1.5,5.1
+1807,Drumsticks,Ike's,9,3,3.3,0.7,2.6
+1808,Chicken,Chick-fil-a,1,1,1.1,1.0,0.1
+1809,Fries,Akino sushi,4,1,6.7,5.3,1.4
+1810,Tune,Ike's,10,3,5.6,3.8,1.8
+1811,Tune,Halal Guys,3,1,9.6,6.8,2.8
+1812,Beans,Halal Guys,7,2,2.5,0.8,1.7
+1813,Beans,Blaze pizza,2,1,8.7,4.4,4.3
+1814,Burger,Akino sushi,12,3,1.1,0.8,0.3
+1815,Drumsticks,Blaze pizza,12,3,6.9,1.9,5.0
+1816,Drumsticks,Halal Guys,12,3,8.8,4.5,4.3
+1817,Fries,Ike's,4,1,6.2,4.9,1.3
+1818,Beans,Blaze pizza,10,3,9.4,8.0,1.4
+1819,Tune,Southside,1,1,3.9,3.4,0.5
+1820,Pork,Flip kitchen,6,2,9.9,4.1,5.8
+1821,Chicken,Chick-fil-a,2,1,4.0,2.3,1.7
+1822,Chicken,Chick-fil-a,7,2,9.2,8.3,0.9
+1823,Drumsticks,Flip kitchen,8,2,5.9,5.8,0.1
+1824,Salad,Flip kitchen,1,1,1.2,0.6,0.6
+1825,Pizza,Southside,11,3,8.0,6.3,1.7
+1826,Chicken,Chipotle,1,1,4.6,4.3,0.3
+1827,Drumsticks,Ike's,4,1,3.6,0.8,2.8
+1828,Tune,Chipotle,11,3,2.9,1.4,1.5
+1829,Drumsticks,Akino sushi,9,3,8.8,0.6,8.2
+1830,Burger,Flip kitchen,12,3,1.8,1.3,0.5
+1831,Drumsticks,Chick-fil-a,7,2,4.9,2.7,2.2
+1832,Chicken,Nue Vegan,2,1,7.9,0.9,7.0
+1833,Fries,Ike's,9,3,5.8,1.1,4.7
+1834,Salad,Akino sushi,7,2,2.4,0.7,1.7
+1835,Drumsticks,Globe,2,1,1.0,0.5,0.5
+1836,Burger,Akino sushi,12,3,7.8,6.0,1.8
+1837,Salad,Nue Vegan,6,2,7.2,5.4,1.8
+1838,Beef,Southside,7,2,7.5,0.6,6.9
+1839,Fries,Nue Vegan,2,1,1.2,0.7,0.5
+1840,Fries,Flip kitchen,9,3,5.3,2.4,2.9
+1841,Tune,Flip kitchen,4,1,8.4,2.9,5.5
+1842,Salad,Globe,4,1,3.5,3.0,0.5
+1843,Salad,Globe,2,1,5.9,5.9,0.0
+1844,Tune,Nue Vegan,6,2,4.1,2.9,1.2
+1845,Pork,Blaze pizza,4,1,8.2,7.3,0.9
+1846,Parmesan cheese,Globe,8,2,2.1,1.4,0.7
+1847,Burger,Flip kitchen,4,1,3.3,2.9,0.4
+1848,Salad,Akino sushi,9,3,5.2,4.3,0.9
+1849,Fries,Akino sushi,4,1,6.9,4.5,2.4
+1850,Tune,Halal Guys,7,2,1.6,0.5,1.1
+1851,Tune,Ike's,2,1,3.9,1.4,2.5
+1852,Tune,Chick-fil-a,5,2,1.3,0.2,1.1
+1853,Pizza,Chick-fil-a,9,3,7.1,6.9,0.2
+1854,Salad,Akino sushi,11,3,4.2,1.5,2.7
+1855,Tune,Globe,2,1,8.4,1.4,7.0
+1856,Burger,Akino sushi,1,1,9.4,4.4,5.0
+1857,Burger,Akino sushi,5,2,3.9,0.5,3.4
+1858,Burger,Halal Guys,10,3,8.8,7.3,1.5
+1859,Burger,Chipotle,5,2,2.3,0.9,1.4
+1860,Burger,Globe,8,2,1.9,0.0,1.9
+1861,Salad,Flip kitchen,5,2,4.9,4.0,0.9
+1862,Beans,Chipotle,9,3,1.2,0.3,0.9
+1863,Pork,Blaze pizza,4,1,8.6,8.2,0.4
+1864,Fries,Halal Guys,11,3,8.3,4.0,4.3
+1865,Chicken,Southside,5,2,7.7,6.5,1.2
+1866,Pizza,Akino sushi,4,1,1.3,1.0,0.3
+1867,Parmesan cheese,Chipotle,11,3,7.7,7.6,0.1
+1868,Pizza,Blaze pizza,2,1,4.5,2.4,2.1
+1869,Pork,Nue Vegan,4,1,4.6,2.6,2.0
+1870,Chicken,Nue Vegan,11,3,3.6,0.1,3.5
+1871,Beef,Blaze pizza,11,3,5.0,2.1,2.9
+1872,Beef,Globe,3,1,7.0,6.7,0.3
+1873,Tune,Southside,10,3,9.2,6.3,2.9
+1874,Beef,Chipotle,1,1,7.7,5.4,2.3
+1875,Pizza,Akino sushi,9,3,5.3,3.8,1.5
+1876,Beans,Southside,8,2,7.3,4.2,3.1
+1877,Tune,Globe,9,3,9.4,0.5,8.9
+1878,Fries,Southside,7,2,7.6,5.9,1.7
+1879,Fries,Flip kitchen,2,1,9.5,0.4,9.1
+1880,Beans,Flip kitchen,1,1,2.9,1.7,1.2
+1881,Pizza,Chick-fil-a,8,2,8.4,7.4,1.0
+1882,Pork,Southside,12,3,7.8,2.3,5.5
+1883,Pizza,Globe,6,2,2.2,0.4,1.8
+1884,Parmesan cheese,Flip kitchen,8,2,1.1,0.3,0.8
+1885,Parmesan cheese,Southside,1,1,5.7,2.6,3.1
+1886,Burger,Chipotle,6,2,2.9,0.7,2.2
+1887,Drumsticks,Halal Guys,2,1,7.8,3.6,4.2
+1888,Pork,Chick-fil-a,1,1,8.6,7.0,1.6
+1889,Pork,Chick-fil-a,5,2,8.3,6.8,1.5
+1890,Burger,Nue Vegan,8,2,1.7,0.5,1.2
+1891,Chicken,Chipotle,1,1,2.1,1.1,1.0
+1892,Pork,Akino sushi,3,1,2.9,2.3,0.6
+1893,Parmesan cheese,Southside,1,1,1.4,1.0,0.4
+1894,Pizza,Akino sushi,10,3,7.6,0.8,6.8
+1895,Burger,Chipotle,4,1,2.7,0.4,2.3
+1896,Fries,Globe,1,1,4.9,2.3,2.6
+1897,Chicken,Blaze pizza,7,2,7.9,6.3,1.6
+1898,Chicken,Chipotle,12,3,4.0,1.1,2.9
+1899,Burger,Akino sushi,3,1,5.0,4.0,1.0
+1900,Beans,Akino sushi,3,1,1.0,0.6,0.4
+1901,Beans,Halal Guys,7,2,5.3,3.8,1.5
+1902,Chicken,Blaze pizza,12,3,6.0,2.4,3.6
+1903,Beef,Nue Vegan,2,1,1.3,1.0,0.3
+1904,Parmesan cheese,Akino sushi,12,3,6.3,5.0,1.3
+1905,Beef,Blaze pizza,1,1,1.1,0.1,1.0
+1906,Drumsticks,Globe,2,1,6.5,4.4,2.1
+1907,Salad,Globe,1,1,1.6,1.6,0.0
+1908,Salad,Akino sushi,3,1,1.9,0.9,1.0
+1909,Chicken,Chipotle,1,1,7.9,7.8,0.1
+1910,Tune,Nue Vegan,12,3,9.7,3.3,6.4
+1911,Burger,Chick-fil-a,2,1,8.0,7.8,0.2
+1912,Beans,Halal Guys,9,3,5.5,0.5,5.0
+1913,Drumsticks,Ike's,10,3,5.7,0.6,5.1
+1914,Chicken,Southside,10,3,3.4,2.8,0.6
+1915,Pizza,Chick-fil-a,7,2,5.2,1.5,3.7
+1916,Pizza,Chick-fil-a,8,2,6.1,1.5,4.6
+1917,Parmesan cheese,Chipotle,10,3,9.8,9.3,0.5
+1918,Burger,Flip kitchen,12,3,8.0,1.2,6.8
+1919,Burger,Ike's,4,1,4.2,2.8,1.4
+1920,Beef,Southside,6,2,9.0,5.1,3.9
+1921,Tune,Halal Guys,11,3,1.6,0.2,1.4
+1922,Pizza,Blaze pizza,11,3,4.5,2.6,1.9
+1923,Beef,Akino sushi,2,1,2.3,0.9,1.4
+1924,Chicken,Chick-fil-a,1,1,5.6,2.5,3.1
+1925,Pizza,Chick-fil-a,10,3,1.1,0.1,1.0
+1926,Tune,Southside,3,1,9.3,7.4,1.9
+1927,Pork,Chick-fil-a,2,1,5.7,2.6,3.1
+1928,Pork,Halal Guys,1,1,4.5,2.6,1.9
+1929,Beans,Akino sushi,11,3,9.0,0.3,8.7
+1930,Beans,Globe,2,1,4.8,3.5,1.3
+1931,Fries,Akino sushi,12,3,5.0,1.4,3.6
+1932,Pork,Flip kitchen,3,1,4.6,3.9,0.7
+1933,Tune,Blaze pizza,7,2,8.8,3.9,4.9
+1934,Pizza,Chick-fil-a,9,3,2.2,0.6,1.6
+1935,Beef,Blaze pizza,4,1,5.4,3.7,1.7
+1936,Burger,Southside,10,3,2.8,0.1,2.7
+1937,Drumsticks,Southside,7,2,2.2,1.5,0.7
+1938,Burger,Chick-fil-a,9,3,4.5,3.9,0.6
+1939,Pork,Southside,5,2,7.3,4.1,3.2
+1940,Beans,Ike's,1,1,5.6,1.6,4.0
+1941,Burger,Halal Guys,12,3,3.4,0.9,2.5
+1942,Salad,Flip kitchen,5,2,8.0,2.6,5.4
+1943,Fries,Blaze pizza,9,3,9.7,6.7,3.0
+1944,Beans,Southside,3,1,1.1,1.1,0.0
+1945,Tune,Halal Guys,9,3,6.2,3.2,3.0
+1946,Beef,Chick-fil-a,1,1,7.5,5.3,2.2
+1947,Pork,Globe,9,3,2.5,0.4,2.1
+1948,Salad,Chipotle,4,1,2.7,1.0,1.7
+1949,Pizza,Blaze pizza,10,3,2.6,1.4,1.2
+1950,Fries,Flip kitchen,2,1,8.4,8.0,0.4
+1951,Tune,Chipotle,3,1,9.1,5.2,3.9
+1952,Drumsticks,Chipotle,4,1,3.1,2.7,0.4
+1953,Drumsticks,Southside,2,1,2.9,2.6,0.3
+1954,Pork,Halal Guys,7,2,3.0,1.5,1.5
+1955,Beef,Chick-fil-a,10,3,4.4,1.9,2.5
+1956,Beef,Chick-fil-a,7,2,9.7,5.1,4.6
+1957,Beef,Blaze pizza,2,1,9.8,5.0,4.8
+1958,Chicken,Flip kitchen,12,3,1.8,0.7,1.1
+1959,Beans,Southside,3,1,2.7,1.1,1.6
+1960,Pork,Globe,6,2,9.1,2.6,6.5
+1961,Pork,Chick-fil-a,1,1,8.9,2.9,6.0
+1962,Burger,Flip kitchen,11,3,3.1,1.5,1.6
+1963,Pizza,Akino sushi,6,2,3.1,1.4,1.7
+1964,Beef,Globe,1,1,9.9,8.9,1.0
+1965,Beans,Chick-fil-a,6,2,7.5,2.5,5.0
+1966,Burger,Chick-fil-a,5,2,6.0,1.2,4.8
+1967,Fries,Nue Vegan,5,2,7.2,4.6,2.6
+1968,Tune,Chipotle,6,2,4.5,0.4,4.1
+1969,Fries,Ike's,11,3,4.3,1.5,2.8
+1970,Burger,Halal Guys,3,1,9.2,5.0,4.2
+1971,Burger,Flip kitchen,2,1,3.5,2.0,1.5
+1972,Salad,Nue Vegan,9,3,9.5,7.5,2.0
+1973,Fries,Chick-fil-a,6,2,7.9,0.1,7.8
+1974,Pork,Blaze pizza,8,2,7.8,5.2,2.6
+1975,Pizza,Nue Vegan,1,1,2.9,0.0,2.9
+1976,Salad,Globe,1,1,9.1,0.3,8.8
+1977,Drumsticks,Flip kitchen,3,1,4.4,0.1,4.3
+1978,Pork,Globe,3,1,4.0,1.8,2.2
+1979,Pizza,Nue Vegan,2,1,6.4,3.5,2.9
+1980,Pizza,Flip kitchen,8,2,7.5,2.0,5.5
+1981,Parmesan cheese,Globe,11,3,7.2,1.1,6.1
+1982,Tune,Akino sushi,9,3,9.7,7.9,1.8
+1983,Pork,Globe,4,1,3.9,1.4,2.5
+1984,Chicken,Chipotle,7,2,2.8,1.2,1.6
+1985,Chicken,Akino sushi,6,2,4.5,3.5,1.0
+1986,Parmesan cheese,Flip kitchen,9,3,6.1,3.0,3.1
+1987,Pork,Flip kitchen,12,3,6.4,5.6,0.8
+1988,Pizza,Ike's,2,1,7.6,5.6,2.0
+1989,Salad,Chick-fil-a,7,2,8.5,7.4,1.1
+1990,Chicken,Chick-fil-a,2,1,2.4,2.0,0.4
+1991,Beef,Southside,9,3,6.1,3.9,2.2
+1992,Parmesan cheese,Halal Guys,8,2,4.3,3.3,1.0
+1993,Tune,Akino sushi,12,3,5.4,4.2,1.2
+1994,Beef,Akino sushi,1,1,6.6,1.3,5.3
+1995,Salad,Ike's,9,3,2.3,0.4,1.9
+1996,Tune,Blaze pizza,5,2,9.0,6.8,2.2
+1997,Pizza,Nue Vegan,1,1,8.2,8.0,0.2
+1998,Tune,Southside,2,1,8.4,8.2,0.2
+1999,Beans,Nue Vegan,5,2,2.6,1.6,1.0
+2000,Pork,Blaze pizza,10,3,7.5,5.0,2.5
+2001,Drumsticks,Globe,4,1,4.6,3.4,1.2
+2002,Drumsticks,Chipotle,11,3,6.4,1.2,5.2
+2003,Burger,Chick-fil-a,6,2,3.8,2.0,1.8
+2004,Beef,Chick-fil-a,12,3,6.5,6.4,0.1
+2005,Burger,Blaze pizza,5,2,8.2,2.6,5.6
+2006,Parmesan cheese,Blaze pizza,1,1,9.8,9.7,0.1
+2007,Salad,Flip kitchen,3,1,6.7,1.8,4.9
+2008,Pizza,Halal Guys,4,1,3.2,1.1,2.1
+2009,Salad,Nue Vegan,3,1,1.7,1.2,0.5
+2010,Parmesan cheese,Akino sushi,9,3,3.6,2.8,0.8
+2011,Salad,Nue Vegan,4,1,7.3,5.0,2.3
+2012,Tune,Ike's,1,1,2.6,1.8,0.8
+2013,Chicken,Ike's,2,1,9.9,9.4,0.5
+2014,Beef,Ike's,2,1,4.0,0.2,3.8
+2015,Beef,Flip kitchen,12,3,1.1,0.9,0.2
+2016,Drumsticks,Blaze pizza,7,2,4.7,3.0,1.7
+2017,Pizza,Flip kitchen,5,2,6.6,1.4,5.2
+2018,Burger,Flip kitchen,12,3,7.9,4.5,3.4
+2019,Salad,Globe,1,1,6.0,2.7,3.3
+2020,Parmesan cheese,Chipotle,11,3,9.1,4.7,4.4
+2021,Fries,Globe,1,1,6.2,5.8,0.4
+2022,Pizza,Chipotle,6,2,8.9,7.3,1.6
+2023,Beans,Nue Vegan,7,2,6.9,0.5,6.4
+2024,Tune,Southside,8,2,4.4,4.2,0.2
+2025,Beef,Globe,2,1,10.0,7.5,2.5
+2026,Fries,Halal Guys,4,1,3.1,1.8,1.3
+2027,Beef,Southside,9,3,7.6,4.7,2.9
+2028,Pizza,Nue Vegan,11,3,1.9,1.8,0.1
+2029,Pizza,Southside,7,2,8.5,7.1,1.4
+2030,Parmesan cheese,Akino sushi,11,3,3.1,2.5,0.6
+2031,Fries,Chipotle,3,1,7.8,4.0,3.8
+2032,Tune,Nue Vegan,6,2,4.0,0.7,3.3
+2033,Burger,Chipotle,5,2,4.5,0.8,3.7
+2034,Parmesan cheese,Chick-fil-a,3,1,8.8,1.7,7.1
+2035,Drumsticks,Flip kitchen,1,1,5.2,4.8,0.4
+2036,Tune,Halal Guys,2,1,2.9,0.5,2.4
+2037,Parmesan cheese,Blaze pizza,1,1,1.6,0.6,1.0
+2038,Parmesan cheese,Halal Guys,3,1,7.9,7.5,0.4
+2039,Beans,Halal Guys,12,3,3.8,1.0,2.8
+2040,Beans,Ike's,1,1,3.1,3.0,0.1
+2041,Burger,Southside,7,2,4.3,3.0,1.3
+2042,Pizza,Halal Guys,9,3,5.7,1.9,3.8
+2043,Pizza,Chipotle,8,2,5.6,1.0,4.6
+2044,Drumsticks,Flip kitchen,11,3,5.0,2.8,2.2
+2045,Beef,Akino sushi,5,2,4.1,2.9,1.2
+2046,Beef,Nue Vegan,4,1,1.7,0.3,1.4
+2047,Tune,Globe,7,2,8.7,6.9,1.8
+2048,Pizza,Southside,3,1,5.2,3.7,1.5
+2049,Drumsticks,Halal Guys,2,1,9.7,9.1,0.6
+2050,Drumsticks,Blaze pizza,6,2,3.6,0.3,3.3
+2051,Burger,Akino sushi,12,3,7.9,5.8,2.1
+2052,Tune,Globe,11,3,6.0,4.3,1.7
+2053,Beef,Akino sushi,7,2,7.2,3.0,4.2
+2054,Pizza,Nue Vegan,10,3,1.8,0.5,1.3
+2055,Fries,Chipotle,5,2,2.2,0.4,1.8
+2056,Parmesan cheese,Akino sushi,1,1,9.3,4.9,4.4
+2057,Beans,Halal Guys,9,3,7.1,4.6,2.5
+2058,Chicken,Globe,9,3,7.1,2.8,4.3
+2059,Pizza,Halal Guys,7,2,3.9,0.2,3.7
+2060,Parmesan cheese,Chipotle,11,3,7.2,4.5,2.7
+2061,Chicken,Southside,9,3,8.1,3.4,4.7
+2062,Salad,Ike's,5,2,9.7,7.2,2.5
+2063,Burger,Globe,11,3,4.2,2.5,1.7
+2064,Beef,Globe,4,1,7.7,2.4,5.3
+2065,Beans,Ike's,10,3,4.0,0.9,3.1
+2066,Beans,Ike's,8,2,8.7,4.9,3.8
+2067,Parmesan cheese,Nue Vegan,8,2,1.6,1.5,0.1
+2068,Parmesan cheese,Chick-fil-a,11,3,7.9,7.5,0.4
+2069,Beans,Ike's,7,2,8.7,5.5,3.2
+2070,Pizza,Akino sushi,1,1,8.6,8.5,0.1
+2071,Pork,Nue Vegan,3,1,8.5,6.5,2.0
+2072,Beef,Globe,8,2,4.9,1.0,3.9
+2073,Salad,Blaze pizza,4,1,6.3,2.7,3.6
+2074,Chicken,Halal Guys,8,2,6.2,5.5,0.7
+2075,Parmesan cheese,Halal Guys,9,3,5.6,1.5,4.1
+2076,Pizza,Akino sushi,6,2,5.4,0.2,5.2
+2077,Tune,Globe,4,1,8.7,6.2,2.5
+2078,Burger,Chick-fil-a,6,2,4.1,0.8,3.3
+2079,Chicken,Blaze pizza,4,1,9.6,5.4,4.2
+2080,Beans,Southside,4,1,6.0,2.4,3.6
+2081,Beef,Akino sushi,7,2,5.2,4.9,0.3
+2082,Beef,Akino sushi,12,3,7.8,7.8,0.0
+2083,Beef,Akino sushi,8,2,7.1,6.5,0.6
+2084,Salad,Globe,12,3,3.9,1.1,2.8
+2085,Salad,Southside,1,1,3.9,3.7,0.2
+2086,Drumsticks,Blaze pizza,1,1,9.5,5.6,3.9
+2087,Salad,Ike's,6,2,9.7,2.7,7.0
+2088,Fries,Ike's,3,1,4.3,3.2,1.1
+2089,Beans,Ike's,5,2,9.1,1.4,7.7
+2090,Burger,Ike's,11,3,3.3,2.4,0.9
+2091,Drumsticks,Southside,12,3,6.6,3.2,3.4
+2092,Beans,Halal Guys,10,3,7.8,4.2,3.6
+2093,Chicken,Flip kitchen,3,1,4.1,0.4,3.7
+2094,Beans,Akino sushi,2,1,5.3,1.5,3.8
+2095,Tune,Nue Vegan,6,2,1.3,0.6,0.7
+2096,Salad,Halal Guys,9,3,2.2,1.0,1.2
+2097,Pizza,Chipotle,6,2,2.9,1.3,1.6
+2098,Pizza,Flip kitchen,4,1,2.5,1.5,1.0
+2099,Salad,Ike's,6,2,6.6,4.6,2.0
+2100,Pork,Blaze pizza,3,1,9.9,7.4,2.5
+2101,Parmesan cheese,Southside,12,3,2.6,2.1,0.5
+2102,Chicken,Southside,5,2,3.0,1.2,1.8
+2103,Pork,Chick-fil-a,5,2,7.4,0.2,7.2
+2104,Parmesan cheese,Chipotle,5,2,9.0,7.6,1.4
+2105,Beans,Flip kitchen,4,1,9.3,2.6,6.7
+2106,Salad,Southside,11,3,5.8,5.2,0.6
+2107,Fries,Globe,10,3,7.4,6.6,0.8
+2108,Chicken,Ike's,12,3,7.1,4.3,2.8
+2109,Pizza,Globe,6,2,8.9,0.2,8.7
+2110,Fries,Blaze pizza,5,2,9.6,5.7,3.9
+2111,Parmesan cheese,Flip kitchen,4,1,6.9,1.6,5.3
+2112,Beans,Ike's,9,3,3.4,0.3,3.1
+2113,Burger,Globe,10,3,7.7,2.1,5.6
+2114,Parmesan cheese,Halal Guys,7,2,8.5,7.2,1.3
+2115,Fries,Flip kitchen,5,2,3.7,1.3,2.4
+2116,Beans,Halal Guys,8,2,6.9,5.8,1.1
+2117,Chicken,Nue Vegan,1,1,3.2,2.6,0.6
+2118,Burger,Globe,2,1,3.6,0.6,3.0
+2119,Chicken,Chipotle,2,1,2.3,0.4,1.9
+2120,Burger,Chick-fil-a,11,3,2.5,0.5,2.0
+2121,Parmesan cheese,Nue Vegan,12,3,7.2,1.5,5.7
+2122,Salad,Nue Vegan,8,2,4.5,2.3,2.2
+2123,Beans,Nue Vegan,8,2,9.5,2.0,7.5
+2124,Burger,Ike's,8,2,2.4,1.1,1.3
+2125,Beans,Chipotle,12,3,5.3,0.6,4.7
+2126,Chicken,Chick-fil-a,2,1,4.4,0.6,3.8
+2127,Beef,Globe,10,3,2.8,0.4,2.4
+2128,Tune,Halal Guys,12,3,4.3,0.7,3.6
+2129,Burger,Akino sushi,12,3,7.6,2.5,5.1
+2130,Burger,Chipotle,7,2,4.3,1.3,3.0
+2131,Drumsticks,Blaze pizza,5,2,5.1,3.4,1.7
+2132,Chicken,Chipotle,5,2,3.8,1.8,2.0
+2133,Fries,Nue Vegan,3,1,4.7,2.1,2.6
+2134,Parmesan cheese,Chick-fil-a,6,2,3.4,3.0,0.4
+2135,Pizza,Akino sushi,11,3,1.8,1.3,0.5
+2136,Beef,Halal Guys,11,3,6.8,0.1,6.7
+2137,Drumsticks,Southside,2,1,5.4,0.3,5.1
+2138,Beans,Ike's,2,1,9.7,4.4,5.3
+2139,Pork,Halal Guys,6,2,9.1,7.5,1.6
+2140,Pork,Chick-fil-a,4,1,8.2,3.0,5.2
+2141,Salad,Southside,9,3,5.2,5.2,0.0
+2142,Drumsticks,Akino sushi,6,2,2.4,1.9,0.5
+2143,Salad,Ike's,9,3,6.1,0.6,5.5
+2144,Parmesan cheese,Nue Vegan,10,3,2.8,1.8,1.0
+2145,Pizza,Southside,3,1,8.0,5.9,2.1
+2146,Fries,Akino sushi,11,3,8.7,4.9,3.8
+2147,Pizza,Ike's,1,1,6.0,5.1,0.9
+2148,Tune,Ike's,10,3,6.5,6.3,0.2
+2149,Pizza,Akino sushi,5,2,3.3,3.2,0.1
+2150,Beans,Halal Guys,8,2,2.2,0.4,1.8
+2151,Burger,Nue Vegan,1,1,8.8,2.0,6.8
+2152,Pork,Flip kitchen,12,3,5.7,2.3,3.4
+2153,Beef,Nue Vegan,1,1,3.3,2.4,0.9
+2154,Chicken,Nue Vegan,11,3,4.0,2.2,1.8
+2155,Pizza,Chipotle,12,3,1.7,1.5,0.2
+2156,Beef,Chick-fil-a,7,2,4.9,0.5,4.4
+2157,Parmesan cheese,Blaze pizza,12,3,1.6,1.3,0.3
+2158,Pork,Nue Vegan,6,2,6.5,1.6,4.9
+2159,Tune,Chipotle,4,1,4.6,3.8,0.8
+2160,Fries,Halal Guys,8,2,5.3,1.1,4.2
+2161,Chicken,Flip kitchen,10,3,3.6,3.3,0.3
+2162,Parmesan cheese,Akino sushi,7,2,2.3,0.1,2.2
+2163,Pizza,Chipotle,7,2,3.2,0.1,3.1
+2164,Drumsticks,Chick-fil-a,2,1,4.5,2.0,2.5
+2165,Parmesan cheese,Blaze pizza,9,3,4.8,0.6,4.2
+2166,Chicken,Flip kitchen,10,3,7.2,4.2,3.0
+2167,Beans,Nue Vegan,5,2,5.1,5.0,0.1
+2168,Burger,Akino sushi,7,2,7.6,1.9,5.7
+2169,Tune,Chick-fil-a,10,3,5.6,4.7,0.9
+2170,Beef,Blaze pizza,6,2,1.1,0.8,0.3
+2171,Pizza,Ike's,9,3,7.7,7.3,0.4
+2172,Burger,Globe,9,3,4.7,4.2,0.5
+2173,Drumsticks,Chick-fil-a,12,3,7.5,5.7,1.8
+2174,Salad,Globe,5,2,7.9,7.8,0.1
+2175,Drumsticks,Southside,5,2,7.4,2.8,4.6
+2176,Pizza,Halal Guys,10,3,1.2,0.8,0.4
+2177,Tune,Flip kitchen,5,2,1.9,1.5,0.4
+2178,Chicken,Globe,1,1,5.9,2.1,3.8
+2179,Salad,Ike's,4,1,6.6,4.3,2.3
+2180,Parmesan cheese,Southside,7,2,1.1,0.1,1.0
+2181,Pizza,Southside,9,3,2.1,0.8,1.3
+2182,Drumsticks,Chipotle,8,2,5.5,0.9,4.6
+2183,Chicken,Globe,5,2,4.3,3.6,0.7
+2184,Drumsticks,Halal Guys,6,2,4.0,1.3,2.7
+2185,Pizza,Nue Vegan,7,2,8.7,5.7,3.0
+2186,Salad,Chipotle,11,3,5.7,1.2,4.5
+2187,Pizza,Ike's,11,3,5.4,2.9,2.5
+2188,Tune,Chipotle,7,2,4.6,4.2,0.4
+2189,Drumsticks,Halal Guys,7,2,9.1,6.7,2.4
+2190,Salad,Nue Vegan,1,1,9.2,2.9,6.3
+2191,Burger,Globe,6,2,5.7,5.7,0.0
+2192,Beans,Chick-fil-a,4,1,5.1,1.1,4.0
+2193,Chicken,Flip kitchen,7,2,3.1,2.9,0.2
+2194,Drumsticks,Southside,2,1,9.8,2.2,7.6
+2195,Drumsticks,Chick-fil-a,6,2,9.5,5.1,4.4
+2196,Burger,Ike's,3,1,9.9,2.1,7.8
+2197,Beef,Akino sushi,12,3,7.6,0.9,6.7
+2198,Fries,Halal Guys,1,1,4.4,4.0,0.4
+2199,Beef,Globe,10,3,3.7,3.6,0.1
+2200,Pork,Globe,5,2,7.6,5.9,1.7
+2201,Parmesan cheese,Ike's,3,1,1.5,1.3,0.2
+2202,Chicken,Globe,9,3,2.0,0.8,1.2
+2203,Beef,Akino sushi,12,3,3.9,1.1,2.8
+2204,Burger,Globe,2,1,2.3,2.2,0.1
+2205,Pork,Southside,4,1,5.5,3.5,2.0
+2206,Pork,Halal Guys,9,3,7.2,1.1,6.1
+2207,Pork,Halal Guys,10,3,7.5,4.4,3.1
+2208,Chicken,Chipotle,3,1,8.4,7.1,1.3
+2209,Parmesan cheese,Southside,5,2,1.2,0.4,0.8
+2210,Burger,Southside,3,1,3.1,2.8,0.3
+2211,Fries,Nue Vegan,1,1,8.0,5.9,2.1
+2212,Tune,Nue Vegan,7,2,7.9,1.7,6.2
+2213,Chicken,Nue Vegan,5,2,5.3,3.2,2.1
+2214,Beef,Southside,7,2,1.7,1.4,0.3
+2215,Tune,Ike's,9,3,7.6,6.3,1.3
+2216,Burger,Akino sushi,2,1,1.5,0.2,1.3
+2217,Parmesan cheese,Flip kitchen,11,3,8.8,2.6,6.2
+2218,Parmesan cheese,Flip kitchen,4,1,6.5,3.3,3.2
+2219,Chicken,Chick-fil-a,7,2,4.7,1.4,3.3
+2220,Beef,Blaze pizza,4,1,7.9,5.3,2.6
+2221,Beef,Nue Vegan,6,2,9.1,7.7,1.4
+2222,Parmesan cheese,Chipotle,11,3,5.2,3.1,2.1
+2223,Chicken,Flip kitchen,7,2,8.7,6.4,2.3
+2224,Burger,Blaze pizza,7,2,5.3,3.6,1.7
+2225,Drumsticks,Blaze pizza,11,3,3.6,0.3,3.3
+2226,Pizza,Southside,2,1,2.6,2.2,0.4
+2227,Pork,Akino sushi,9,3,9.0,8.6,0.4
+2228,Pizza,Halal Guys,2,1,3.7,0.2,3.5
+2229,Beans,Southside,11,3,4.9,3.9,1.0
+2230,Pork,Flip kitchen,10,3,7.0,3.2,3.8
+2231,Tune,Flip kitchen,2,1,4.5,2.8,1.7
+2232,Pizza,Halal Guys,12,3,9.7,8.6,1.1
+2233,Beef,Ike's,8,2,4.8,3.7,1.1
+2234,Burger,Globe,8,2,6.8,6.0,0.8
+2235,Parmesan cheese,Globe,11,3,5.9,0.5,5.4
+2236,Beans,Nue Vegan,10,3,2.4,0.5,1.9
+2237,Parmesan cheese,Flip kitchen,3,1,4.9,0.4,4.5
+2238,Beans,Akino sushi,1,1,9.6,6.5,3.1
+2239,Beans,Flip kitchen,8,2,7.8,2.3,5.5
+2240,Beef,Globe,10,3,7.3,3.6,3.7
+2241,Tune,Halal Guys,7,2,5.8,5.2,0.6
+2242,Tune,Ike's,6,2,9.3,2.1,7.2
+2243,Parmesan cheese,Akino sushi,5,2,10.0,1.5,8.5
+2244,Pizza,Ike's,1,1,2.3,0.3,2.0
+2245,Beans,Ike's,9,3,3.5,0.9,2.6
+2246,Drumsticks,Chipotle,10,3,2.6,1.4,1.2
+2247,Parmesan cheese,Flip kitchen,11,3,8.6,7.9,0.7
+2248,Chicken,Blaze pizza,7,2,5.5,4.0,1.5
+2249,Fries,Blaze pizza,12,3,5.7,3.1,2.6
+2250,Beef,Blaze pizza,5,2,2.1,0.4,1.7
+2251,Tune,Chipotle,4,1,3.5,1.8,1.7
+2252,Chicken,Flip kitchen,3,1,9.9,3.5,6.4
+2253,Chicken,Globe,4,1,2.5,0.9,1.6
+2254,Chicken,Nue Vegan,3,1,8.4,6.4,2.0
+2255,Beans,Globe,4,1,2.5,0.1,2.4
+2256,Parmesan cheese,Blaze pizza,5,2,2.1,2.0,0.1
+2257,Chicken,Globe,6,2,3.3,0.6,2.7
+2258,Chicken,Southside,6,2,7.9,4.8,3.1
+2259,Pork,Akino sushi,3,1,6.4,5.5,0.9
+2260,Burger,Southside,4,1,9.6,1.5,8.1
+2261,Pizza,Chick-fil-a,9,3,6.0,0.3,5.7
+2262,Pizza,Akino sushi,1,1,6.8,1.8,5.0
+2263,Parmesan cheese,Southside,12,3,5.4,3.3,2.1
+2264,Beef,Akino sushi,2,1,2.7,0.4,2.3
+2265,Fries,Halal Guys,12,3,7.0,2.7,4.3
+2266,Burger,Chick-fil-a,7,2,9.7,2.0,7.7
+2267,Salad,Chick-fil-a,1,1,8.8,6.4,2.4
+2268,Drumsticks,Ike's,5,2,5.1,2.2,2.9
+2269,Chicken,Globe,9,3,3.8,2.8,1.0
+2270,Parmesan cheese,Blaze pizza,8,2,1.8,0.6,1.2
+2271,Pork,Chipotle,9,3,7.5,5.7,1.8
+2272,Drumsticks,Chipotle,3,1,6.4,0.6,5.8
+2273,Parmesan cheese,Halal Guys,5,2,3.3,1.9,1.4
+2274,Parmesan cheese,Nue Vegan,5,2,5.8,4.3,1.5
+2275,Fries,Akino sushi,8,2,6.4,2.7,3.7
+2276,Drumsticks,Halal Guys,1,1,3.4,2.1,1.3
+2277,Tune,Ike's,12,3,6.8,5.2,1.6
+2278,Chicken,Ike's,3,1,7.5,6.6,0.9
+2279,Beef,Akino sushi,3,1,9.9,7.3,2.6
+2280,Drumsticks,Ike's,11,3,5.5,1.7,3.8
+2281,Tune,Ike's,11,3,5.3,0.0,5.3
+2282,Parmesan cheese,Globe,9,3,4.6,1.1,3.5
+2283,Tune,Flip kitchen,11,3,9.1,6.9,2.2
+2284,Fries,Chipotle,3,1,3.7,1.8,1.9
+2285,Fries,Flip kitchen,10,3,8.8,5.5,3.3
+2286,Pizza,Nue Vegan,12,3,1.9,1.2,0.7
+2287,Tune,Southside,10,3,4.2,2.0,2.2
+2288,Salad,Nue Vegan,8,2,4.5,3.3,1.2
+2289,Salad,Flip kitchen,4,1,5.8,1.9,3.9
+2290,Parmesan cheese,Chick-fil-a,9,3,5.1,4.1,1.0
+2291,Beans,Nue Vegan,3,1,2.8,1.7,1.1
+2292,Fries,Southside,3,1,8.7,7.1,1.6
+2293,Fries,Flip kitchen,1,1,2.6,0.3,2.3
+2294,Beans,Nue Vegan,4,1,5.6,4.1,1.5
+2295,Beans,Chipotle,1,1,9.5,4.6,4.9
+2296,Tune,Nue Vegan,11,3,8.3,1.6,6.7
+2297,Fries,Nue Vegan,1,1,1.2,1.1,0.1
+2298,Pizza,Globe,1,1,5.0,3.1,1.9
+2299,Chicken,Globe,1,1,2.9,0.3,2.6
+2300,Tune,Ike's,3,1,9.0,5.3,3.7
+2301,Beef,Nue Vegan,4,1,8.6,3.0,5.6
+2302,Burger,Chick-fil-a,9,3,6.3,6.2,0.1
+2303,Parmesan cheese,Southside,4,1,1.2,0.3,0.9
+2304,Pork,Chipotle,12,3,6.3,4.1,2.2
+2305,Drumsticks,Chipotle,10,3,6.8,1.2,5.6
+2306,Drumsticks,Flip kitchen,2,1,8.6,5.0,3.6
+2307,Parmesan cheese,Akino sushi,11,3,1.8,1.8,0.0
+2308,Beef,Halal Guys,3,1,8.7,5.5,3.2
+2309,Tune,Nue Vegan,5,2,8.1,1.1,7.0
+2310,Beans,Blaze pizza,6,2,1.5,1.0,0.5
+2311,Salad,Globe,4,1,5.9,1.8,4.1
+2312,Chicken,Chipotle,8,2,5.0,1.7,3.3
+2313,Chicken,Nue Vegan,7,2,9.4,0.1,9.3
+2314,Pizza,Nue Vegan,4,1,3.9,1.6,2.3
+2315,Chicken,Southside,11,3,3.0,2.8,0.2
+2316,Pizza,Southside,9,3,6.5,3.2,3.3
+2317,Pork,Halal Guys,8,2,6.7,6.6,0.1
+2318,Pork,Southside,10,3,1.6,0.5,1.1
+2319,Parmesan cheese,Blaze pizza,4,1,1.3,0.7,0.6
+2320,Burger,Blaze pizza,8,2,7.7,6.7,1.0
+2321,Burger,Chipotle,10,3,5.9,3.6,2.3
+2322,Tune,Chick-fil-a,6,2,2.8,2.1,0.7
+2323,Beef,Halal Guys,3,1,5.4,1.6,3.8
+2324,Beef,Akino sushi,12,3,2.5,1.8,0.7
+2325,Pizza,Chick-fil-a,6,2,2.5,0.5,2.0
+2326,Chicken,Halal Guys,2,1,9.7,4.1,5.6
+2327,Beef,Ike's,6,2,1.6,0.3,1.3
+2328,Drumsticks,Chick-fil-a,3,1,6.5,1.7,4.8
+2329,Pork,Nue Vegan,6,2,3.7,2.0,1.7
+2330,Pork,Globe,12,3,2.8,1.0,1.8
+2331,Beans,Flip kitchen,10,3,6.9,5.1,1.8
+2332,Tune,Ike's,1,1,9.0,6.7,2.3
+2333,Beans,Akino sushi,11,3,8.7,8.1,0.6
+2334,Fries,Ike's,9,3,5.9,1.4,4.5
+2335,Tune,Halal Guys,9,3,3.2,0.4,2.8
+2336,Tune,Akino sushi,4,1,7.5,2.0,5.5
+2337,Pork,Blaze pizza,3,1,8.3,2.6,5.7
+2338,Salad,Flip kitchen,9,3,4.1,3.4,0.7
+2339,Fries,Chick-fil-a,6,2,4.7,3.4,1.3
+2340,Salad,Globe,5,2,8.4,4.3,4.1
+2341,Salad,Halal Guys,3,1,1.9,1.7,0.2
+2342,Beans,Chick-fil-a,8,2,5.7,4.1,1.6
+2343,Fries,Halal Guys,1,1,2.8,1.9,0.9
+2344,Pork,Ike's,12,3,4.1,3.7,0.4
+2345,Pork,Nue Vegan,11,3,5.9,5.9,0.0
+2346,Salad,Chick-fil-a,10,3,1.5,0.4,1.1
+2347,Beef,Flip kitchen,1,1,5.4,0.7,4.7
+2348,Tune,Globe,7,2,1.3,0.3,1.0
+2349,Parmesan cheese,Blaze pizza,3,1,4.8,0.5,4.3
+2350,Tune,Blaze pizza,12,3,5.2,5.1,0.1
+2351,Drumsticks,Halal Guys,4,1,7.4,3.2,4.2
+2352,Burger,Nue Vegan,8,2,4.6,3.5,1.1
+2353,Beef,Blaze pizza,2,1,6.3,4.4,1.9
+2354,Parmesan cheese,Chipotle,6,2,7.9,3.0,4.9
+2355,Fries,Akino sushi,5,2,9.3,8.0,1.3
+2356,Beef,Chick-fil-a,12,3,4.1,3.9,0.2
+2357,Parmesan cheese,Chipotle,12,3,2.3,0.0,2.3
+2358,Beans,Ike's,5,2,1.2,0.6,0.6
+2359,Fries,Chick-fil-a,4,1,9.4,2.2,7.2
+2360,Fries,Blaze pizza,9,3,5.2,1.7,3.5
+2361,Pork,Flip kitchen,6,2,5.9,4.6,1.3
+2362,Salad,Chipotle,7,2,1.8,1.2,0.6
+2363,Beans,Blaze pizza,3,1,4.9,2.6,2.3
+2364,Chicken,Ike's,5,2,8.7,2.0,6.7
+2365,Beans,Ike's,3,1,6.2,4.1,2.1
+2366,Fries,Halal Guys,1,1,1.4,0.3,1.1
+2367,Parmesan cheese,Chipotle,4,1,1.7,0.5,1.2
+2368,Burger,Chipotle,4,1,7.8,6.9,0.9
+2369,Tune,Akino sushi,6,2,8.1,7.7,0.4
+2370,Beans,Chick-fil-a,5,2,3.5,0.3,3.2
+2371,Chicken,Chick-fil-a,3,1,9.6,7.1,2.5
+2372,Parmesan cheese,Southside,3,1,2.5,0.5,2.0
+2373,Parmesan cheese,Flip kitchen,4,1,7.4,3.7,3.7
+2374,Pork,Ike's,6,2,1.2,0.6,0.6
+2375,Fries,Nue Vegan,1,1,2.8,2.5,0.3
+2376,Chicken,Nue Vegan,7,2,3.6,2.9,0.7
+2377,Beef,Flip kitchen,9,3,3.5,2.8,0.7
+2378,Pizza,Blaze pizza,10,3,8.4,0.0,8.4
+2379,Tune,Blaze pizza,2,1,3.5,0.1,3.4
+2380,Fries,Blaze pizza,9,3,4.8,4.4,0.4
+2381,Burger,Akino sushi,1,1,5.2,1.2,4.0
+2382,Drumsticks,Chipotle,6,2,2.9,0.2,2.7
+2383,Pizza,Blaze pizza,6,2,3.7,1.6,2.1
+2384,Drumsticks,Globe,1,1,3.2,3.1,0.1
+2385,Beans,Nue Vegan,9,3,8.8,7.3,1.5
+2386,Fries,Blaze pizza,9,3,5.1,1.5,3.6
+2387,Drumsticks,Blaze pizza,3,1,7.3,6.0,1.3
+2388,Salad,Southside,9,3,8.9,2.7,6.2
+2389,Parmesan cheese,Ike's,5,2,3.9,0.1,3.8
+2390,Tune,Nue Vegan,7,2,1.1,0.7,0.4
+2391,Beef,Chipotle,10,3,8.1,3.6,4.5
+2392,Parmesan cheese,Akino sushi,10,3,7.6,4.1,3.5
+2393,Fries,Halal Guys,3,1,3.2,2.3,0.9
+2394,Drumsticks,Globe,9,3,5.7,1.6,4.1
+2395,Drumsticks,Southside,2,1,6.6,6.2,0.4
+2396,Beans,Globe,7,2,9.0,8.1,0.9
+2397,Beans,Chick-fil-a,10,3,3.3,1.6,1.7
+2398,Pork,Globe,12,3,9.3,5.8,3.5
+2399,Burger,Halal Guys,2,1,1.1,0.2,0.9
+2400,Fries,Blaze pizza,8,2,8.2,6.6,1.6
+2401,Drumsticks,Southside,11,3,6.2,4.4,1.8
+2402,Salad,Akino sushi,10,3,6.1,4.2,1.9
+2403,Burger,Ike's,8,2,8.3,4.4,3.9
+2404,Chicken,Globe,12,3,8.7,3.3,5.4
+2405,Burger,Flip kitchen,6,2,9.2,9.0,0.2
+2406,Tune,Akino sushi,5,2,6.3,0.2,6.1
+2407,Salad,Ike's,8,2,9.6,7.4,2.2
+2408,Fries,Nue Vegan,3,1,6.0,4.6,1.4
+2409,Parmesan cheese,Halal Guys,9,3,4.2,3.9,0.3
+2410,Tune,Akino sushi,6,2,3.3,2.1,1.2
+2411,Pork,Southside,2,1,4.8,1.7,3.1
+2412,Fries,Globe,3,1,2.0,0.5,1.5
+2413,Chicken,Halal Guys,3,1,3.7,0.1,3.6
+2414,Pizza,Flip kitchen,2,1,2.6,2.4,0.2
+2415,Pork,Nue Vegan,10,3,1.2,0.6,0.6
+2416,Parmesan cheese,Halal Guys,4,1,3.2,2.2,1.0
+2417,Pizza,Blaze pizza,10,3,4.0,0.5,3.5
+2418,Tune,Flip kitchen,11,3,1.6,0.7,0.9
+2419,Fries,Globe,6,2,7.9,5.9,2.0
+2420,Beef,Akino sushi,9,3,5.7,2.4,3.3
+2421,Chicken,Flip kitchen,6,2,1.0,0.4,0.6
+2422,Beans,Southside,5,2,7.4,4.0,3.4
+2423,Beans,Ike's,4,1,5.0,0.4,4.6
+2424,Pizza,Chipotle,2,1,3.4,0.0,3.4
+2425,Beef,Southside,3,1,5.7,1.1,4.6
+2426,Fries,Flip kitchen,4,1,5.5,1.9,3.6
+2427,Fries,Halal Guys,5,2,2.1,0.1,2.0
+2428,Tune,Chipotle,8,2,4.9,2.9,2.0
+2429,Parmesan cheese,Chipotle,9,3,6.3,1.4,4.9
+2430,Pizza,Blaze pizza,1,1,8.8,4.6,4.2
+2431,Burger,Flip kitchen,5,2,4.4,1.5,2.9
+2432,Beef,Globe,1,1,8.2,5.4,2.8
+2433,Beef,Akino sushi,10,3,8.6,6.8,1.8
+2434,Chicken,Southside,2,1,3.8,1.8,2.0
+2435,Chicken,Flip kitchen,12,3,1.2,0.8,0.4
+2436,Pizza,Southside,7,2,1.2,0.9,0.3
+2437,Pork,Globe,2,1,7.1,3.1,4.0
+2438,Fries,Globe,11,3,7.1,3.2,3.9
+2439,Pork,Ike's,3,1,4.9,1.8,3.1
+2440,Beef,Nue Vegan,1,1,3.1,0.6,2.5
+2441,Tune,Nue Vegan,2,1,3.0,1.5,1.5
+2442,Drumsticks,Blaze pizza,5,2,9.6,0.1,9.5
+2443,Salad,Nue Vegan,12,3,2.6,1.1,1.5
+2444,Chicken,Nue Vegan,2,1,7.7,7.2,0.5
+2445,Burger,Southside,9,3,9.5,4.8,4.7
+2446,Drumsticks,Southside,5,2,1.8,0.5,1.3
+2447,Beans,Akino sushi,8,2,1.6,0.0,1.6
+2448,Beans,Ike's,11,3,2.4,0.5,1.9
+2449,Chicken,Nue Vegan,8,2,5.1,4.8,0.3
+2450,Parmesan cheese,Halal Guys,5,2,1.9,1.9,0.0
+2451,Drumsticks,Akino sushi,6,2,4.6,3.2,1.4
+2452,Beef,Ike's,9,3,4.5,3.3,1.2
+2453,Beans,Nue Vegan,4,1,8.6,6.2,2.4
+2454,Chicken,Chipotle,10,3,7.4,0.3,7.1
+2455,Pork,Globe,7,2,8.8,1.6,7.2
+2456,Drumsticks,Flip kitchen,9,3,6.2,4.9,1.3
+2457,Salad,Globe,9,3,4.8,4.8,0.0
+2458,Pizza,Chipotle,6,2,7.6,5.0,2.6
+2459,Drumsticks,Halal Guys,1,1,5.5,0.6,4.9
+2460,Pizza,Nue Vegan,6,2,1.4,0.8,0.6
+2461,Burger,Halal Guys,2,1,4.5,2.3,2.2
+2462,Pork,Globe,7,2,1.6,0.2,1.4
+2463,Burger,Flip kitchen,1,1,7.8,3.0,4.8
+2464,Burger,Chick-fil-a,2,1,1.5,0.6,0.9
+2465,Salad,Chipotle,11,3,5.5,2.9,2.6
+2466,Fries,Globe,4,1,6.0,3.9,2.1
+2467,Beans,Globe,9,3,9.2,0.9,8.3
+2468,Pork,Chick-fil-a,4,1,8.9,1.9,7.0
+2469,Salad,Chick-fil-a,11,3,3.3,3.2,0.1
+2470,Drumsticks,Halal Guys,2,1,8.3,3.1,5.2
+2471,Beans,Ike's,3,1,6.6,1.6,5.0
+2472,Fries,Chipotle,5,2,8.1,3.6,4.5
+2473,Fries,Flip kitchen,12,3,2.1,0.9,1.2
+2474,Pizza,Akino sushi,2,1,9.6,9.1,0.5
+2475,Fries,Halal Guys,1,1,7.7,0.4,7.3
+2476,Beans,Southside,4,1,10.0,8.9,1.1
+2477,Salad,Globe,5,2,5.4,0.3,5.1
+2478,Pizza,Halal Guys,10,3,8.0,4.5,3.5
+2479,Pizza,Ike's,9,3,1.8,1.7,0.1
+2480,Fries,Chick-fil-a,7,2,2.1,0.2,1.9
+2481,Pizza,Chipotle,11,3,3.7,1.4,2.3
+2482,Beans,Ike's,2,1,3.6,1.5,2.1
+2483,Pizza,Ike's,2,1,2.6,0.4,2.2
+2484,Chicken,Southside,6,2,1.1,0.5,0.6
+2485,Chicken,Flip kitchen,1,1,6.0,1.3,4.7
+2486,Fries,Southside,8,2,6.1,2.5,3.6
+2487,Salad,Nue Vegan,11,3,3.0,1.0,2.0
+2488,Pizza,Ike's,2,1,4.4,0.3,4.1
+2489,Fries,Nue Vegan,1,1,2.5,2.3,0.2
+2490,Tune,Akino sushi,3,1,1.1,0.7,0.4
+2491,Pizza,Chick-fil-a,12,3,4.5,0.8,3.7
+2492,Burger,Nue Vegan,12,3,2.5,2.0,0.5
+2493,Parmesan cheese,Flip kitchen,6,2,6.4,1.7,4.7
+2494,Pork,Akino sushi,5,2,3.4,0.7,2.7
+2495,Salad,Akino sushi,9,3,2.2,1.0,1.2
+2496,Tune,Halal Guys,1,1,3.3,3.0,0.3
+2497,Salad,Nue Vegan,1,1,8.4,0.8,7.6
+2498,Tune,Nue Vegan,8,2,6.6,1.7,4.9
+2499,Parmesan cheese,Blaze pizza,5,2,1.5,0.6,0.9
+2500,Beef,Nue Vegan,4,1,4.1,0.4,3.7
+2501,Pork,Nue Vegan,10,3,4.9,1.7,3.2
+2502,Salad,Flip kitchen,7,2,3.8,1.5,2.3
+2503,Burger,Halal Guys,4,1,4.6,1.4,3.2
+2504,Burger,Akino sushi,5,2,6.2,4.6,1.6
+2505,Drumsticks,Southside,12,3,1.5,1.4,0.1
+2506,Salad,Ike's,6,2,3.1,2.3,0.8
+2507,Beans,Blaze pizza,8,2,7.0,0.1,6.9
+2508,Beef,Halal Guys,6,2,7.0,4.6,2.4
+2509,Chicken,Nue Vegan,11,3,3.5,1.1,2.4
+2510,Beans,Halal Guys,5,2,1.3,0.8,0.5
+2511,Burger,Akino sushi,10,3,6.1,1.5,4.6
+2512,Salad,Nue Vegan,4,1,5.7,1.8,3.9
+2513,Beans,Blaze pizza,2,1,7.3,6.6,0.7
+2514,Chicken,Blaze pizza,8,2,5.8,2.7,3.1
+2515,Pork,Southside,12,3,1.2,0.1,1.1
+2516,Salad,Halal Guys,10,3,7.8,7.5,0.3
+2517,Chicken,Globe,3,1,6.5,4.9,1.6
+2518,Drumsticks,Chick-fil-a,1,1,8.3,2.5,5.8
+2519,Beef,Flip kitchen,2,1,6.9,5.6,1.3
+2520,Drumsticks,Flip kitchen,4,1,5.8,4.8,1.0
+2521,Pizza,Southside,4,1,8.1,1.5,6.6
+2522,Beans,Chipotle,9,3,2.0,1.0,1.0
+2523,Pork,Chipotle,2,1,4.5,0.7,3.8
+2524,Pizza,Chick-fil-a,8,2,1.2,0.5,0.7
+2525,Pizza,Chick-fil-a,5,2,3.8,0.1,3.7
+2526,Salad,Chipotle,11,3,4.2,0.8,3.4
+2527,Pork,Nue Vegan,11,3,3.9,0.5,3.4
+2528,Fries,Ike's,8,2,10.0,0.2,9.8
+2529,Beef,Southside,3,1,7.8,2.4,5.4
+2530,Burger,Chick-fil-a,5,2,5.3,1.0,4.3
+2531,Parmesan cheese,Nue Vegan,7,2,3.9,3.3,0.6
+2532,Pizza,Southside,11,3,2.5,0.2,2.3
+2533,Pizza,Chick-fil-a,7,2,3.2,0.6,2.6
+2534,Burger,Flip kitchen,1,1,7.8,1.7,6.1
+2535,Parmesan cheese,Flip kitchen,12,3,5.6,1.9,3.7
+2536,Beef,Halal Guys,3,1,8.9,3.6,5.3
+2537,Tune,Flip kitchen,7,2,7.9,6.9,1.0
+2538,Beef,Ike's,11,3,5.7,1.7,4.0
+2539,Burger,Chick-fil-a,7,2,6.6,1.4,5.2
+2540,Burger,Globe,2,1,2.8,0.8,2.0
+2541,Beans,Akino sushi,6,2,9.5,0.2,9.3
+2542,Pork,Blaze pizza,11,3,1.9,0.1,1.8
+2543,Chicken,Globe,4,1,5.0,2.0,3.0
+2544,Drumsticks,Nue Vegan,4,1,9.4,8.1,1.3
+2545,Pizza,Nue Vegan,6,2,4.3,0.1,4.2
+2546,Chicken,Southside,8,2,9.0,0.0,9.0
+2547,Beans,Halal Guys,11,3,2.2,0.2,2.0
+2548,Tune,Ike's,3,1,9.8,3.6,6.2
+2549,Drumsticks,Blaze pizza,4,1,4.2,3.8,0.4
+2550,Tune,Globe,9,3,3.6,2.0,1.6
+2551,Burger,Southside,4,1,8.9,0.3,8.6
+2552,Parmesan cheese,Southside,9,3,9.2,3.3,5.9
+2553,Tune,Blaze pizza,4,1,9.9,8.1,1.8
+2554,Drumsticks,Chick-fil-a,1,1,8.6,8.5,0.1
+2555,Burger,Nue Vegan,4,1,8.0,2.1,5.9
+2556,Fries,Halal Guys,9,3,6.1,5.2,0.9
+2557,Chicken,Blaze pizza,1,1,9.3,9.1,0.2
+2558,Pizza,Southside,1,1,9.2,7.8,1.4
+2559,Burger,Ike's,2,1,9.5,6.7,2.8
+2560,Chicken,Halal Guys,12,3,7.4,3.4,4.0
+2561,Salad,Chipotle,3,1,5.8,1.3,4.5
+2562,Fries,Akino sushi,1,1,6.0,2.4,3.6
+2563,Salad,Chipotle,5,2,8.8,1.3,7.5
+2564,Pizza,Globe,5,2,2.7,0.5,2.2
+2565,Drumsticks,Halal Guys,2,1,7.9,3.1,4.8
+2566,Fries,Blaze pizza,12,3,8.5,5.8,2.7
+2567,Tune,Nue Vegan,10,3,4.9,2.6,2.3
+2568,Drumsticks,Globe,7,2,7.5,2.9,4.6
+2569,Fries,Blaze pizza,3,1,5.8,2.5,3.3
+2570,Tune,Blaze pizza,5,2,8.0,7.3,0.7
+2571,Pork,Chick-fil-a,9,3,4.1,2.3,1.8
+2572,Burger,Akino sushi,2,1,5.8,2.2,3.6
+2573,Salad,Southside,11,3,7.6,5.4,2.2
+2574,Drumsticks,Chick-fil-a,11,3,1.9,0.7,1.2
+2575,Salad,Halal Guys,2,1,6.6,2.9,3.7
+2576,Tune,Akino sushi,2,1,3.5,2.2,1.3
+2577,Pork,Flip kitchen,5,2,7.5,3.6,3.9
+2578,Tune,Chipotle,5,2,2.8,0.3,2.5
+2579,Beef,Akino sushi,3,1,9.5,8.0,1.5
+2580,Burger,Ike's,2,1,1.6,0.7,0.9
+2581,Tune,Flip kitchen,6,2,5.9,3.9,2.0
+2582,Drumsticks,Globe,1,1,2.9,1.2,1.7
+2583,Chicken,Akino sushi,7,2,3.5,2.2,1.3
+2584,Burger,Nue Vegan,7,2,1.2,0.3,0.9
+2585,Chicken,Nue Vegan,9,3,8.3,3.7,4.6
+2586,Chicken,Halal Guys,8,2,1.6,1.0,0.6
+2587,Parmesan cheese,Chick-fil-a,5,2,4.1,1.9,2.2
+2588,Tune,Chipotle,4,1,2.5,1.3,1.2
+2589,Burger,Akino sushi,3,1,8.8,5.8,3.0
+2590,Parmesan cheese,Akino sushi,5,2,9.3,7.1,2.2
+2591,Fries,Flip kitchen,12,3,8.0,5.9,2.1
+2592,Burger,Blaze pizza,3,1,5.9,3.6,2.3
+2593,Salad,Southside,7,2,5.5,3.3,2.2
+2594,Fries,Blaze pizza,10,3,2.5,1.9,0.6
+2595,Parmesan cheese,Flip kitchen,12,3,7.0,5.7,1.3
+2596,Drumsticks,Blaze pizza,3,1,6.5,2.5,4.0
+2597,Pizza,Globe,10,3,2.4,0.2,2.2
+2598,Pizza,Chipotle,8,2,2.9,1.3,1.6
+2599,Fries,Flip kitchen,10,3,5.0,2.8,2.2
+2600,Drumsticks,Blaze pizza,4,1,4.6,4.6,0.0
+2601,Pizza,Halal Guys,1,1,7.6,3.3,4.3
+2602,Burger,Flip kitchen,2,1,3.4,0.8,2.6
+2603,Drumsticks,Flip kitchen,10,3,7.1,4.7,2.4
+2604,Tune,Ike's,10,3,2.8,1.4,1.4
+2605,Salad,Chick-fil-a,11,3,5.8,1.0,4.8
+2606,Beef,Ike's,5,2,1.7,1.1,0.6
+2607,Burger,Southside,10,3,4.7,4.2,0.5
+2608,Beef,Blaze pizza,9,3,8.8,8.4,0.4
+2609,Tune,Chick-fil-a,2,1,7.4,6.6,0.8
+2610,Salad,Halal Guys,9,3,4.1,1.5,2.6
+2611,Burger,Akino sushi,6,2,3.0,0.4,2.6
+2612,Salad,Akino sushi,6,2,6.0,5.2,0.8
+2613,Tune,Akino sushi,12,3,5.7,3.8,1.9
+2614,Burger,Chick-fil-a,11,3,6.7,3.2,3.5
+2615,Pork,Akino sushi,4,1,1.1,0.8,0.3
+2616,Beans,Akino sushi,7,2,8.6,4.6,4.0
+2617,Drumsticks,Globe,3,1,7.9,5.8,2.1
+2618,Drumsticks,Nue Vegan,11,3,5.4,2.0,3.4
+2619,Pork,Halal Guys,11,3,7.6,4.5,3.1
+2620,Chicken,Globe,9,3,4.1,2.6,1.5
+2621,Beef,Flip kitchen,3,1,3.6,3.6,0.0
+2622,Beef,Chipotle,10,3,9.7,6.0,3.7
+2623,Pork,Ike's,11,3,3.0,1.1,1.9
+2624,Drumsticks,Akino sushi,12,3,1.8,1.6,0.2
+2625,Drumsticks,Southside,2,1,6.5,6.3,0.2
+2626,Pizza,Ike's,6,2,9.9,2.2,7.7
+2627,Tune,Globe,4,1,8.6,3.7,4.9
+2628,Chicken,Halal Guys,12,3,7.8,5.7,2.1
+2629,Burger,Chick-fil-a,12,3,1.1,1.0,0.1
+2630,Pork,Flip kitchen,1,1,8.5,3.5,5.0
+2631,Burger,Flip kitchen,6,2,2.5,0.4,2.1
+2632,Pizza,Globe,7,2,8.8,7.9,0.9
+2633,Burger,Globe,11,3,1.7,0.6,1.1
+2634,Tune,Blaze pizza,6,2,8.0,2.8,5.2
+2635,Beans,Chick-fil-a,1,1,3.7,1.7,2.0
+2636,Burger,Nue Vegan,1,1,3.9,3.5,0.4
+2637,Chicken,Globe,5,2,6.2,6.1,0.1
+2638,Salad,Southside,8,2,7.0,4.0,3.0
+2639,Pork,Halal Guys,3,1,5.0,4.6,0.4
+2640,Chicken,Chick-fil-a,2,1,8.9,8.0,0.9
+2641,Salad,Flip kitchen,6,2,9.1,4.4,4.7
+2642,Pork,Akino sushi,3,1,3.5,1.1,2.4
+2643,Pork,Akino sushi,7,2,2.3,2.0,0.3
+2644,Chicken,Halal Guys,4,1,5.2,1.3,3.9
+2645,Beef,Southside,12,3,1.8,0.6,1.2
+2646,Tune,Southside,7,2,7.1,6.4,0.7
+2647,Pork,Blaze pizza,4,1,8.4,0.2,8.2
+2648,Parmesan cheese,Nue Vegan,3,1,2.6,0.5,2.1
+2649,Beef,Chipotle,6,2,8.4,7.3,1.1
+2650,Burger,Chick-fil-a,9,3,3.2,1.1,2.1
+2651,Chicken,Nue Vegan,7,2,1.2,0.7,0.5
+2652,Beans,Ike's,4,1,7.5,2.6,4.9
+2653,Pizza,Globe,6,2,3.2,0.6,2.6
+2654,Beef,Blaze pizza,12,3,8.6,5.1,3.5
+2655,Parmesan cheese,Flip kitchen,3,1,6.0,5.6,0.4
+2656,Burger,Flip kitchen,9,3,9.2,8.4,0.8
+2657,Pork,Akino sushi,10,3,2.1,0.6,1.5
+2658,Parmesan cheese,Chick-fil-a,5,2,5.3,2.5,2.8
+2659,Salad,Nue Vegan,2,1,8.3,3.2,5.1
+2660,Pork,Halal Guys,4,1,1.5,1.4,0.1
+2661,Drumsticks,Nue Vegan,12,3,2.0,1.5,0.5
+2662,Pork,Halal Guys,7,2,9.1,0.8,8.3
+2663,Salad,Southside,7,2,4.3,0.6,3.7
+2664,Beef,Chick-fil-a,3,1,2.9,1.4,1.5
+2665,Pizza,Chick-fil-a,9,3,8.1,2.6,5.5
+2666,Salad,Ike's,9,3,6.4,2.6,3.8
+2667,Pizza,Chick-fil-a,9,3,7.7,3.0,4.7
+2668,Beef,Ike's,1,1,1.8,0.2,1.6
+2669,Beans,Blaze pizza,10,3,6.1,3.9,2.2
+2670,Drumsticks,Southside,12,3,5.3,3.5,1.8
+2671,Pork,Nue Vegan,4,1,7.5,2.8,4.7
+2672,Burger,Nue Vegan,3,1,1.7,0.3,1.4
+2673,Pork,Chick-fil-a,2,1,5.4,1.5,3.9
+2674,Pizza,Chick-fil-a,2,1,9.4,7.1,2.3
+2675,Burger,Flip kitchen,3,1,8.1,2.4,5.7
+2676,Burger,Chick-fil-a,12,3,5.8,1.2,4.6
+2677,Drumsticks,Globe,9,3,2.6,1.2,1.4
+2678,Tune,Ike's,10,3,7.1,4.1,3.0
+2679,Tune,Chipotle,6,2,4.4,1.4,3.0
+2680,Pork,Globe,4,1,5.2,3.1,2.1
+2681,Beans,Chick-fil-a,4,1,7.6,1.7,5.9
+2682,Chicken,Flip kitchen,10,3,8.4,6.2,2.2
+2683,Fries,Flip kitchen,10,3,5.4,3.2,2.2
+2684,Pork,Flip kitchen,3,1,5.6,0.6,5.0
+2685,Burger,Chick-fil-a,5,2,6.2,2.7,3.5
+2686,Beef,Blaze pizza,12,3,6.8,5.0,1.8
+2687,Beef,Chipotle,12,3,6.4,1.2,5.2
+2688,Parmesan cheese,Akino sushi,11,3,4.7,4.6,0.1
+2689,Pork,Chick-fil-a,7,2,2.5,2.4,0.1
+2690,Parmesan cheese,Akino sushi,3,1,6.6,0.8,5.8
+2691,Burger,Akino sushi,9,3,3.5,3.2,0.3
+2692,Salad,Flip kitchen,12,3,3.0,2.1,0.9
+2693,Drumsticks,Blaze pizza,2,1,7.0,6.3,0.7
+2694,Pork,Chipotle,10,3,7.5,4.1,3.4
+2695,Fries,Chipotle,5,2,5.9,3.5,2.4
+2696,Chicken,Akino sushi,2,1,1.7,1.4,0.3
+2697,Beef,Nue Vegan,6,2,5.1,1.9,3.2
+2698,Chicken,Akino sushi,1,1,9.2,9.1,0.1
+2699,Chicken,Chick-fil-a,4,1,3.3,1.9,1.4
+2700,Salad,Blaze pizza,3,1,9.3,0.6,8.7
+2701,Parmesan cheese,Globe,7,2,9.8,4.4,5.4
+2702,Beef,Flip kitchen,3,1,4.4,2.2,2.2
+2703,Salad,Nue Vegan,3,1,4.6,4.0,0.6
+2704,Tune,Blaze pizza,3,1,2.4,0.2,2.2
+2705,Chicken,Southside,6,2,3.2,0.3,2.9
+2706,Tune,Nue Vegan,12,3,8.2,0.2,8.0
+2707,Drumsticks,Flip kitchen,5,2,4.3,3.2,1.1
+2708,Chicken,Akino sushi,12,3,9.7,0.9,8.8
+2709,Beef,Akino sushi,1,1,2.9,1.2,1.7
+2710,Pork,Halal Guys,6,2,1.3,0.8,0.5
+2711,Salad,Chipotle,1,1,4.0,1.5,2.5
+2712,Beans,Chipotle,7,2,3.7,0.1,3.6
+2713,Tune,Southside,1,1,1.7,1.1,0.6
+2714,Beef,Ike's,11,3,3.6,2.0,1.6
+2715,Burger,Southside,7,2,3.8,1.0,2.8
+2716,Chicken,Chipotle,10,3,4.5,3.9,0.6
+2717,Beans,Chipotle,1,1,6.8,3.2,3.6
+2718,Burger,Ike's,6,2,2.9,2.4,0.5
+2719,Salad,Nue Vegan,9,3,8.4,6.1,2.3
+2720,Pizza,Globe,9,3,8.2,1.1,7.1
+2721,Burger,Chipotle,11,3,3.7,1.9,1.8
+2722,Drumsticks,Chipotle,2,1,9.9,5.3,4.6
+2723,Pork,Ike's,7,2,8.3,0.8,7.5
+2724,Burger,Halal Guys,12,3,10.0,7.6,2.4
+2725,Salad,Flip kitchen,4,1,6.0,0.4,5.6
+2726,Pork,Akino sushi,9,3,3.0,1.5,1.5
+2727,Fries,Akino sushi,10,3,9.5,3.1,6.4
+2728,Beef,Ike's,6,2,9.0,2.1,6.9
+2729,Chicken,Ike's,8,2,8.2,1.2,7.0
+2730,Beans,Akino sushi,3,1,2.4,1.5,0.9
+2731,Pork,Southside,2,1,5.8,5.5,0.3
+2732,Beans,Blaze pizza,8,2,8.4,7.7,0.7
+2733,Fries,Ike's,6,2,1.6,0.8,0.8
+2734,Drumsticks,Ike's,8,2,3.9,0.8,3.1
+2735,Drumsticks,Southside,4,1,2.0,0.2,1.8
+2736,Beef,Southside,5,2,7.3,6.3,1.0
+2737,Pizza,Globe,11,3,8.7,4.6,4.1
+2738,Salad,Chick-fil-a,11,3,5.5,0.3,5.2
+2739,Burger,Halal Guys,4,1,1.1,0.9,0.2
+2740,Salad,Ike's,12,3,7.8,0.2,7.6
+2741,Pork,Ike's,3,1,7.8,1.7,6.1
+2742,Tune,Nue Vegan,11,3,3.6,2.2,1.4
+2743,Tune,Halal Guys,11,3,8.9,5.2,3.7
+2744,Beans,Akino sushi,8,2,8.3,0.7,7.6
+2745,Burger,Blaze pizza,7,2,4.3,1.8,2.5
+2746,Burger,Akino sushi,4,1,9.2,7.6,1.6
+2747,Burger,Globe,11,3,1.3,0.9,0.4
+2748,Beef,Blaze pizza,9,3,5.8,5.2,0.6
+2749,Pizza,Flip kitchen,3,1,5.8,4.7,1.1
+2750,Pizza,Chick-fil-a,5,2,5.6,3.2,2.4
+2751,Beans,Chipotle,3,1,4.9,1.5,3.4
+2752,Burger,Ike's,6,2,1.5,0.5,1.0
+2753,Pizza,Ike's,5,2,3.8,2.6,1.2
+2754,Burger,Flip kitchen,10,3,7.5,0.4,7.1
+2755,Pizza,Southside,8,2,8.9,8.4,0.5
+2756,Burger,Ike's,5,2,6.8,3.5,3.3
+2757,Parmesan cheese,Nue Vegan,8,2,7.4,4.3,3.1
+2758,Drumsticks,Chick-fil-a,9,3,1.5,1.4,0.1
+2759,Burger,Blaze pizza,5,2,3.8,3.2,0.6
+2760,Burger,Globe,6,2,6.6,2.6,4.0
+2761,Pork,Ike's,10,3,2.8,0.0,2.8
+2762,Beans,Globe,5,2,3.3,2.8,0.5
+2763,Pork,Ike's,6,2,7.3,5.2,2.1
+2764,Burger,Blaze pizza,7,2,2.6,2.5,0.1
+2765,Drumsticks,Flip kitchen,12,3,2.2,1.9,0.3
+2766,Burger,Chick-fil-a,10,3,1.0,0.7,0.3
+2767,Pizza,Chick-fil-a,5,2,2.4,1.4,1.0
+2768,Pizza,Ike's,3,1,1.9,1.1,0.8
+2769,Salad,Blaze pizza,4,1,2.7,0.4,2.3
+2770,Burger,Globe,12,3,4.8,3.7,1.1
+2771,Beef,Flip kitchen,7,2,1.4,1.0,0.4
+2772,Parmesan cheese,Ike's,8,2,8.4,2.2,6.2
+2773,Burger,Chick-fil-a,9,3,9.0,2.5,6.5
+2774,Drumsticks,Flip kitchen,7,2,3.6,0.7,2.9
+2775,Pizza,Nue Vegan,12,3,5.6,4.4,1.2
+2776,Chicken,Chick-fil-a,10,3,1.8,1.1,0.7
+2777,Burger,Globe,6,2,1.1,0.3,0.8
+2778,Tune,Halal Guys,3,1,7.2,5.8,1.4
+2779,Fries,Globe,7,2,8.0,4.1,3.9
+2780,Burger,Nue Vegan,7,2,4.8,2.9,1.9
+2781,Tune,Southside,12,3,8.8,0.3,8.5
+2782,Drumsticks,Chick-fil-a,6,2,4.0,2.0,2.0
+2783,Salad,Akino sushi,6,2,9.8,0.8,9.0
+2784,Burger,Blaze pizza,7,2,1.8,1.4,0.4
+2785,Beans,Blaze pizza,3,1,8.4,7.3,1.1
+2786,Burger,Globe,6,2,8.0,0.9,7.1
+2787,Parmesan cheese,Flip kitchen,8,2,3.1,2.1,1.0
+2788,Parmesan cheese,Blaze pizza,3,1,1.7,0.9,0.8
+2789,Beans,Nue Vegan,1,1,5.2,0.1,5.1
+2790,Burger,Ike's,5,2,4.7,1.2,3.5
+2791,Chicken,Nue Vegan,7,2,1.5,1.0,0.5
+2792,Chicken,Blaze pizza,1,1,1.3,0.3,1.0
+2793,Drumsticks,Chick-fil-a,3,1,2.0,1.3,0.7
+2794,Chicken,Halal Guys,7,2,8.8,0.5,8.3
+2795,Fries,Akino sushi,3,1,4.2,2.9,1.3
+2796,Fries,Ike's,6,2,9.8,6.6,3.2
+2797,Salad,Flip kitchen,5,2,5.1,4.1,1.0
+2798,Tune,Nue Vegan,1,1,2.0,1.9,0.1
+2799,Pork,Halal Guys,5,2,2.4,1.4,1.0
+2800,Beans,Halal Guys,11,3,6.7,0.3,6.4
+2801,Drumsticks,Nue Vegan,5,2,6.6,2.3,4.3
+2802,Pork,Nue Vegan,11,3,8.7,6.9,1.8
+2803,Tune,Chipotle,11,3,2.4,1.3,1.1
+2804,Chicken,Flip kitchen,3,1,3.1,1.5,1.6
+2805,Pork,Chipotle,1,1,5.1,4.4,0.7
+2806,Chicken,Globe,10,3,4.6,2.3,2.3
+2807,Drumsticks,Southside,1,1,6.3,1.0,5.3
+2808,Beef,Nue Vegan,8,2,4.0,1.2,2.8
+2809,Pizza,Ike's,7,2,1.9,1.7,0.2
+2810,Drumsticks,Globe,4,1,3.9,1.7,2.2
+2811,Parmesan cheese,Nue Vegan,1,1,7.7,3.0,4.7
+2812,Tune,Halal Guys,5,2,10.0,4.1,5.9
+2813,Drumsticks,Nue Vegan,9,3,4.1,3.7,0.4
+2814,Burger,Ike's,3,1,7.5,3.1,4.4
+2815,Beans,Ike's,11,3,1.8,1.0,0.8
+2816,Chicken,Akino sushi,3,1,7.9,5.4,2.5
+2817,Pizza,Chipotle,10,3,3.6,2.5,1.1
+2818,Fries,Southside,1,1,6.2,0.9,5.3
+2819,Fries,Chick-fil-a,10,3,4.6,4.3,0.3
+2820,Beans,Blaze pizza,4,1,4.5,2.6,1.9
+2821,Beans,Flip kitchen,8,2,2.0,0.6,1.4
+2822,Drumsticks,Chipotle,4,1,5.8,3.1,2.7
+2823,Beans,Nue Vegan,6,2,1.5,0.5,1.0
+2824,Burger,Globe,1,1,2.0,1.5,0.5
+2825,Burger,Flip kitchen,3,1,6.6,4.0,2.6
+2826,Pork,Southside,2,1,6.8,4.2,2.6
+2827,Pork,Chipotle,2,1,2.2,1.5,0.7
+2828,Chicken,Ike's,7,2,7.8,2.9,4.9
+2829,Parmesan cheese,Chick-fil-a,1,1,2.3,1.0,1.3
+2830,Pork,Ike's,8,2,6.9,5.2,1.7
+2831,Chicken,Akino sushi,1,1,9.1,4.7,4.4
+2832,Beans,Chick-fil-a,3,1,1.1,0.6,0.5
+2833,Pork,Flip kitchen,7,2,9.2,5.4,3.8
+2834,Burger,Nue Vegan,7,2,6.2,5.9,0.3
+2835,Drumsticks,Halal Guys,9,3,6.7,1.8,4.9
+2836,Burger,Chick-fil-a,8,2,2.4,2.1,0.3
+2837,Pizza,Flip kitchen,7,2,8.1,5.8,2.3
+2838,Chicken,Globe,1,1,8.8,5.7,3.1
+2839,Chicken,Southside,10,3,7.3,3.5,3.8
+2840,Beans,Chipotle,6,2,4.8,4.6,0.2
+2841,Pork,Halal Guys,2,1,9.1,1.3,7.8
+2842,Burger,Chipotle,9,3,2.6,1.8,0.8
+2843,Burger,Akino sushi,10,3,5.7,5.4,0.3
+2844,Salad,Ike's,5,2,4.3,3.7,0.6
+2845,Salad,Southside,5,2,9.4,6.9,2.5
+2846,Beef,Globe,11,3,2.6,0.5,2.1
+2847,Parmesan cheese,Akino sushi,12,3,5.8,3.9,1.9
+2848,Drumsticks,Chick-fil-a,11,3,1.1,0.7,0.4
+2849,Pizza,Globe,7,2,3.2,1.0,2.2
+2850,Beef,Chick-fil-a,8,2,6.1,0.3,5.8
+2851,Drumsticks,Chipotle,1,1,6.9,1.8,5.1
+2852,Chicken,Blaze pizza,2,1,1.9,1.4,0.5
+2853,Beef,Chick-fil-a,10,3,8.4,7.0,1.4
+2854,Fries,Ike's,4,1,8.7,7.6,1.1
+2855,Chicken,Chick-fil-a,7,2,6.6,1.7,4.9
+2856,Pizza,Chick-fil-a,6,2,7.4,6.4,1.0
+2857,Beef,Ike's,6,2,8.4,2.9,5.5
+2858,Chicken,Nue Vegan,10,3,2.2,1.4,0.8
+2859,Fries,Chipotle,4,1,7.1,5.1,2.0
+2860,Burger,Halal Guys,5,2,6.8,1.7,5.1
+2861,Pork,Akino sushi,7,2,4.1,2.2,1.9
+2862,Chicken,Blaze pizza,5,2,5.1,2.8,2.3
+2863,Beef,Flip kitchen,10,3,1.5,0.3,1.2
+2864,Parmesan cheese,Flip kitchen,7,2,1.5,0.7,0.8
+2865,Chicken,Halal Guys,7,2,1.1,0.1,1.0
+2866,Burger,Blaze pizza,4,1,4.3,3.0,1.3
+2867,Pizza,Halal Guys,12,3,3.5,2.9,0.6
+2868,Beans,Nue Vegan,8,2,1.6,0.6,1.0
+2869,Parmesan cheese,Flip kitchen,1,1,6.0,4.6,1.4
+2870,Pizza,Halal Guys,10,3,2.2,1.8,0.4
+2871,Fries,Southside,3,1,8.7,0.9,7.8
+2872,Salad,Akino sushi,7,2,2.6,0.8,1.8
+2873,Pork,Nue Vegan,11,3,5.4,4.8,0.6
+2874,Pork,Ike's,11,3,1.3,0.3,1.0
+2875,Burger,Southside,8,2,3.2,2.4,0.8
+2876,Salad,Blaze pizza,3,1,5.1,2.7,2.4
+2877,Salad,Flip kitchen,12,3,1.6,0.6,1.0
+2878,Pork,Southside,11,3,7.7,7.2,0.5
+2879,Pizza,Chick-fil-a,6,2,5.0,4.9,0.1
+2880,Beef,Flip kitchen,12,3,8.9,0.7,8.2
+2881,Parmesan cheese,Flip kitchen,6,2,4.4,1.6,2.8
+2882,Burger,Ike's,7,2,7.4,1.0,6.4
+2883,Pizza,Southside,8,2,7.6,4.1,3.5
+2884,Salad,Chick-fil-a,11,3,6.6,4.9,1.7
+2885,Drumsticks,Ike's,4,1,8.3,2.9,5.4
+2886,Salad,Akino sushi,6,2,2.7,0.8,1.9
+2887,Pork,Globe,4,1,2.2,2.0,0.2
+2888,Salad,Blaze pizza,12,3,5.3,2.6,2.7
+2889,Tune,Nue Vegan,1,1,4.5,3.3,1.2
+2890,Beans,Akino sushi,8,2,6.1,4.7,1.4
+2891,Fries,Southside,6,2,8.5,4.6,3.9
+2892,Pizza,Chipotle,7,2,4.7,3.2,1.5
+2893,Salad,Chick-fil-a,6,2,2.5,1.8,0.7
+2894,Drumsticks,Chick-fil-a,10,3,5.0,3.1,1.9
+2895,Pork,Halal Guys,7,2,6.8,3.0,3.8
+2896,Fries,Akino sushi,11,3,9.8,6.0,3.8
+2897,Pizza,Ike's,10,3,9.4,6.4,3.0
+2898,Fries,Akino sushi,4,1,8.1,3.2,4.9
+2899,Tune,Chipotle,1,1,5.7,0.4,5.3
+2900,Pork,Akino sushi,6,2,9.4,8.9,0.5
+2901,Pizza,Halal Guys,10,3,8.5,3.8,4.7
+2902,Pork,Ike's,5,2,1.8,1.7,0.1
+2903,Tune,Chick-fil-a,9,3,6.4,1.2,5.2
+2904,Pork,Chipotle,4,1,2.6,0.8,1.8
+2905,Pork,Ike's,12,3,7.6,1.1,6.5
+2906,Salad,Blaze pizza,3,1,9.6,3.9,5.7
+2907,Burger,Flip kitchen,8,2,9.2,0.2,9.0
+2908,Fries,Chipotle,1,1,9.8,2.9,6.9
+2909,Tune,Southside,9,3,2.0,1.0,1.0
+2910,Chicken,Nue Vegan,7,2,8.6,8.2,0.4
+2911,Drumsticks,Nue Vegan,8,2,8.0,1.6,6.4
+2912,Parmesan cheese,Flip kitchen,7,2,8.2,6.4,1.8
+2913,Beans,Chipotle,7,2,3.0,0.3,2.7
+2914,Pizza,Chick-fil-a,10,3,2.9,1.4,1.5
+2915,Beef,Chipotle,2,1,2.1,0.2,1.9
+2916,Salad,Blaze pizza,5,2,8.8,8.4,0.4
+2917,Burger,Nue Vegan,8,2,1.6,0.6,1.0
+2918,Tune,Flip kitchen,10,3,7.4,2.7,4.7
+2919,Beef,Flip kitchen,8,2,7.6,7.4,0.2
+2920,Drumsticks,Nue Vegan,12,3,9.4,0.6,8.8
+2921,Pork,Chipotle,2,1,8.6,5.0,3.6
+2922,Fries,Nue Vegan,1,1,6.3,1.7,4.6
+2923,Drumsticks,Akino sushi,2,1,7.2,6.0,1.2
+2924,Tune,Flip kitchen,3,1,2.1,1.3,0.8
+2925,Drumsticks,Chick-fil-a,8,2,8.7,2.8,5.9
+2926,Pork,Globe,9,3,5.4,2.3,3.1
+2927,Chicken,Ike's,4,1,6.7,3.6,3.1
+2928,Beans,Chipotle,12,3,4.9,4.3,0.6
+2929,Fries,Nue Vegan,10,3,3.5,3.4,0.1
+2930,Pork,Flip kitchen,6,2,10.0,5.0,5.0
+2931,Beef,Akino sushi,2,1,8.4,5.8,2.6
+2932,Pizza,Chick-fil-a,8,2,9.4,1.0,8.4
+2933,Burger,Chick-fil-a,1,1,4.8,1.9,2.9
+2934,Tune,Halal Guys,2,1,9.7,1.3,8.4
+2935,Beef,Nue Vegan,8,2,5.9,1.4,4.5
+2936,Fries,Ike's,8,2,3.5,1.8,1.7
+2937,Chicken,Chipotle,10,3,5.6,5.4,0.2
+2938,Parmesan cheese,Chipotle,5,2,1.0,0.1,0.9
+2939,Beef,Flip kitchen,9,3,2.3,0.9,1.4
+2940,Burger,Nue Vegan,6,2,2.1,0.5,1.6
+2941,Pork,Globe,8,2,5.7,5.4,0.3
+2942,Salad,Globe,1,1,2.2,0.4,1.8
+2943,Salad,Chipotle,2,1,1.8,1.0,0.8
+2944,Beef,Globe,12,3,9.8,6.8,3.0
+2945,Fries,Flip kitchen,8,2,2.8,1.5,1.3
+2946,Chicken,Chick-fil-a,4,1,8.5,6.9,1.6
+2947,Salad,Nue Vegan,1,1,3.0,0.5,2.5
+2948,Salad,Chipotle,7,2,6.8,5.4,1.4
+2949,Pork,Akino sushi,4,1,2.4,0.8,1.6
+2950,Salad,Halal Guys,3,1,8.3,3.5,4.8
+2951,Drumsticks,Ike's,12,3,1.2,1.0,0.2
+2952,Pizza,Southside,1,1,8.7,8.6,0.1
+2953,Burger,Akino sushi,3,1,8.1,0.9,7.2
+2954,Parmesan cheese,Ike's,3,1,5.2,2.3,2.9
+2955,Pizza,Globe,12,3,3.7,1.6,2.1
+2956,Salad,Chick-fil-a,8,2,5.8,5.4,0.4
+2957,Chicken,Globe,2,1,7.9,1.2,6.7
+2958,Pork,Southside,12,3,6.3,1.8,4.5
+2959,Drumsticks,Akino sushi,5,2,3.7,0.5,3.2
+2960,Fries,Chipotle,4,1,3.7,0.1,3.6
+2961,Tune,Globe,5,2,6.5,3.8,2.7
+2962,Salad,Southside,10,3,1.4,1.0,0.4
+2963,Beef,Southside,4,1,1.1,0.9,0.2
+2964,Fries,Chipotle,8,2,7.5,6.7,0.8
+2965,Chicken,Akino sushi,4,1,6.0,0.9,5.1
+2966,Chicken,Chipotle,7,2,9.8,8.4,1.4
+2967,Tune,Globe,4,1,6.7,0.7,6.0
+2968,Pork,Globe,6,2,1.6,1.0,0.6
+2969,Fries,Nue Vegan,3,1,5.1,1.6,3.5
+2970,Beans,Chipotle,4,1,5.1,1.0,4.1
+2971,Chicken,Flip kitchen,6,2,9.0,8.7,0.3
+2972,Drumsticks,Flip kitchen,8,2,9.6,0.6,9.0
+2973,Parmesan cheese,Blaze pizza,7,2,1.9,1.6,0.3
+2974,Beans,Nue Vegan,2,1,6.8,0.6,6.2
+2975,Tune,Akino sushi,12,3,8.3,3.4,4.9
+2976,Burger,Globe,2,1,2.3,0.6,1.7
+2977,Chicken,Flip kitchen,8,2,8.4,1.4,7.0
+2978,Beef,Chick-fil-a,12,3,3.3,1.2,2.1
+2979,Tune,Blaze pizza,8,2,5.6,3.6,2.0
+2980,Drumsticks,Akino sushi,5,2,4.4,3.7,0.7
+2981,Drumsticks,Blaze pizza,8,2,2.0,1.3,0.7
+2982,Beans,Globe,8,2,9.5,3.4,6.1
+2983,Parmesan cheese,Akino sushi,3,1,4.8,0.4,4.4
+2984,Beans,Flip kitchen,4,1,9.3,5.8,3.5
+2985,Beef,Southside,3,1,7.1,3.0,4.1
+2986,Salad,Blaze pizza,12,3,8.0,3.3,4.7
+2987,Pork,Ike's,11,3,6.7,4.9,1.8
+2988,Salad,Southside,3,1,6.2,5.7,0.5
+2989,Fries,Ike's,12,3,4.7,1.3,3.4
+2990,Pizza,Akino sushi,4,1,2.8,1.7,1.1
+2991,Tune,Halal Guys,9,3,3.6,1.1,2.5
+2992,Beef,Blaze pizza,1,1,3.9,1.8,2.1
+2993,Tune,Ike's,10,3,9.0,2.8,6.2
+2994,Drumsticks,Chipotle,2,1,2.1,1.5,0.6
+2995,Drumsticks,Blaze pizza,2,1,6.0,3.4,2.6
+2996,Chicken,Chipotle,7,2,4.8,2.1,2.7
+2997,Chicken,Halal Guys,9,3,3.7,2.6,1.1
+2998,Salad,Flip kitchen,12,3,8.6,7.1,1.5
+2999,Salad,Chick-fil-a,5,2,4.7,0.9,3.8
+3000,Burger,Flip kitchen,10,3,8.2,6.2,2.0
+3001,Drumsticks,Chipotle,7,2,5.5,0.9,4.6
+3002,Fries,Globe,3,1,6.3,0.3,6.0
+3003,Tune,Ike's,12,3,5.8,2.6,3.2
+3004,Tune,Nue Vegan,8,2,8.2,7.0,1.2
+3005,Tune,Ike's,12,3,3.2,0.7,2.5
+3006,Pizza,Flip kitchen,11,3,4.8,4.0,0.8
+3007,Chicken,Flip kitchen,1,1,8.8,0.3,8.5
+3008,Pizza,Akino sushi,7,2,1.6,1.2,0.4
+3009,Fries,Globe,4,1,9.2,6.4,2.8
+3010,Pork,Akino sushi,6,2,7.2,6.5,0.7
+3011,Pork,Chipotle,2,1,3.8,1.9,1.9
+3012,Drumsticks,Akino sushi,11,3,6.1,2.7,3.4
+3013,Pizza,Flip kitchen,7,2,9.7,2.6,7.1
+3014,Salad,Flip kitchen,6,2,6.2,1.7,4.5
+3015,Beef,Chipotle,3,1,3.5,3.1,0.4
+3016,Parmesan cheese,Flip kitchen,9,3,5.8,3.5,2.3
+3017,Parmesan cheese,Chick-fil-a,9,3,8.5,5.6,2.9
+3018,Fries,Nue Vegan,6,2,6.8,2.0,4.8
+3019,Parmesan cheese,Halal Guys,7,2,3.8,0.7,3.1
+3020,Beef,Chick-fil-a,5,2,4.7,0.4,4.3
+3021,Salad,Chipotle,8,2,3.0,1.3,1.7
+3022,Pork,Chipotle,7,2,3.6,2.2,1.4
+3023,Salad,Globe,8,2,7.5,5.7,1.8
+3024,Tune,Halal Guys,11,3,5.9,0.3,5.6
+3025,Pork,Globe,12,3,8.8,6.5,2.3
+3026,Pizza,Akino sushi,8,2,1.1,0.9,0.2
+3027,Fries,Globe,5,2,2.8,0.2,2.6
+3028,Pizza,Halal Guys,11,3,4.6,1.2,3.4
+3029,Drumsticks,Flip kitchen,4,1,2.6,2.3,0.3
+3030,Beef,Chick-fil-a,11,3,6.4,6.1,0.3
+3031,Tune,Globe,1,1,6.4,4.6,1.8
+3032,Drumsticks,Halal Guys,7,2,4.2,0.7,3.5
+3033,Pork,Chick-fil-a,1,1,6.7,0.9,5.8
+3034,Tune,Chick-fil-a,7,2,6.9,1.3,5.6
+3035,Pork,Chick-fil-a,4,1,8.3,5.2,3.1
+3036,Beans,Flip kitchen,6,2,9.1,3.8,5.3
+3037,Parmesan cheese,Halal Guys,8,2,5.2,3.8,1.4
+3038,Pizza,Chick-fil-a,4,1,6.9,3.7,3.2
+3039,Salad,Akino sushi,4,1,1.3,0.4,0.9
+3040,Chicken,Flip kitchen,8,2,3.5,0.5,3.0
+3041,Pizza,Ike's,2,1,7.6,1.8,5.8
+3042,Parmesan cheese,Nue Vegan,12,3,4.2,0.2,4.0
+3043,Chicken,Chick-fil-a,4,1,2.3,0.9,1.4
+3044,Pork,Chipotle,12,3,8.0,0.1,7.9
+3045,Beans,Flip kitchen,10,3,5.6,5.0,0.6
+3046,Parmesan cheese,Halal Guys,11,3,4.6,2.9,1.7
+3047,Chicken,Nue Vegan,8,2,4.9,1.7,3.2
+3048,Pork,Globe,7,2,7.8,0.4,7.4
+3049,Drumsticks,Chick-fil-a,4,1,9.8,3.8,6.0
+3050,Drumsticks,Southside,6,2,1.3,1.0,0.3
+3051,Beans,Southside,8,2,2.6,0.9,1.7
+3052,Drumsticks,Ike's,10,3,2.1,1.4,0.7
+3053,Tune,Globe,8,2,8.9,2.1,6.8
+3054,Burger,Blaze pizza,5,2,3.2,2.9,0.3
+3055,Tune,Southside,3,1,1.1,1.0,0.1
+3056,Beans,Southside,4,1,4.5,1.5,3.0
+3057,Pizza,Globe,12,3,9.2,2.7,6.5
+3058,Parmesan cheese,Chick-fil-a,7,2,9.1,3.2,5.9
+3059,Tune,Chipotle,8,2,1.0,0.2,0.8
+3060,Tune,Globe,5,2,2.0,1.3,0.7
+3061,Drumsticks,Chipotle,7,2,8.8,0.7,8.1
+3062,Parmesan cheese,Akino sushi,3,1,3.5,1.8,1.7
+3063,Beef,Chick-fil-a,3,1,7.9,1.9,6.0
+3064,Pork,Nue Vegan,11,3,8.8,1.0,7.8
+3065,Beans,Akino sushi,5,2,9.0,2.8,6.2
+3066,Beef,Ike's,2,1,3.2,0.3,2.9
+3067,Drumsticks,Chick-fil-a,3,1,9.7,2.9,6.8
+3068,Beans,Chipotle,8,2,4.3,0.6,3.7
+3069,Burger,Akino sushi,3,1,1.5,1.0,0.5
+3070,Beef,Chipotle,8,2,3.4,2.6,0.8
+3071,Pork,Blaze pizza,8,2,8.3,3.9,4.4
+3072,Tune,Blaze pizza,2,1,7.2,5.2,2.0
+3073,Beef,Blaze pizza,11,3,6.4,3.3,3.1
+3074,Pizza,Flip kitchen,4,1,6.3,5.6,0.7
+3075,Fries,Flip kitchen,7,2,8.1,0.2,7.9
+3076,Beans,Halal Guys,2,1,9.9,8.4,1.5
+3077,Pizza,Nue Vegan,1,1,8.7,5.5,3.2
+3078,Beans,Halal Guys,1,1,2.2,0.5,1.7
+3079,Parmesan cheese,Blaze pizza,11,3,5.3,4.8,0.5
+3080,Drumsticks,Globe,3,1,5.7,4.8,0.9
+3081,Salad,Southside,1,1,5.7,4.3,1.4
+3082,Pizza,Akino sushi,10,3,7.2,6.8,0.4
+3083,Pork,Nue Vegan,2,1,4.9,4.8,0.1
+3084,Chicken,Nue Vegan,7,2,7.8,1.4,6.4
+3085,Drumsticks,Nue Vegan,2,1,3.6,1.2,2.4
+3086,Tune,Flip kitchen,1,1,9.1,2.3,6.8
+3087,Pork,Southside,3,1,3.5,1.3,2.2
+3088,Burger,Blaze pizza,3,1,6.0,4.9,1.1
+3089,Fries,Akino sushi,10,3,6.4,5.5,0.9
+3090,Chicken,Chick-fil-a,7,2,5.4,0.6,4.8
+3091,Pizza,Akino sushi,1,1,1.9,0.7,1.2
+3092,Chicken,Southside,10,3,5.5,3.9,1.6
+3093,Tune,Southside,7,2,2.6,1.9,0.7
+3094,Beans,Flip kitchen,8,2,9.7,0.1,9.6
+3095,Salad,Chick-fil-a,5,2,8.6,7.9,0.7
+3096,Tune,Globe,11,3,1.8,1.3,0.5
+3097,Fries,Blaze pizza,12,3,8.9,3.7,5.2
+3098,Tune,Nue Vegan,11,3,6.6,0.8,5.8
+3099,Parmesan cheese,Blaze pizza,3,1,5.7,0.2,5.5
+3100,Beans,Blaze pizza,10,3,1.7,1.3,0.4
+3101,Burger,Globe,8,2,8.9,7.2,1.7
+3102,Beef,Halal Guys,4,1,6.9,6.2,0.7
+3103,Fries,Southside,10,3,7.9,3.7,4.2
+3104,Salad,Chick-fil-a,2,1,2.5,1.9,0.6
+3105,Chicken,Halal Guys,8,2,5.8,3.5,2.3
+3106,Burger,Southside,5,2,2.9,1.5,1.4
+3107,Pizza,Blaze pizza,1,1,1.7,1.0,0.7
+3108,Parmesan cheese,Flip kitchen,3,1,4.1,2.6,1.5
+3109,Burger,Ike's,5,2,2.3,0.1,2.2
+3110,Parmesan cheese,Southside,6,2,3.4,0.8,2.6
+3111,Drumsticks,Halal Guys,8,2,3.9,2.5,1.4
+3112,Parmesan cheese,Halal Guys,7,2,7.2,0.7,6.5
+3113,Pork,Globe,5,2,2.7,1.8,0.9
+3114,Tune,Chick-fil-a,4,1,2.5,1.4,1.1
+3115,Salad,Halal Guys,2,1,9.2,9.0,0.2
+3116,Parmesan cheese,Flip kitchen,10,3,4.9,1.5,3.4
+3117,Chicken,Chipotle,6,2,1.8,1.1,0.7
+3118,Chicken,Chipotle,3,1,3.1,1.6,1.5
+3119,Parmesan cheese,Akino sushi,5,2,7.1,5.3,1.8
+3120,Pork,Southside,11,3,6.1,5.1,1.0
+3121,Burger,Flip kitchen,9,3,5.8,5.1,0.7
+3122,Beans,Halal Guys,10,3,1.0,1.0,0.0
+3123,Beef,Globe,12,3,5.6,0.2,5.4
+3124,Tune,Akino sushi,4,1,9.7,0.4,9.3
+3125,Parmesan cheese,Southside,9,3,9.4,3.6,5.8
+3126,Pizza,Ike's,12,3,8.5,0.5,8.0
+3127,Parmesan cheese,Southside,7,2,9.8,2.5,7.3
+3128,Parmesan cheese,Halal Guys,7,2,1.7,1.6,0.1
+3129,Pork,Globe,9,3,9.2,5.0,4.2
+3130,Drumsticks,Blaze pizza,6,2,6.9,4.7,2.2
+3131,Burger,Globe,12,3,2.7,0.5,2.2
+3132,Beans,Nue Vegan,10,3,5.3,0.1,5.2
+3133,Chicken,Blaze pizza,4,1,5.2,1.2,4.0
+3134,Fries,Southside,4,1,4.4,4.1,0.3
+3135,Drumsticks,Chipotle,12,3,6.5,2.3,4.2
+3136,Salad,Blaze pizza,5,2,8.7,2.3,6.4
+3137,Tune,Ike's,3,1,7.7,3.9,3.8
+3138,Parmesan cheese,Halal Guys,12,3,3.8,1.6,2.2
+3139,Drumsticks,Akino sushi,11,3,8.6,5.9,2.7
+3140,Salad,Chick-fil-a,7,2,2.4,0.9,1.5
+3141,Parmesan cheese,Akino sushi,1,1,6.9,0.6,6.3
+3142,Pork,Blaze pizza,4,1,7.9,3.9,4.0
+3143,Fries,Chick-fil-a,12,3,2.2,1.9,0.3
+3144,Drumsticks,Halal Guys,1,1,5.1,2.9,2.2
+3145,Chicken,Southside,7,2,8.5,8.1,0.4
+3146,Pizza,Blaze pizza,9,3,8.9,5.8,3.1
+3147,Parmesan cheese,Nue Vegan,1,1,1.5,0.3,1.2
+3148,Parmesan cheese,Chipotle,8,2,3.3,1.3,2.0
+3149,Pizza,Halal Guys,6,2,2.4,1.9,0.5
+3150,Pizza,Blaze pizza,6,2,7.7,6.6,1.1
+3151,Drumsticks,Chick-fil-a,2,1,4.2,2.2,2.0
+3152,Burger,Halal Guys,6,2,9.0,8.4,0.6
+3153,Parmesan cheese,Halal Guys,9,3,7.3,2.2,5.1
+3154,Pork,Halal Guys,1,1,2.2,1.7,0.5
+3155,Drumsticks,Globe,8,2,3.4,0.6,2.8
+3156,Pizza,Southside,8,2,3.1,2.9,0.2
+3157,Parmesan cheese,Blaze pizza,10,3,4.5,4.0,0.5
+3158,Chicken,Blaze pizza,5,2,1.6,1.5,0.1
+3159,Beef,Akino sushi,12,3,7.2,4.0,3.2
+3160,Salad,Chipotle,2,1,2.4,0.7,1.7
+3161,Beef,Chipotle,7,2,1.6,1.3,0.3
+3162,Beef,Blaze pizza,11,3,4.6,2.2,2.4
+3163,Tune,Halal Guys,3,1,6.2,0.9,5.3
+3164,Parmesan cheese,Blaze pizza,10,3,4.5,4.0,0.5
+3165,Parmesan cheese,Chipotle,8,2,8.3,6.6,1.7
+3166,Salad,Chipotle,1,1,9.1,8.0,1.1
+3167,Tune,Southside,10,3,3.2,1.8,1.4
+3168,Chicken,Nue Vegan,9,3,1.1,0.6,0.5
+3169,Pork,Halal Guys,6,2,9.5,4.2,5.3
+3170,Burger,Akino sushi,1,1,5.8,3.7,2.1
+3171,Chicken,Flip kitchen,2,1,6.1,1.5,4.6
+3172,Beef,Ike's,2,1,4.3,1.3,3.0
+3173,Chicken,Akino sushi,9,3,9.5,4.7,4.8
+3174,Fries,Blaze pizza,4,1,8.8,1.8,7.0
+3175,Chicken,Chipotle,1,1,6.0,5.5,0.5
+3176,Beef,Nue Vegan,7,2,9.5,1.3,8.2
+3177,Pork,Chick-fil-a,3,1,5.2,0.8,4.4
+3178,Beef,Chipotle,9,3,1.0,0.4,0.6
+3179,Beans,Flip kitchen,3,1,9.2,3.4,5.8
+3180,Salad,Halal Guys,11,3,1.5,1.3,0.2
+3181,Fries,Akino sushi,9,3,5.6,1.4,4.2
+3182,Burger,Southside,3,1,8.3,1.3,7.0
+3183,Drumsticks,Ike's,1,1,10.0,1.8,8.2
+3184,Parmesan cheese,Halal Guys,9,3,4.3,0.7,3.6
+3185,Tune,Flip kitchen,5,2,5.9,3.1,2.8
+3186,Chicken,Ike's,5,2,3.4,2.1,1.3
+3187,Beef,Southside,12,3,5.9,3.4,2.5
+3188,Burger,Globe,9,3,7.2,6.0,1.2
+3189,Salad,Halal Guys,10,3,8.8,0.5,8.3
+3190,Pizza,Southside,9,3,9.2,3.1,6.1
+3191,Beef,Chipotle,10,3,4.8,0.7,4.1
+3192,Drumsticks,Akino sushi,2,1,4.5,2.6,1.9
+3193,Salad,Southside,4,1,7.0,6.9,0.1
+3194,Beef,Blaze pizza,9,3,7.6,3.3,4.3
+3195,Beans,Blaze pizza,2,1,9.3,8.4,0.9
+3196,Tune,Nue Vegan,11,3,9.1,8.3,0.8
+3197,Beans,Chipotle,10,3,3.1,0.3,2.8
+3198,Salad,Southside,1,1,8.9,0.9,8.0
+3199,Burger,Chipotle,11,3,8.4,5.8,2.6
+3200,Burger,Blaze pizza,11,3,2.4,2.1,0.3
+3201,Burger,Ike's,1,1,5.2,3.5,1.7
+3202,Fries,Chick-fil-a,8,2,2.5,1.3,1.2
+3203,Salad,Akino sushi,11,3,3.2,3.0,0.2
+3204,Beef,Akino sushi,2,1,7.3,1.6,5.7
+3205,Burger,Globe,10,3,3.5,1.6,1.9
+3206,Parmesan cheese,Flip kitchen,4,1,5.0,4.1,0.9
+3207,Tune,Nue Vegan,1,1,9.2,0.6,8.6
+3208,Burger,Globe,12,3,2.2,0.8,1.4
+3209,Drumsticks,Southside,9,3,5.9,0.2,5.7
+3210,Burger,Southside,11,3,5.4,1.7,3.7
+3211,Pork,Halal Guys,11,3,7.4,0.9,6.5
+3212,Burger,Ike's,6,2,9.8,7.7,2.1
+3213,Drumsticks,Globe,5,2,5.8,2.2,3.6
+3214,Tune,Blaze pizza,11,3,4.2,3.9,0.3
+3215,Chicken,Chick-fil-a,9,3,3.1,0.2,2.9
+3216,Pizza,Blaze pizza,6,2,9.6,5.8,3.8
+3217,Salad,Ike's,8,2,3.5,1.2,2.3
+3218,Salad,Blaze pizza,5,2,5.0,4.0,1.0
+3219,Pork,Flip kitchen,5,2,4.6,1.0,3.6
+3220,Beans,Nue Vegan,5,2,2.4,0.3,2.1
+3221,Fries,Southside,1,1,9.2,4.5,4.7
+3222,Chicken,Chipotle,7,2,9.0,8.9,0.1
+3223,Salad,Flip kitchen,9,3,1.2,0.5,0.7
+3224,Chicken,Akino sushi,6,2,8.8,3.9,4.9
+3225,Pizza,Chick-fil-a,3,1,7.1,1.9,5.2
+3226,Pizza,Flip kitchen,9,3,8.8,6.8,2.0
+3227,Pizza,Ike's,10,3,5.5,2.9,2.6
+3228,Pork,Chipotle,11,3,3.4,3.0,0.4
+3229,Burger,Chipotle,8,2,4.4,0.3,4.1
+3230,Tune,Akino sushi,6,2,4.7,2.9,1.8
+3231,Fries,Nue Vegan,6,2,7.2,1.0,6.2
+3232,Parmesan cheese,Halal Guys,6,2,6.6,4.9,1.7
+3233,Tune,Southside,7,2,5.3,2.2,3.1
+3234,Beans,Southside,4,1,7.0,4.2,2.8
+3235,Drumsticks,Ike's,9,3,7.6,5.2,2.4
+3236,Fries,Nue Vegan,5,2,2.2,0.2,2.0
+3237,Beans,Halal Guys,6,2,7.5,3.5,4.0
+3238,Salad,Southside,11,3,8.1,3.8,4.3
+3239,Drumsticks,Akino sushi,7,2,8.8,1.4,7.4
+3240,Beef,Southside,4,1,8.4,2.5,5.9
+3241,Fries,Blaze pizza,6,2,1.4,1.0,0.4
+3242,Fries,Ike's,11,3,1.2,0.8,0.4
+3243,Beans,Globe,3,1,8.6,8.1,0.5
+3244,Chicken,Blaze pizza,2,1,3.6,0.0,3.6
+3245,Salad,Ike's,3,1,4.5,4.0,0.5
+3246,Chicken,Halal Guys,4,1,1.8,0.4,1.4
+3247,Fries,Halal Guys,1,1,9.8,7.5,2.3
+3248,Burger,Chipotle,3,1,3.9,0.2,3.7
+3249,Pizza,Blaze pizza,6,2,7.0,5.3,1.7
+3250,Burger,Chipotle,7,2,4.1,1.9,2.2
+3251,Pizza,Ike's,2,1,5.9,0.4,5.5
+3252,Pork,Chipotle,4,1,4.9,1.5,3.4
+3253,Parmesan cheese,Halal Guys,5,2,9.5,4.1,5.4
+3254,Pizza,Flip kitchen,4,1,3.2,0.3,2.9
+3255,Pizza,Chick-fil-a,3,1,2.4,0.2,2.2
+3256,Chicken,Globe,4,1,4.2,2.8,1.4
+3257,Fries,Southside,7,2,5.9,4.0,1.9
+3258,Parmesan cheese,Globe,9,3,2.4,0.0,2.4
+3259,Burger,Globe,10,3,3.6,3.1,0.5
+3260,Salad,Ike's,9,3,7.9,3.5,4.4
+3261,Beans,Blaze pizza,4,1,2.4,2.1,0.3
+3262,Chicken,Ike's,3,1,8.9,7.3,1.6
+3263,Tune,Nue Vegan,2,1,5.4,2.3,3.1
+3264,Drumsticks,Ike's,7,2,7.4,4.2,3.2
+3265,Salad,Globe,9,3,6.7,3.8,2.9
+3266,Pork,Chipotle,7,2,2.6,2.4,0.2
+3267,Parmesan cheese,Nue Vegan,5,2,8.1,7.1,1.0
+3268,Chicken,Globe,7,2,8.8,5.9,2.9
+3269,Pork,Blaze pizza,3,1,5.9,1.2,4.7
+3270,Chicken,Southside,6,2,8.3,6.6,1.7
+3271,Tune,Globe,3,1,3.2,2.0,1.2
+3272,Chicken,Blaze pizza,3,1,6.4,4.2,2.2
+3273,Tune,Southside,11,3,7.1,5.7,1.4
+3274,Pizza,Blaze pizza,5,2,8.5,0.9,7.6
+3275,Burger,Halal Guys,10,3,1.4,0.6,0.8
+3276,Burger,Blaze pizza,1,1,3.5,1.6,1.9
+3277,Salad,Akino sushi,10,3,6.1,6.0,0.1
+3278,Beef,Flip kitchen,12,3,9.8,2.0,7.8
+3279,Pork,Ike's,1,1,1.5,0.7,0.8
+3280,Tune,Southside,7,2,4.7,2.5,2.2
+3281,Pork,Flip kitchen,8,2,4.0,1.4,2.6
+3282,Parmesan cheese,Globe,5,2,6.8,0.2,6.6
+3283,Burger,Nue Vegan,1,1,5.6,1.9,3.7
+3284,Pizza,Nue Vegan,8,2,5.7,0.1,5.6
+3285,Parmesan cheese,Globe,2,1,9.8,7.3,2.5
+3286,Pizza,Chipotle,12,3,6.6,1.8,4.8
+3287,Drumsticks,Ike's,6,2,5.2,3.9,1.3
+3288,Salad,Flip kitchen,9,3,7.5,0.8,6.7
+3289,Beef,Southside,2,1,9.7,1.8,7.9
+3290,Salad,Blaze pizza,3,1,9.7,1.3,8.4
+3291,Drumsticks,Chick-fil-a,2,1,6.1,6.0,0.1
+3292,Chicken,Halal Guys,9,3,8.4,0.5,7.9
+3293,Pizza,Globe,1,1,4.0,1.1,2.9
+3294,Tune,Globe,6,2,4.6,1.9,2.7
+3295,Beef,Southside,5,2,5.2,4.3,0.9
+3296,Pizza,Halal Guys,7,2,9.4,7.4,2.0
+3297,Fries,Southside,7,2,6.5,3.7,2.8
+3298,Burger,Ike's,3,1,3.9,3.5,0.4
+3299,Pizza,Chipotle,5,2,9.7,2.0,7.7
+3300,Tune,Halal Guys,6,2,6.5,3.7,2.8
+3301,Fries,Halal Guys,5,2,6.0,5.6,0.4
+3302,Beans,Chick-fil-a,7,2,1.8,0.3,1.5
+3303,Parmesan cheese,Halal Guys,11,3,4.2,2.1,2.1
+3304,Fries,Flip kitchen,8,2,7.6,1.5,6.1
+3305,Beef,Nue Vegan,4,1,3.1,1.8,1.3
+3306,Burger,Halal Guys,3,1,2.7,2.0,0.7
+3307,Fries,Akino sushi,9,3,8.7,5.3,3.4
+3308,Burger,Akino sushi,2,1,6.3,3.6,2.7
+3309,Chicken,Globe,1,1,6.8,3.1,3.7
+3310,Drumsticks,Globe,1,1,8.2,7.8,0.4
+3311,Drumsticks,Halal Guys,9,3,1.2,1.0,0.2
+3312,Salad,Halal Guys,2,1,8.7,5.6,3.1
+3313,Chicken,Halal Guys,1,1,1.7,1.0,0.7
+3314,Drumsticks,Halal Guys,11,3,4.0,1.0,3.0
+3315,Chicken,Nue Vegan,11,3,9.0,3.2,5.8
+3316,Beef,Chick-fil-a,6,2,7.3,3.7,3.6
+3317,Pork,Globe,11,3,9.8,9.0,0.8
+3318,Salad,Chick-fil-a,11,3,4.9,4.3,0.6
+3319,Drumsticks,Nue Vegan,9,3,2.4,0.3,2.1
+3320,Burger,Chipotle,4,1,5.3,5.0,0.3
+3321,Beans,Ike's,10,3,7.1,6.0,1.1
+3322,Pork,Flip kitchen,2,1,8.8,7.0,1.8
+3323,Fries,Halal Guys,10,3,2.5,0.5,2.0
+3324,Tune,Halal Guys,4,1,5.2,3.1,2.1
+3325,Fries,Globe,7,2,9.2,7.3,1.9
+3326,Beans,Flip kitchen,6,2,8.8,7.2,1.6
+3327,Pork,Chipotle,12,3,2.6,2.6,0.0
+3328,Chicken,Blaze pizza,8,2,5.1,2.6,2.5
+3329,Pizza,Halal Guys,8,2,8.0,5.3,2.7
+3330,Beef,Akino sushi,9,3,3.8,0.4,3.4
+3331,Beef,Flip kitchen,1,1,5.8,2.4,3.4
+3332,Tune,Halal Guys,7,2,6.6,4.4,2.2
+3333,Fries,Halal Guys,3,1,3.4,2.7,0.7
+3334,Salad,Ike's,11,3,4.2,3.3,0.9
+3335,Tune,Chipotle,12,3,2.8,2.0,0.8
+3336,Beef,Flip kitchen,3,1,8.8,7.9,0.9
+3337,Beef,Halal Guys,5,2,9.4,4.9,4.5
+3338,Salad,Chipotle,5,2,6.2,4.6,1.6
+3339,Drumsticks,Nue Vegan,3,1,2.7,2.5,0.2
+3340,Fries,Ike's,7,2,3.2,0.7,2.5
+3341,Pork,Chipotle,11,3,5.8,2.3,3.5
+3342,Tune,Blaze pizza,6,2,7.4,1.1,6.3
+3343,Burger,Blaze pizza,4,1,5.5,1.5,4.0
+3344,Beef,Southside,4,1,6.0,4.9,1.1
+3345,Drumsticks,Southside,11,3,6.8,3.2,3.6
+3346,Chicken,Chick-fil-a,5,2,8.3,4.5,3.8
+3347,Beef,Akino sushi,7,2,4.7,4.0,0.7
+3348,Beef,Flip kitchen,4,1,2.7,0.3,2.4
+3349,Chicken,Chick-fil-a,6,2,5.4,3.9,1.5
+3350,Fries,Nue Vegan,3,1,6.0,4.5,1.5
+3351,Pork,Southside,4,1,8.0,3.9,4.1
+3352,Tune,Akino sushi,9,3,4.3,2.8,1.5
+3353,Burger,Flip kitchen,6,2,1.1,0.7,0.4
+3354,Burger,Chipotle,12,3,1.1,0.1,1.0
+3355,Salad,Ike's,1,1,3.3,0.5,2.8
+3356,Beans,Globe,12,3,7.1,5.7,1.4
+3357,Burger,Globe,1,1,8.7,6.3,2.4
+3358,Drumsticks,Chick-fil-a,7,2,3.3,0.2,3.1
+3359,Parmesan cheese,Ike's,11,3,4.5,4.3,0.2
+3360,Pizza,Chick-fil-a,9,3,2.3,1.6,0.7
+3361,Burger,Southside,9,3,9.3,7.0,2.3
+3362,Pizza,Akino sushi,6,2,6.1,3.9,2.2
+3363,Burger,Ike's,2,1,5.1,0.9,4.2
+3364,Fries,Halal Guys,6,2,10.0,0.6,9.4
+3365,Fries,Chick-fil-a,7,2,3.0,0.9,2.1
+3366,Beef,Globe,11,3,4.2,3.4,0.8
+3367,Tune,Globe,11,3,6.5,5.0,1.5
+3368,Chicken,Chipotle,10,3,2.3,1.3,1.0
+3369,Beans,Southside,2,1,5.2,0.4,4.8
+3370,Parmesan cheese,Nue Vegan,4,1,9.7,2.9,6.8
+3371,Salad,Globe,10,3,9.6,8.1,1.5
+3372,Pizza,Nue Vegan,10,3,8.6,7.8,0.8
+3373,Tune,Globe,6,2,5.6,0.3,5.3
+3374,Chicken,Halal Guys,9,3,8.1,2.6,5.5
+3375,Drumsticks,Chick-fil-a,10,3,7.8,3.7,4.1
+3376,Pizza,Chick-fil-a,4,1,9.2,2.4,6.8
+3377,Burger,Chipotle,6,2,7.5,3.2,4.3
+3378,Burger,Akino sushi,5,2,7.7,2.3,5.4
+3379,Beef,Chipotle,9,3,9.4,0.5,8.9
+3380,Beans,Chipotle,6,2,6.1,0.4,5.7
+3381,Chicken,Nue Vegan,5,2,7.2,3.9,3.3
+3382,Fries,Nue Vegan,3,1,2.7,0.9,1.8
+3383,Fries,Nue Vegan,1,1,3.4,0.7,2.7
+3384,Tune,Akino sushi,10,3,6.6,5.4,1.2
+3385,Beans,Nue Vegan,4,1,7.6,0.7,6.9
+3386,Tune,Halal Guys,9,3,7.7,4.9,2.8
+3387,Beef,Ike's,6,2,6.8,5.5,1.3
+3388,Salad,Akino sushi,10,3,2.1,0.9,1.2
+3389,Chicken,Flip kitchen,8,2,1.4,0.3,1.1
+3390,Drumsticks,Chipotle,2,1,8.7,6.0,2.7
+3391,Tune,Chick-fil-a,4,1,7.4,2.8,4.6
+3392,Salad,Ike's,11,3,7.9,4.8,3.1
+3393,Beans,Nue Vegan,3,1,7.4,3.8,3.6
+3394,Fries,Flip kitchen,9,3,3.1,2.5,0.6
+3395,Tune,Akino sushi,10,3,9.0,8.0,1.0
+3396,Beans,Halal Guys,5,2,4.7,4.0,0.7
+3397,Tune,Blaze pizza,4,1,1.1,0.9,0.2
+3398,Parmesan cheese,Ike's,2,1,6.7,4.9,1.8
+3399,Chicken,Akino sushi,8,2,3.6,2.4,1.2
+3400,Tune,Flip kitchen,2,1,8.8,1.4,7.4
+3401,Parmesan cheese,Southside,3,1,8.1,1.1,7.0
+3402,Beans,Ike's,10,3,1.8,1.6,0.2
+3403,Fries,Nue Vegan,5,2,6.4,4.8,1.6
+3404,Chicken,Blaze pizza,11,3,3.2,2.6,0.6
+3405,Parmesan cheese,Halal Guys,7,2,7.0,7.0,0.0
+3406,Tune,Chick-fil-a,1,1,1.9,1.5,0.4
+3407,Burger,Globe,1,1,8.0,6.7,1.3
+3408,Chicken,Ike's,1,1,7.2,1.1,6.1
+3409,Beef,Globe,12,3,6.0,2.0,4.0
+3410,Beans,Blaze pizza,10,3,1.2,0.1,1.1
+3411,Salad,Akino sushi,9,3,4.0,2.0,2.0
+3412,Burger,Southside,11,3,9.7,0.7,9.0
+3413,Parmesan cheese,Ike's,1,1,2.2,0.8,1.4
+3414,Beans,Ike's,7,2,6.0,0.1,5.9
+3415,Fries,Flip kitchen,1,1,3.1,1.2,1.9
+3416,Parmesan cheese,Southside,9,3,3.9,1.6,2.3
+3417,Parmesan cheese,Akino sushi,8,2,6.9,1.5,5.4
+3418,Beef,Ike's,1,1,4.0,2.4,1.6
+3419,Pizza,Flip kitchen,3,1,8.6,1.6,7.0
+3420,Salad,Flip kitchen,4,1,7.4,6.3,1.1
+3421,Parmesan cheese,Ike's,1,1,1.8,1.0,0.8
+3422,Fries,Nue Vegan,7,2,3.8,0.5,3.3
+3423,Beans,Globe,1,1,7.1,3.7,3.4
+3424,Beans,Akino sushi,2,1,2.8,2.1,0.7
+3425,Beans,Blaze pizza,6,2,8.3,4.1,4.2
+3426,Chicken,Akino sushi,3,1,6.5,0.1,6.4
+3427,Beef,Nue Vegan,12,3,7.6,2.6,5.0
+3428,Salad,Flip kitchen,6,2,9.2,2.2,7.0
+3429,Salad,Chipotle,4,1,8.0,3.8,4.2
+3430,Chicken,Nue Vegan,10,3,9.2,8.6,0.6
+3431,Beans,Ike's,12,3,9.7,3.2,6.5
+3432,Drumsticks,Halal Guys,4,1,6.9,6.0,0.9
+3433,Chicken,Nue Vegan,10,3,6.9,4.9,2.0
+3434,Salad,Nue Vegan,10,3,3.5,3.1,0.4
+3435,Chicken,Akino sushi,7,2,9.0,5.3,3.7
+3436,Fries,Southside,4,1,1.0,1.0,0.0
+3437,Tune,Halal Guys,10,3,3.9,2.4,1.5
+3438,Pork,Globe,3,1,1.3,0.7,0.6
+3439,Burger,Ike's,5,2,4.1,3.2,0.9
+3440,Chicken,Southside,5,2,8.8,2.8,6.0
+3441,Beans,Nue Vegan,10,3,6.4,6.0,0.4
+3442,Burger,Halal Guys,6,2,2.4,2.3,0.1
+3443,Salad,Blaze pizza,9,3,2.6,1.7,0.9
+3444,Pork,Globe,9,3,2.9,2.6,0.3
+3445,Chicken,Globe,9,3,7.8,2.3,5.5
+3446,Pizza,Chipotle,5,2,8.8,0.5,8.3
+3447,Parmesan cheese,Chick-fil-a,5,2,4.7,0.0,4.7
+3448,Chicken,Chick-fil-a,10,3,9.6,7.1,2.5
+3449,Beans,Blaze pizza,9,3,2.2,1.2,1.0
+3450,Pork,Blaze pizza,3,1,4.4,0.4,4.0
+3451,Chicken,Southside,9,3,3.9,2.7,1.2
+3452,Beef,Southside,11,3,4.5,0.5,4.0
+3453,Beans,Akino sushi,7,2,7.9,1.0,6.9
+3454,Pork,Blaze pizza,11,3,4.4,2.5,1.9
+3455,Beans,Globe,3,1,8.6,4.5,4.1
+3456,Parmesan cheese,Blaze pizza,8,2,6.8,6.3,0.5
+3457,Beef,Chipotle,1,1,5.9,5.8,0.1
+3458,Parmesan cheese,Halal Guys,12,3,8.1,1.6,6.5
+3459,Tune,Chipotle,5,2,9.6,6.2,3.4
+3460,Drumsticks,Southside,12,3,1.4,0.7,0.7
+3461,Beans,Flip kitchen,8,2,7.9,3.4,4.5
+3462,Chicken,Nue Vegan,12,3,3.3,2.8,0.5
+3463,Beef,Chick-fil-a,5,2,7.2,4.7,2.5
+3464,Tune,Blaze pizza,3,1,7.5,4.0,3.5
+3465,Beef,Globe,11,3,4.1,1.0,3.1
+3466,Pork,Halal Guys,2,1,9.7,8.7,1.0
+3467,Tune,Southside,11,3,2.2,1.2,1.0
+3468,Chicken,Ike's,11,3,1.5,0.9,0.6
+3469,Drumsticks,Globe,12,3,3.1,2.3,0.8
+3470,Salad,Chipotle,9,3,2.8,1.2,1.6
+3471,Beef,Flip kitchen,6,2,9.2,8.3,0.9
+3472,Parmesan cheese,Halal Guys,9,3,5.8,1.9,3.9
+3473,Salad,Chipotle,6,2,5.9,0.8,5.1
+3474,Pork,Halal Guys,10,3,9.7,5.3,4.4
+3475,Drumsticks,Chipotle,8,2,7.0,1.3,5.7
+3476,Burger,Nue Vegan,12,3,3.1,0.7,2.4
+3477,Tune,Chick-fil-a,7,2,9.7,7.0,2.7
+3478,Parmesan cheese,Chipotle,12,3,6.3,3.9,2.4
+3479,Salad,Akino sushi,1,1,7.5,0.7,6.8
+3480,Salad,Akino sushi,4,1,6.4,3.9,2.5
+3481,Pizza,Globe,8,2,3.2,1.0,2.2
+3482,Beans,Halal Guys,9,3,9.6,2.6,7.0
+3483,Beef,Ike's,5,2,9.3,4.9,4.4
+3484,Tune,Blaze pizza,6,2,9.4,1.9,7.5
+3485,Tune,Chipotle,4,1,3.4,1.5,1.9
+3486,Beef,Nue Vegan,6,2,5.0,2.0,3.0
+3487,Salad,Chick-fil-a,11,3,7.8,0.4,7.4
+3488,Parmesan cheese,Globe,6,2,3.9,1.0,2.9
+3489,Pork,Chick-fil-a,11,3,4.1,0.3,3.8
+3490,Pizza,Flip kitchen,1,1,4.9,1.8,3.1
+3491,Drumsticks,Halal Guys,12,3,1.2,0.6,0.6
+3492,Salad,Chick-fil-a,1,1,2.2,0.1,2.1
+3493,Beans,Akino sushi,6,2,8.8,0.0,8.8
+3494,Pork,Southside,1,1,1.7,1.1,0.6
+3495,Salad,Akino sushi,2,1,8.6,5.0,3.6
+3496,Pork,Blaze pizza,9,3,5.8,4.5,1.3
+3497,Burger,Chipotle,10,3,3.8,0.3,3.5
+3498,Pork,Blaze pizza,9,3,5.6,1.7,3.9
+3499,Parmesan cheese,Nue Vegan,8,2,5.9,0.8,5.1
+3500,Chicken,Flip kitchen,1,1,3.3,0.2,3.1
+3501,Pork,Blaze pizza,10,3,5.8,1.6,4.2
+3502,Burger,Chipotle,11,3,9.3,2.2,7.1
+3503,Drumsticks,Blaze pizza,6,2,2.3,2.1,0.2
+3504,Burger,Globe,9,3,1.2,0.8,0.4
+3505,Salad,Nue Vegan,4,1,3.0,2.2,0.8
+3506,Beans,Ike's,11,3,5.3,5.0,0.3
+3507,Tune,Globe,11,3,3.6,0.5,3.1
+3508,Parmesan cheese,Southside,7,2,1.9,1.0,0.9
+3509,Beans,Southside,9,3,1.0,0.5,0.5
+3510,Tune,Blaze pizza,6,2,2.2,1.0,1.2
+3511,Pork,Blaze pizza,10,3,6.4,2.6,3.8
+3512,Drumsticks,Ike's,7,2,7.0,1.2,5.8
+3513,Drumsticks,Chipotle,6,2,2.1,1.7,0.4
+3514,Drumsticks,Nue Vegan,12,3,9.0,6.2,2.8
+3515,Tune,Globe,2,1,5.0,4.4,0.6
+3516,Drumsticks,Globe,5,2,8.1,5.1,3.0
+3517,Salad,Blaze pizza,11,3,8.4,2.1,6.3
+3518,Burger,Flip kitchen,6,2,1.3,1.2,0.1
+3519,Salad,Ike's,2,1,4.6,4.1,0.5
+3520,Pizza,Chick-fil-a,12,3,5.8,3.1,2.7
+3521,Chicken,Blaze pizza,5,2,7.5,3.5,4.0
+3522,Pizza,Ike's,5,2,9.9,1.9,8.0
+3523,Beef,Globe,12,3,2.6,1.3,1.3
+3524,Chicken,Blaze pizza,3,1,4.5,3.4,1.1
+3525,Beef,Chick-fil-a,3,1,9.1,4.3,4.8
+3526,Drumsticks,Southside,8,2,8.2,0.7,7.5
+3527,Chicken,Blaze pizza,8,2,1.5,0.9,0.6
+3528,Beef,Chick-fil-a,4,1,6.7,1.5,5.2
+3529,Salad,Globe,11,3,4.7,1.3,3.4
+3530,Drumsticks,Globe,2,1,3.6,3.5,0.1
+3531,Burger,Nue Vegan,6,2,6.4,1.9,4.5
+3532,Beans,Southside,12,3,4.4,1.9,2.5
+3533,Burger,Akino sushi,12,3,4.6,1.8,2.8
+3534,Burger,Southside,3,1,2.0,1.1,0.9
+3535,Tune,Flip kitchen,5,2,1.9,0.1,1.8
+3536,Parmesan cheese,Southside,6,2,7.9,0.8,7.1
+3537,Salad,Flip kitchen,3,1,1.8,0.9,0.9
+3538,Salad,Halal Guys,2,1,8.9,0.5,8.4
+3539,Salad,Halal Guys,11,3,9.3,0.5,8.8
+3540,Fries,Chipotle,2,1,6.8,6.7,0.1
+3541,Pork,Akino sushi,5,2,7.3,0.8,6.5
+3542,Parmesan cheese,Halal Guys,8,2,3.1,1.5,1.6
+3543,Chicken,Halal Guys,5,2,1.9,1.7,0.2
+3544,Beans,Globe,9,3,8.7,5.3,3.4
+3545,Parmesan cheese,Chipotle,1,1,3.0,1.7,1.3
+3546,Tune,Southside,3,1,3.8,3.0,0.8
+3547,Beef,Chipotle,6,2,5.8,3.6,2.2
+3548,Pizza,Chick-fil-a,8,2,1.2,1.0,0.2
+3549,Burger,Southside,4,1,5.2,3.8,1.4
+3550,Fries,Flip kitchen,1,1,8.2,2.7,5.5
+3551,Tune,Southside,6,2,6.6,6.1,0.5
+3552,Pizza,Globe,9,3,7.6,3.0,4.6
+3553,Drumsticks,Chick-fil-a,6,2,4.2,3.0,1.2
+3554,Salad,Halal Guys,9,3,2.0,1.4,0.6
+3555,Parmesan cheese,Blaze pizza,10,3,7.5,6.4,1.1
+3556,Pork,Chick-fil-a,2,1,6.1,2.1,4.0
+3557,Drumsticks,Globe,9,3,3.9,0.0,3.9
+3558,Pizza,Southside,1,1,6.2,5.8,0.4
+3559,Pork,Blaze pizza,3,1,5.7,5.0,0.7
+3560,Parmesan cheese,Chick-fil-a,3,1,1.2,0.6,0.6
+3561,Salad,Halal Guys,8,2,4.5,4.5,0.0
+3562,Salad,Flip kitchen,4,1,9.5,9.0,0.5
+3563,Beef,Nue Vegan,6,2,7.0,5.1,1.9
+3564,Tune,Chick-fil-a,3,1,7.4,6.6,0.8
+3565,Fries,Akino sushi,6,2,8.6,1.4,7.2
+3566,Burger,Nue Vegan,8,2,2.1,0.5,1.6
+3567,Fries,Chick-fil-a,3,1,5.5,3.1,2.4
+3568,Beef,Ike's,5,2,5.9,1.5,4.4
+3569,Chicken,Ike's,2,1,3.1,2.4,0.7
+3570,Tune,Akino sushi,10,3,9.1,8.2,0.9
+3571,Burger,Ike's,2,1,5.4,2.9,2.5
+3572,Beef,Halal Guys,11,3,4.2,0.5,3.7
+3573,Pork,Blaze pizza,12,3,6.2,0.6,5.6
+3574,Burger,Chick-fil-a,9,3,9.0,7.5,1.5
+3575,Pizza,Globe,10,3,9.9,2.4,7.5
+3576,Fries,Chick-fil-a,5,2,1.3,0.1,1.2
+3577,Pork,Southside,8,2,8.4,3.7,4.7
+3578,Pizza,Ike's,1,1,2.5,2.0,0.5
+3579,Beef,Halal Guys,9,3,7.1,3.0,4.1
+3580,Beans,Chick-fil-a,1,1,9.6,1.5,8.1
+3581,Chicken,Flip kitchen,2,1,2.1,1.3,0.8
+3582,Drumsticks,Globe,7,2,9.5,6.8,2.7
+3583,Tune,Ike's,5,2,7.3,5.1,2.2
+3584,Drumsticks,Chick-fil-a,3,1,1.4,1.3,0.1
+3585,Salad,Southside,5,2,9.2,1.5,7.7
+3586,Parmesan cheese,Nue Vegan,9,3,6.4,3.3,3.1
+3587,Salad,Chick-fil-a,3,1,2.8,2.6,0.2
+3588,Burger,Chick-fil-a,10,3,4.3,3.6,0.7
+3589,Salad,Chick-fil-a,6,2,8.1,1.9,6.2
+3590,Pork,Ike's,10,3,1.9,0.0,1.9
+3591,Beef,Flip kitchen,6,2,6.1,5.6,0.5
+3592,Beans,Chipotle,3,1,3.6,0.8,2.8
+3593,Fries,Flip kitchen,12,3,7.8,4.0,3.8
+3594,Pork,Akino sushi,4,1,1.1,0.3,0.8
+3595,Pizza,Blaze pizza,7,2,2.5,0.6,1.9
+3596,Fries,Nue Vegan,12,3,2.8,1.8,1.0
+3597,Burger,Chick-fil-a,4,1,1.2,0.0,1.2
+3598,Fries,Chipotle,4,1,6.3,0.7,5.6
+3599,Beans,Chick-fil-a,5,2,1.9,1.6,0.3
+3600,Burger,Akino sushi,7,2,8.8,0.1,8.7
+3601,Chicken,Globe,12,3,2.9,1.8,1.1
+3602,Fries,Southside,6,2,7.9,0.2,7.7
+3603,Pizza,Nue Vegan,5,2,4.4,4.0,0.4
+3604,Chicken,Chipotle,6,2,3.2,0.0,3.2
+3605,Burger,Southside,3,1,2.0,0.2,1.8
+3606,Fries,Nue Vegan,9,3,5.1,3.2,1.9
+3607,Chicken,Chipotle,1,1,4.2,3.9,0.3
+3608,Burger,Chipotle,1,1,1.1,0.5,0.6
+3609,Parmesan cheese,Chipotle,10,3,7.6,7.1,0.5
+3610,Burger,Globe,8,2,8.6,8.0,0.6
+3611,Drumsticks,Chick-fil-a,11,3,4.0,2.0,2.0
+3612,Drumsticks,Akino sushi,4,1,8.5,8.1,0.4
+3613,Fries,Ike's,7,2,1.9,0.4,1.5
+3614,Pork,Chipotle,9,3,7.5,2.5,5.0
+3615,Drumsticks,Akino sushi,7,2,8.0,6.6,1.4
+3616,Chicken,Blaze pizza,3,1,8.9,6.2,2.7
+3617,Pork,Chick-fil-a,6,2,1.7,0.3,1.4
+3618,Drumsticks,Chick-fil-a,3,1,7.4,6.6,0.8
+3619,Chicken,Ike's,9,3,1.1,0.6,0.5
+3620,Beans,Southside,2,1,4.3,0.3,4.0
+3621,Fries,Globe,9,3,3.9,3.4,0.5
+3622,Beans,Chipotle,6,2,4.5,3.6,0.9
+3623,Salad,Globe,1,1,7.9,7.3,0.6
+3624,Tune,Southside,11,3,5.4,1.2,4.2
+3625,Chicken,Globe,3,1,7.2,3.9,3.3
+3626,Pizza,Halal Guys,11,3,5.1,5.0,0.1
+3627,Parmesan cheese,Chipotle,2,1,8.7,7.4,1.3
+3628,Parmesan cheese,Chick-fil-a,7,2,7.5,4.8,2.7
+3629,Parmesan cheese,Blaze pizza,10,3,3.7,0.3,3.4
+3630,Beans,Southside,6,2,6.6,5.6,1.0
+3631,Fries,Blaze pizza,12,3,7.1,2.9,4.2
+3632,Beef,Flip kitchen,2,1,9.5,2.9,6.6
+3633,Pizza,Akino sushi,7,2,7.0,6.5,0.5
+3634,Fries,Chipotle,5,2,5.5,2.2,3.3
+3635,Burger,Ike's,9,3,2.4,0.6,1.8
+3636,Beef,Chipotle,2,1,6.8,1.4,5.4
+3637,Salad,Flip kitchen,8,2,3.9,0.9,3.0
+3638,Parmesan cheese,Blaze pizza,2,1,6.8,0.6,6.2
+3639,Pizza,Akino sushi,9,3,9.7,1.8,7.9
+3640,Pizza,Chipotle,1,1,5.6,1.1,4.5
+3641,Pizza,Globe,3,1,6.4,6.3,0.1
+3642,Burger,Blaze pizza,8,2,8.8,2.0,6.8
+3643,Chicken,Chick-fil-a,7,2,7.7,0.9,6.8
+3644,Tune,Akino sushi,5,2,9.3,8.9,0.4
+3645,Beef,Nue Vegan,7,2,8.9,0.8,8.1
+3646,Pizza,Flip kitchen,1,1,5.0,0.9,4.1
+3647,Pizza,Globe,11,3,4.0,2.0,2.0
+3648,Chicken,Southside,7,2,6.6,3.3,3.3
+3649,Beef,Chick-fil-a,5,2,1.0,0.7,0.3
+3650,Tune,Southside,9,3,7.0,5.8,1.2
+3651,Tune,Blaze pizza,5,2,6.6,3.1,3.5
+3652,Tune,Ike's,6,2,7.4,0.0,7.4
+3653,Pork,Chick-fil-a,9,3,5.2,4.4,0.8
+3654,Fries,Blaze pizza,2,1,2.9,2.3,0.6
+3655,Pork,Chipotle,12,3,9.0,7.1,1.9
+3656,Pork,Halal Guys,9,3,1.8,0.7,1.1
+3657,Pizza,Halal Guys,6,2,8.7,7.3,1.4
+3658,Burger,Globe,7,2,5.2,0.7,4.5
+3659,Beef,Chick-fil-a,12,3,8.9,6.3,2.6
+3660,Pizza,Flip kitchen,9,3,1.1,0.3,0.8
+3661,Pizza,Southside,9,3,3.3,0.4,2.9
+3662,Beans,Flip kitchen,2,1,7.4,4.8,2.6
+3663,Beans,Chipotle,2,1,4.2,3.4,0.8
+3664,Fries,Blaze pizza,12,3,3.3,1.4,1.9
+3665,Drumsticks,Chick-fil-a,1,1,4.0,2.3,1.7
+3666,Fries,Southside,12,3,8.2,3.3,4.9
+3667,Beef,Chick-fil-a,11,3,5.3,3.5,1.8
+3668,Beans,Halal Guys,1,1,8.3,0.8,7.5
+3669,Beans,Southside,8,2,5.5,4.7,0.8
+3670,Salad,Chipotle,9,3,9.5,4.1,5.4
+3671,Beef,Halal Guys,3,1,3.8,0.7,3.1
+3672,Fries,Chipotle,1,1,5.9,2.9,3.0
+3673,Fries,Globe,7,2,4.0,2.8,1.2
+3674,Pizza,Chipotle,11,3,1.2,1.0,0.2
+3675,Drumsticks,Southside,1,1,4.9,4.2,0.7
+3676,Drumsticks,Globe,1,1,4.6,1.6,3.0
+3677,Beans,Southside,3,1,3.5,0.5,3.0
+3678,Beef,Blaze pizza,7,2,8.2,7.4,0.8
+3679,Salad,Chick-fil-a,10,3,1.1,0.9,0.2
+3680,Parmesan cheese,Akino sushi,9,3,4.7,4.0,0.7
+3681,Pizza,Ike's,5,2,7.3,4.0,3.3
+3682,Fries,Nue Vegan,1,1,1.7,0.5,1.2
+3683,Pizza,Nue Vegan,4,1,8.5,7.8,0.7
+3684,Beans,Blaze pizza,6,2,7.1,6.4,0.7
+3685,Pizza,Nue Vegan,4,1,5.4,2.0,3.4
+3686,Burger,Globe,5,2,7.6,4.1,3.5
+3687,Pizza,Akino sushi,4,1,6.5,4.1,2.4
+3688,Drumsticks,Globe,12,3,9.9,2.1,7.8
+3689,Fries,Chick-fil-a,8,2,7.6,2.2,5.4
+3690,Drumsticks,Nue Vegan,7,2,5.9,4.6,1.3
+3691,Parmesan cheese,Blaze pizza,2,1,2.9,0.3,2.6
+3692,Drumsticks,Chick-fil-a,5,2,8.1,0.9,7.2
+3693,Burger,Globe,7,2,9.3,7.7,1.6
+3694,Drumsticks,Ike's,7,2,8.9,2.4,6.5
+3695,Fries,Blaze pizza,9,3,6.6,0.7,5.9
+3696,Pizza,Nue Vegan,4,1,3.0,1.3,1.7
+3697,Beef,Globe,12,3,3.2,0.2,3.0
+3698,Pizza,Halal Guys,10,3,1.4,1.1,0.3
+3699,Chicken,Chick-fil-a,1,1,3.8,0.9,2.9
+3700,Pork,Globe,8,2,5.5,1.9,3.6
+3701,Parmesan cheese,Nue Vegan,10,3,7.4,4.2,3.2
+3702,Burger,Globe,4,1,3.4,1.3,2.1
+3703,Beef,Chipotle,7,2,3.4,0.6,2.8
+3704,Pork,Southside,9,3,8.2,6.4,1.8
+3705,Burger,Nue Vegan,5,2,8.9,6.8,2.1
+3706,Beans,Nue Vegan,11,3,3.3,2.4,0.9
+3707,Parmesan cheese,Akino sushi,12,3,5.5,1.5,4.0
+3708,Burger,Ike's,3,1,9.2,5.0,4.2
+3709,Drumsticks,Halal Guys,6,2,9.2,7.4,1.8
+3710,Salad,Akino sushi,7,2,7.6,1.4,6.2
+3711,Pizza,Akino sushi,3,1,9.2,2.9,6.3
+3712,Parmesan cheese,Chick-fil-a,7,2,2.1,1.8,0.3
+3713,Tune,Chipotle,4,1,4.9,4.5,0.4
+3714,Pizza,Nue Vegan,2,1,2.2,1.8,0.4
+3715,Parmesan cheese,Nue Vegan,12,3,5.3,4.6,0.7
+3716,Beef,Flip kitchen,4,1,3.9,2.7,1.2
+3717,Beans,Akino sushi,11,3,6.2,5.6,0.6
+3718,Parmesan cheese,Southside,12,3,2.8,2.5,0.3
+3719,Parmesan cheese,Chipotle,5,2,2.7,0.0,2.7
+3720,Drumsticks,Akino sushi,3,1,4.8,4.7,0.1
+3721,Parmesan cheese,Akino sushi,8,2,2.8,0.3,2.5
+3722,Beef,Ike's,10,3,2.1,1.7,0.4
+3723,Beef,Southside,11,3,3.6,1.3,2.3
+3724,Beans,Halal Guys,8,2,6.5,6.2,0.3
+3725,Drumsticks,Nue Vegan,7,2,9.9,5.8,4.1
+3726,Beef,Southside,10,3,4.1,1.7,2.4
+3727,Tune,Ike's,2,1,3.7,2.1,1.6
+3728,Parmesan cheese,Halal Guys,11,3,2.4,0.0,2.4
+3729,Chicken,Chipotle,3,1,4.4,1.9,2.5
+3730,Tune,Halal Guys,3,1,4.9,2.2,2.7
+3731,Fries,Flip kitchen,1,1,4.4,3.9,0.5
+3732,Beans,Akino sushi,8,2,9.2,2.2,7.0
+3733,Salad,Nue Vegan,7,2,7.8,4.5,3.3
+3734,Burger,Nue Vegan,12,3,5.1,3.9,1.2
+3735,Tune,Chick-fil-a,3,1,8.7,7.4,1.3
+3736,Pizza,Halal Guys,8,2,1.5,0.6,0.9
+3737,Pizza,Blaze pizza,3,1,7.0,2.4,4.6
+3738,Pizza,Blaze pizza,7,2,4.4,3.4,1.0
+3739,Parmesan cheese,Flip kitchen,7,2,3.7,1.8,1.9
+3740,Fries,Ike's,8,2,7.7,6.3,1.4
+3741,Fries,Akino sushi,8,2,8.3,1.3,7.0
+3742,Burger,Southside,12,3,2.3,0.7,1.6
+3743,Parmesan cheese,Southside,6,2,3.2,3.2,0.0
+3744,Pork,Ike's,10,3,7.6,4.5,3.1
+3745,Fries,Akino sushi,6,2,1.9,0.9,1.0
+3746,Beans,Blaze pizza,6,2,9.9,7.0,2.9
+3747,Parmesan cheese,Flip kitchen,6,2,5.4,2.9,2.5
+3748,Parmesan cheese,Chipotle,3,1,8.0,5.8,2.2
+3749,Beans,Southside,3,1,6.8,1.8,5.0
+3750,Tune,Nue Vegan,10,3,4.3,0.5,3.8
+3751,Pork,Chipotle,2,1,4.1,2.0,2.1
+3752,Pork,Globe,6,2,6.0,2.5,3.5
+3753,Beans,Flip kitchen,2,1,6.5,3.0,3.5
+3754,Beef,Blaze pizza,8,2,8.6,3.8,4.8
+3755,Drumsticks,Globe,2,1,5.4,1.0,4.4
+3756,Chicken,Akino sushi,5,2,9.4,7.6,1.8
+3757,Drumsticks,Ike's,7,2,3.9,1.1,2.8
+3758,Fries,Chick-fil-a,2,1,6.7,2.2,4.5
+3759,Pizza,Globe,11,3,3.7,3.1,0.6
+3760,Pork,Globe,11,3,8.8,3.6,5.2
+3761,Tune,Blaze pizza,2,1,9.4,4.6,4.8
+3762,Salad,Akino sushi,1,1,8.2,3.8,4.4
+3763,Chicken,Nue Vegan,4,1,1.5,1.5,0.0
+3764,Fries,Akino sushi,11,3,2.6,1.0,1.6
+3765,Fries,Nue Vegan,2,1,4.8,3.4,1.4
+3766,Parmesan cheese,Ike's,6,2,7.8,6.8,1.0
+3767,Beans,Southside,9,3,7.1,1.0,6.1
+3768,Salad,Akino sushi,1,1,9.9,0.9,9.0
+3769,Beef,Akino sushi,8,2,4.0,0.6,3.4
+3770,Drumsticks,Nue Vegan,1,1,4.8,0.8,4.0
+3771,Fries,Halal Guys,9,3,2.9,2.1,0.8
+3772,Parmesan cheese,Globe,8,2,5.8,2.9,2.9
+3773,Salad,Akino sushi,7,2,2.2,0.7,1.5
+3774,Drumsticks,Globe,4,1,1.5,0.4,1.1
+3775,Fries,Nue Vegan,9,3,8.1,5.0,3.1
+3776,Beans,Flip kitchen,10,3,4.6,0.3,4.3
+3777,Parmesan cheese,Chipotle,4,1,1.5,0.0,1.5
+3778,Beans,Akino sushi,2,1,5.4,4.4,1.0
+3779,Drumsticks,Akino sushi,4,1,6.6,0.3,6.3
+3780,Chicken,Akino sushi,10,3,4.6,1.3,3.3
+3781,Fries,Nue Vegan,10,3,4.6,2.9,1.7
+3782,Beef,Globe,9,3,9.1,2.1,7.0
+3783,Beans,Ike's,9,3,5.3,2.2,3.1
+3784,Drumsticks,Chick-fil-a,10,3,1.3,1.2,0.1
+3785,Chicken,Chipotle,9,3,8.5,6.4,2.1
+3786,Drumsticks,Chick-fil-a,7,2,4.8,1.5,3.3
+3787,Chicken,Ike's,2,1,1.6,0.9,0.7
+3788,Salad,Globe,3,1,3.5,2.9,0.6
+3789,Parmesan cheese,Blaze pizza,3,1,3.1,2.4,0.7
+3790,Beef,Akino sushi,11,3,8.8,7.3,1.5
+3791,Tune,Halal Guys,5,2,3.5,0.7,2.8
+3792,Parmesan cheese,Flip kitchen,10,3,9.4,4.2,5.2
+3793,Salad,Blaze pizza,4,1,5.7,4.0,1.7
+3794,Drumsticks,Nue Vegan,1,1,5.2,1.2,4.0
+3795,Fries,Blaze pizza,3,1,6.7,5.0,1.7
+3796,Beef,Globe,9,3,8.1,7.7,0.4
+3797,Beans,Akino sushi,12,3,6.0,3.5,2.5
+3798,Beans,Chipotle,8,2,2.7,0.7,2.0
+3799,Pizza,Akino sushi,6,2,6.9,0.6,6.3
+3800,Salad,Chipotle,10,3,7.9,6.5,1.4
+3801,Burger,Halal Guys,5,2,7.3,6.5,0.8
+3802,Tune,Flip kitchen,1,1,9.3,6.8,2.5
+3803,Beans,Akino sushi,10,3,8.6,5.9,2.7
+3804,Pork,Chick-fil-a,2,1,3.8,0.5,3.3
+3805,Beef,Halal Guys,1,1,10.0,0.7,9.3
+3806,Drumsticks,Globe,6,2,2.4,2.0,0.4
+3807,Pork,Chick-fil-a,7,2,3.4,0.4,3.0
+3808,Tune,Globe,10,3,1.8,1.6,0.2
+3809,Beans,Nue Vegan,10,3,1.3,0.4,0.9
+3810,Fries,Chipotle,3,1,5.6,1.6,4.0
+3811,Fries,Halal Guys,4,1,2.0,1.5,0.5
+3812,Fries,Ike's,10,3,1.8,1.3,0.5
+3813,Parmesan cheese,Halal Guys,2,1,4.5,1.2,3.3
+3814,Chicken,Southside,11,3,3.1,2.0,1.1
+3815,Chicken,Akino sushi,3,1,5.6,1.6,4.0
+3816,Burger,Nue Vegan,7,2,9.3,1.7,7.6
+3817,Drumsticks,Nue Vegan,2,1,8.3,6.8,1.5
+3818,Fries,Blaze pizza,7,2,1.4,1.0,0.4
+3819,Pizza,Flip kitchen,11,3,7.0,5.5,1.5
+3820,Chicken,Southside,10,3,7.5,7.4,0.1
+3821,Tune,Ike's,8,2,2.0,1.9,0.1
+3822,Chicken,Southside,3,1,3.9,2.7,1.2
+3823,Tune,Halal Guys,6,2,7.2,2.1,5.1
+3824,Drumsticks,Ike's,1,1,5.9,0.7,5.2
+3825,Pizza,Flip kitchen,2,1,4.3,3.7,0.6
+3826,Pizza,Nue Vegan,8,2,3.9,1.6,2.3
+3827,Beans,Chick-fil-a,4,1,4.3,2.6,1.7
+3828,Pork,Nue Vegan,3,1,8.0,5.1,2.9
+3829,Drumsticks,Chipotle,9,3,7.8,5.7,2.1
+3830,Salad,Chick-fil-a,11,3,1.7,0.3,1.4
+3831,Pork,Akino sushi,7,2,10.0,5.8,4.2
+3832,Beans,Akino sushi,12,3,8.2,0.6,7.6
+3833,Fries,Akino sushi,6,2,5.3,1.4,3.9
+3834,Beef,Akino sushi,8,2,3.9,3.0,0.9
+3835,Chicken,Globe,9,3,5.1,0.4,4.7
+3836,Beef,Southside,5,2,8.4,2.1,6.3
+3837,Chicken,Ike's,6,2,3.2,1.5,1.7
+3838,Chicken,Flip kitchen,12,3,5.8,4.6,1.2
+3839,Salad,Southside,7,2,3.9,1.3,2.6
+3840,Salad,Southside,2,1,9.5,0.3,9.2
+3841,Fries,Flip kitchen,1,1,5.3,1.2,4.1
+3842,Beans,Ike's,11,3,4.4,0.6,3.8
+3843,Pork,Akino sushi,6,2,7.4,5.2,2.2
+3844,Burger,Flip kitchen,8,2,6.2,1.6,4.6
+3845,Salad,Flip kitchen,4,1,3.0,0.4,2.6
+3846,Chicken,Chick-fil-a,6,2,3.4,0.2,3.2
+3847,Pork,Flip kitchen,11,3,5.9,0.5,5.4
+3848,Burger,Halal Guys,11,3,4.9,3.0,1.9
+3849,Salad,Halal Guys,9,3,1.9,1.2,0.7
+3850,Fries,Ike's,12,3,8.8,7.8,1.0
+3851,Burger,Flip kitchen,12,3,8.5,0.1,8.4
+3852,Chicken,Chick-fil-a,7,2,9.0,2.4,6.6
+3853,Fries,Southside,12,3,5.3,4.7,0.6
+3854,Burger,Ike's,6,2,7.8,2.6,5.2
+3855,Tune,Akino sushi,12,3,1.7,0.9,0.8
+3856,Salad,Flip kitchen,4,1,6.2,5.9,0.3
+3857,Burger,Halal Guys,3,1,3.7,0.4,3.3
+3858,Beef,Halal Guys,4,1,4.6,2.2,2.4
+3859,Pork,Globe,10,3,1.5,1.2,0.3
+3860,Fries,Chipotle,4,1,2.8,0.2,2.6
+3861,Parmesan cheese,Southside,4,1,2.2,2.2,0.0
+3862,Pizza,Chipotle,11,3,1.9,1.8,0.1
+3863,Pork,Akino sushi,1,1,7.8,5.1,2.7
+3864,Burger,Flip kitchen,11,3,4.6,2.4,2.2
+3865,Chicken,Halal Guys,8,2,7.6,6.9,0.7
+3866,Parmesan cheese,Ike's,1,1,2.4,2.2,0.2
+3867,Parmesan cheese,Chick-fil-a,11,3,1.2,0.3,0.9
+3868,Beans,Southside,7,2,7.4,4.8,2.6
+3869,Parmesan cheese,Flip kitchen,12,3,8.8,8.2,0.6
+3870,Beans,Nue Vegan,6,2,3.4,0.5,2.9
+3871,Chicken,Blaze pizza,6,2,1.6,1.1,0.5
+3872,Burger,Globe,4,1,5.5,5.1,0.4
+3873,Tune,Ike's,9,3,2.6,2.1,0.5
+3874,Beef,Halal Guys,1,1,7.5,2.1,5.4
+3875,Pork,Ike's,4,1,4.9,1.1,3.8
+3876,Chicken,Chick-fil-a,12,3,7.9,2.2,5.7
+3877,Drumsticks,Chick-fil-a,9,3,5.2,3.1,2.1
+3878,Pizza,Globe,6,2,9.0,1.4,7.6
+3879,Parmesan cheese,Globe,11,3,4.3,0.1,4.2
+3880,Beans,Southside,9,3,6.7,3.6,3.1
+3881,Chicken,Chick-fil-a,11,3,2.9,2.4,0.5
+3882,Fries,Blaze pizza,4,1,2.9,0.2,2.7
+3883,Chicken,Blaze pizza,9,3,9.0,8.6,0.4
+3884,Burger,Globe,11,3,8.5,6.7,1.8
+3885,Tune,Flip kitchen,10,3,6.5,5.6,0.9
+3886,Tune,Southside,10,3,8.0,2.7,5.3
+3887,Chicken,Halal Guys,9,3,8.1,1.3,6.8
+3888,Fries,Chipotle,1,1,3.2,2.5,0.7
+3889,Beef,Nue Vegan,10,3,6.9,3.4,3.5
+3890,Burger,Akino sushi,5,2,8.2,0.2,8.0
+3891,Beef,Chick-fil-a,10,3,8.9,2.1,6.8
+3892,Burger,Ike's,9,3,7.9,1.6,6.3
+3893,Pork,Globe,1,1,7.2,3.7,3.5
+3894,Pizza,Blaze pizza,1,1,4.3,1.5,2.8
+3895,Fries,Nue Vegan,12,3,7.2,1.4,5.8
+3896,Tune,Chipotle,7,2,3.2,1.2,2.0
+3897,Pizza,Southside,8,2,9.7,9.0,0.7
+3898,Parmesan cheese,Blaze pizza,11,3,5.4,5.2,0.2
+3899,Fries,Ike's,9,3,6.5,4.4,2.1
+3900,Fries,Southside,11,3,3.7,1.3,2.4
+3901,Tune,Akino sushi,4,1,7.3,5.6,1.7
+3902,Drumsticks,Chipotle,5,2,6.1,4.3,1.8
+3903,Pizza,Flip kitchen,3,1,4.5,0.4,4.1
+3904,Drumsticks,Chick-fil-a,5,2,9.2,1.5,7.7
+3905,Drumsticks,Halal Guys,7,2,2.0,0.2,1.8
+3906,Tune,Chipotle,12,3,5.0,1.2,3.8
+3907,Pizza,Ike's,1,1,7.5,2.8,4.7
+3908,Fries,Ike's,7,2,5.8,1.7,4.1
+3909,Drumsticks,Chipotle,6,2,5.3,1.9,3.4
+3910,Beef,Southside,1,1,9.7,0.6,9.1
+3911,Tune,Flip kitchen,2,1,4.5,0.5,4.0
+3912,Salad,Chipotle,9,3,7.1,6.3,0.8
+3913,Tune,Globe,6,2,3.8,1.8,2.0
+3914,Burger,Chipotle,8,2,1.3,0.2,1.1
+3915,Beans,Nue Vegan,12,3,5.8,1.3,4.5
+3916,Pork,Nue Vegan,1,1,6.6,5.2,1.4
+3917,Beans,Globe,2,1,2.8,2.5,0.3
+3918,Chicken,Akino sushi,3,1,1.7,0.6,1.1
+3919,Chicken,Blaze pizza,10,3,8.8,3.9,4.9
+3920,Chicken,Globe,2,1,3.9,1.0,2.9
+3921,Pizza,Ike's,7,2,2.3,2.1,0.2
+3922,Drumsticks,Southside,3,1,6.2,6.2,0.0
+3923,Pork,Flip kitchen,1,1,9.3,2.9,6.4
+3924,Chicken,Blaze pizza,4,1,1.8,1.3,0.5
+3925,Burger,Southside,11,3,6.7,2.1,4.6
+3926,Pizza,Southside,5,2,4.3,3.3,1.0
+3927,Beans,Flip kitchen,3,1,5.2,5.1,0.1
+3928,Beef,Ike's,3,1,8.3,3.3,5.0
+3929,Parmesan cheese,Southside,3,1,5.0,0.1,4.9
+3930,Burger,Chipotle,4,1,8.1,0.1,8.0
+3931,Pizza,Akino sushi,4,1,1.2,0.4,0.8
+3932,Burger,Chipotle,12,3,5.8,0.4,5.4
+3933,Pork,Akino sushi,3,1,8.5,4.3,4.2
+3934,Parmesan cheese,Flip kitchen,4,1,1.8,1.1,0.7
+3935,Tune,Nue Vegan,3,1,5.2,1.9,3.3
+3936,Tune,Ike's,8,2,2.0,1.6,0.4
+3937,Parmesan cheese,Chipotle,4,1,5.9,3.8,2.1
+3938,Parmesan cheese,Flip kitchen,10,3,5.6,4.6,1.0
+3939,Fries,Globe,5,2,5.7,5.0,0.7
+3940,Tune,Halal Guys,4,1,5.2,0.0,5.2
+3941,Beef,Flip kitchen,9,3,6.1,1.3,4.8
+3942,Beans,Akino sushi,6,2,4.7,4.2,0.5
+3943,Parmesan cheese,Ike's,8,2,1.2,1.1,0.1
+3944,Pork,Chipotle,12,3,2.5,2.0,0.5
+3945,Beans,Ike's,8,2,3.4,0.4,3.0
+3946,Chicken,Halal Guys,1,1,9.4,7.0,2.4
+3947,Drumsticks,Blaze pizza,1,1,5.7,4.4,1.3
+3948,Salad,Chick-fil-a,1,1,1.3,0.2,1.1
+3949,Parmesan cheese,Akino sushi,9,3,7.3,0.1,7.2
+3950,Parmesan cheese,Flip kitchen,10,3,2.2,2.0,0.2
+3951,Pork,Southside,5,2,6.2,6.0,0.2
+3952,Pork,Akino sushi,9,3,7.2,0.8,6.4
+3953,Beans,Flip kitchen,6,2,9.3,2.0,7.3
+3954,Salad,Southside,6,2,7.6,6.3,1.3
+3955,Beans,Globe,11,3,1.4,0.1,1.3
+3956,Tune,Globe,9,3,3.8,0.1,3.7
+3957,Beef,Ike's,10,3,9.3,7.7,1.6
+3958,Pork,Chick-fil-a,9,3,4.2,3.2,1.0
+3959,Beans,Globe,7,2,3.0,1.9,1.1
+3960,Tune,Chick-fil-a,5,2,4.6,4.4,0.2
+3961,Burger,Halal Guys,1,1,9.8,4.1,5.7
+3962,Pizza,Nue Vegan,7,2,4.1,0.1,4.0
+3963,Pizza,Flip kitchen,5,2,6.2,4.3,1.9
+3964,Fries,Southside,5,2,7.8,6.0,1.8
+3965,Drumsticks,Chick-fil-a,8,2,3.4,0.3,3.1
+3966,Tune,Flip kitchen,5,2,2.9,0.9,2.0
+3967,Fries,Blaze pizza,3,1,5.6,2.3,3.3
+3968,Pizza,Flip kitchen,2,1,8.8,4.0,4.8
+3969,Pork,Halal Guys,6,2,2.7,2.7,0.0
+3970,Pork,Nue Vegan,1,1,2.4,1.7,0.7
+3971,Pork,Chipotle,11,3,9.9,9.5,0.4
+3972,Tune,Globe,9,3,6.6,5.2,1.4
+3973,Pizza,Chipotle,4,1,1.3,0.0,1.3
+3974,Tune,Akino sushi,11,3,9.8,9.7,0.1
+3975,Chicken,Globe,5,2,1.6,0.5,1.1
+3976,Beef,Nue Vegan,4,1,8.1,7.6,0.5
+3977,Pizza,Globe,12,3,8.9,6.7,2.2
+3978,Salad,Chick-fil-a,11,3,5.5,3.6,1.9
+3979,Drumsticks,Flip kitchen,2,1,4.1,3.6,0.5
+3980,Salad,Akino sushi,7,2,3.3,2.9,0.4
+3981,Chicken,Southside,2,1,8.6,1.1,7.5
+3982,Parmesan cheese,Southside,2,1,7.7,6.0,1.7
+3983,Drumsticks,Flip kitchen,1,1,4.6,3.3,1.3
+3984,Burger,Akino sushi,2,1,7.5,4.2,3.3
+3985,Parmesan cheese,Southside,9,3,9.3,3.9,5.4
+3986,Parmesan cheese,Blaze pizza,7,2,4.6,0.8,3.8
+3987,Tune,Halal Guys,2,1,2.8,2.1,0.7
+3988,Salad,Chick-fil-a,2,1,7.9,2.8,5.1
+3989,Salad,Halal Guys,10,3,9.9,7.2,2.7
+3990,Chicken,Halal Guys,12,3,3.1,1.7,1.4
+3991,Beef,Southside,6,2,3.5,3.3,0.2
+3992,Fries,Southside,5,2,6.2,4.8,1.4
+3993,Tune,Halal Guys,10,3,9.0,4.1,4.9
+3994,Beans,Blaze pizza,2,1,7.0,6.9,0.1
+3995,Pork,Chick-fil-a,9,3,2.6,0.4,2.2
+3996,Pork,Flip kitchen,5,2,4.4,4.3,0.1
+3997,Salad,Blaze pizza,4,1,5.7,3.6,2.1
+3998,Burger,Flip kitchen,12,3,10.0,0.8,9.2
+3999,Burger,Halal Guys,6,2,1.6,1.5,0.1
+4000,Burger,Chipotle,7,2,8.4,7.0,1.4
+4001,Fries,Chipotle,10,3,5.0,0.5,4.5
+4002,Parmesan cheese,Globe,6,2,4.6,1.4,3.2
+4003,Burger,Chick-fil-a,9,3,8.4,2.3,6.1
+4004,Fries,Blaze pizza,5,2,5.4,0.1,5.3
+4005,Pizza,Akino sushi,12,3,9.6,2.9,6.7
+4006,Salad,Chipotle,3,1,7.7,1.6,6.1
+4007,Parmesan cheese,Nue Vegan,5,2,8.7,7.0,1.7
+4008,Parmesan cheese,Globe,3,1,8.8,0.9,7.9
+4009,Parmesan cheese,Blaze pizza,1,1,1.7,0.1,1.6
+4010,Beans,Nue Vegan,4,1,9.6,3.0,6.6
+4011,Salad,Akino sushi,4,1,9.5,6.2,3.3
+4012,Salad,Akino sushi,9,3,5.6,0.5,5.1
+4013,Beans,Halal Guys,9,3,1.5,1.4,0.1
+4014,Beef,Blaze pizza,4,1,4.4,1.2,3.2
+4015,Tune,Blaze pizza,10,3,2.8,2.7,0.1
+4016,Parmesan cheese,Blaze pizza,2,1,7.3,3.5,3.8
+4017,Beef,Halal Guys,12,3,4.1,1.0,3.1
+4018,Parmesan cheese,Halal Guys,2,1,2.3,0.6,1.7
+4019,Salad,Globe,6,2,4.8,4.5,0.3
+4020,Salad,Akino sushi,11,3,7.2,1.8,5.4
+4021,Pork,Ike's,4,1,8.6,0.7,7.9
+4022,Salad,Southside,6,2,8.8,0.6,8.2
+4023,Pork,Nue Vegan,9,3,3.4,3.2,0.2
+4024,Tune,Akino sushi,11,3,9.0,3.7,5.3
+4025,Beans,Blaze pizza,10,3,3.5,0.0,3.5
+4026,Beans,Chipotle,6,2,9.9,4.2,5.7
+4027,Beans,Halal Guys,11,3,7.1,5.4,1.7
+4028,Pizza,Southside,6,2,3.2,2.4,0.8
+4029,Pork,Globe,7,2,6.9,1.0,5.9
+4030,Drumsticks,Blaze pizza,7,2,1.3,0.5,0.8
+4031,Pork,Nue Vegan,3,1,9.5,3.4,6.1
+4032,Pizza,Globe,2,1,2.7,1.7,1.0
+4033,Beans,Blaze pizza,6,2,1.1,0.4,0.7
+4034,Drumsticks,Southside,6,2,3.0,2.5,0.5
+4035,Beef,Akino sushi,10,3,9.4,1.9,7.5
+4036,Drumsticks,Nue Vegan,5,2,3.2,2.1,1.1
+4037,Parmesan cheese,Globe,7,2,6.8,2.5,4.3
+4038,Burger,Flip kitchen,3,1,7.0,0.6,6.4
+4039,Chicken,Southside,12,3,3.6,1.8,1.8
+4040,Pizza,Chick-fil-a,12,3,3.6,1.1,2.5
+4041,Salad,Chick-fil-a,11,3,4.5,3.7,0.8
+4042,Beans,Chick-fil-a,3,1,5.1,5.0,0.1
+4043,Pork,Nue Vegan,2,1,2.7,1.9,0.8
+4044,Beef,Ike's,2,1,6.5,4.9,1.6
+4045,Burger,Globe,12,3,1.2,0.5,0.7
+4046,Fries,Globe,3,1,3.1,1.7,1.4
+4047,Parmesan cheese,Ike's,9,3,2.5,0.7,1.8
+4048,Parmesan cheese,Ike's,1,1,1.9,0.4,1.5
+4049,Pork,Chipotle,2,1,9.0,8.6,0.4
+4050,Chicken,Nue Vegan,11,3,3.8,0.9,2.9
+4051,Fries,Southside,5,2,5.0,0.0,5.0
+4052,Burger,Nue Vegan,10,3,1.5,0.7,0.8
+4053,Pizza,Southside,1,1,6.1,4.6,1.5
+4054,Salad,Halal Guys,11,3,5.4,2.2,3.2
+4055,Beans,Akino sushi,11,3,9.5,8.4,1.1
+4056,Chicken,Flip kitchen,4,1,2.7,2.4,0.3
+4057,Salad,Blaze pizza,2,1,6.5,6.1,0.4
+4058,Drumsticks,Blaze pizza,3,1,6.9,6.1,0.8
+4059,Drumsticks,Chick-fil-a,2,1,4.4,3.4,1.0
+4060,Fries,Flip kitchen,10,3,2.2,1.3,0.9
+4061,Burger,Chipotle,7,2,2.0,1.3,0.7
+4062,Pork,Chick-fil-a,4,1,7.6,3.8,3.8
+4063,Pork,Blaze pizza,4,1,8.3,0.1,8.2
+4064,Fries,Blaze pizza,7,2,9.2,9.1,0.1
+4065,Beans,Flip kitchen,8,2,1.9,0.1,1.8
+4066,Parmesan cheese,Flip kitchen,5,2,1.8,1.3,0.5
+4067,Chicken,Flip kitchen,4,1,7.1,5.7,1.4
+4068,Parmesan cheese,Halal Guys,4,1,9.0,0.4,8.6
+4069,Beef,Chipotle,10,3,2.8,0.1,2.7
+4070,Salad,Blaze pizza,4,1,10.0,2.2,7.8
+4071,Beans,Nue Vegan,5,2,4.0,0.7,3.3
+4072,Chicken,Chipotle,7,2,1.5,0.6,0.9
+4073,Salad,Chipotle,12,3,8.6,3.1,5.5
+4074,Burger,Halal Guys,6,2,7.5,1.4,6.1
+4075,Chicken,Nue Vegan,2,1,5.2,5.2,0.0
+4076,Beans,Ike's,2,1,9.3,7.2,2.1
+4077,Beans,Ike's,7,2,2.0,1.1,0.9
+4078,Burger,Flip kitchen,11,3,5.6,3.4,2.2
+4079,Chicken,Ike's,11,3,1.2,0.5,0.7
+4080,Tune,Flip kitchen,5,2,8.5,3.4,5.1
+4081,Parmesan cheese,Blaze pizza,6,2,4.1,3.9,0.2
+4082,Parmesan cheese,Chick-fil-a,12,3,3.2,1.7,1.5
+4083,Beans,Nue Vegan,2,1,2.2,0.0,2.2
+4084,Pizza,Flip kitchen,10,3,9.8,3.8,6.0
+4085,Drumsticks,Ike's,3,1,5.1,1.0,4.1
+4086,Beef,Halal Guys,6,2,9.0,2.3,6.7
+4087,Pork,Nue Vegan,12,3,1.3,0.9,0.4
+4088,Pork,Chick-fil-a,7,2,5.7,4.1,1.6
+4089,Salad,Blaze pizza,9,3,6.2,4.3,1.9
+4090,Chicken,Akino sushi,5,2,6.0,4.8,1.2
+4091,Tune,Southside,5,2,7.0,0.3,6.7
+4092,Fries,Southside,7,2,9.3,7.5,1.8
+4093,Drumsticks,Chipotle,6,2,4.8,0.8,4.0
+4094,Pizza,Chick-fil-a,10,3,9.5,6.7,2.8
+4095,Pizza,Flip kitchen,9,3,9.8,5.5,4.3
+4096,Pork,Halal Guys,2,1,3.1,1.6,1.5
+4097,Beans,Chipotle,6,2,7.3,0.6,6.7
+4098,Pork,Flip kitchen,5,2,8.0,1.7,6.3
+4099,Drumsticks,Chipotle,5,2,3.6,2.7,0.9
+4100,Tune,Ike's,2,1,7.9,7.7,0.2
+4101,Burger,Blaze pizza,1,1,2.1,1.4,0.7
+4102,Salad,Chipotle,3,1,8.5,7.3,1.2
+4103,Parmesan cheese,Halal Guys,5,2,2.6,2.5,0.1
+4104,Burger,Blaze pizza,8,2,6.1,3.2,2.9
+4105,Chicken,Flip kitchen,5,2,3.9,0.5,3.4
+4106,Fries,Nue Vegan,11,3,4.6,3.9,0.7
+4107,Parmesan cheese,Halal Guys,7,2,3.7,1.7,2.0
+4108,Salad,Akino sushi,7,2,1.1,1.0,0.1
+4109,Fries,Southside,9,3,9.9,9.6,0.3
+4110,Beef,Chipotle,3,1,5.9,5.3,0.6
+4111,Drumsticks,Southside,8,2,3.2,1.2,2.0
+4112,Burger,Akino sushi,9,3,9.8,3.7,6.1
+4113,Burger,Southside,12,3,9.2,3.5,5.7
+4114,Pizza,Ike's,9,3,4.1,2.6,1.5
+4115,Fries,Southside,1,1,5.8,5.0,0.8
+4116,Fries,Chipotle,10,3,1.6,1.3,0.3
+4117,Beef,Chipotle,9,3,4.4,3.7,0.7
+4118,Pizza,Ike's,7,2,7.1,6.4,0.7
+4119,Beans,Blaze pizza,6,2,6.9,2.3,4.6
+4120,Parmesan cheese,Globe,4,1,8.3,2.9,5.4
+4121,Beans,Akino sushi,1,1,3.3,0.0,3.3
+4122,Parmesan cheese,Blaze pizza,8,2,6.8,0.0,6.8
+4123,Pork,Blaze pizza,1,1,2.0,0.6,1.4
+4124,Drumsticks,Akino sushi,2,1,5.8,2.0,3.8
+4125,Salad,Globe,2,1,3.5,3.3,0.2
+4126,Fries,Nue Vegan,3,1,6.4,0.1,6.3
+4127,Beans,Blaze pizza,4,1,5.2,0.8,4.4
+4128,Beef,Chipotle,1,1,4.7,1.0,3.7
+4129,Beef,Southside,6,2,4.1,1.7,2.4
+4130,Chicken,Chipotle,7,2,5.8,1.0,4.8
+4131,Fries,Akino sushi,5,2,8.7,0.7,8.0
+4132,Chicken,Halal Guys,10,3,2.2,0.6,1.6
+4133,Pork,Akino sushi,3,1,2.4,0.7,1.7
+4134,Pork,Chick-fil-a,11,3,6.0,2.7,3.3
+4135,Beans,Nue Vegan,12,3,9.2,2.4,6.8
+4136,Drumsticks,Southside,6,2,5.2,1.0,4.2
+4137,Beans,Southside,8,2,5.2,1.7,3.5
+4138,Drumsticks,Ike's,8,2,9.6,8.5,1.1
+4139,Beef,Ike's,1,1,3.3,3.0,0.3
+4140,Drumsticks,Halal Guys,4,1,7.2,5.5,1.7
+4141,Beans,Halal Guys,11,3,3.9,3.6,0.3
+4142,Salad,Globe,3,1,4.6,2.8,1.8
+4143,Pizza,Flip kitchen,12,3,9.5,8.7,0.8
+4144,Fries,Blaze pizza,10,3,8.9,5.3,3.6
+4145,Fries,Flip kitchen,10,3,7.2,4.5,2.7
+4146,Parmesan cheese,Chick-fil-a,4,1,3.3,2.8,0.5
+4147,Parmesan cheese,Akino sushi,7,2,5.0,1.0,4.0
+4148,Drumsticks,Akino sushi,7,2,5.9,5.6,0.3
+4149,Beans,Akino sushi,2,1,4.6,4.4,0.2
+4150,Tune,Halal Guys,7,2,10.0,5.8,4.2
+4151,Salad,Blaze pizza,2,1,9.4,2.7,6.7
+4152,Chicken,Flip kitchen,3,1,5.3,0.9,4.4
+4153,Beans,Southside,5,2,4.0,2.0,2.0
+4154,Salad,Southside,6,2,1.9,0.1,1.8
+4155,Chicken,Halal Guys,10,3,1.0,0.5,0.5
+4156,Beef,Chick-fil-a,4,1,4.3,0.6,3.7
+4157,Beans,Chick-fil-a,6,2,4.0,0.7,3.3
+4158,Beef,Nue Vegan,9,3,1.4,0.5,0.9
+4159,Pork,Chipotle,11,3,5.9,1.7,4.2
+4160,Pork,Chipotle,8,2,8.2,6.1,2.1
+4161,Drumsticks,Halal Guys,2,1,8.4,4.2,4.2
+4162,Salad,Akino sushi,2,1,4.1,1.0,3.1
+4163,Salad,Globe,3,1,7.6,0.4,7.2
+4164,Parmesan cheese,Nue Vegan,4,1,2.5,1.0,1.5
+4165,Tune,Chipotle,3,1,9.7,8.8,0.9
+4166,Beef,Chick-fil-a,10,3,9.7,6.8,2.9
+4167,Drumsticks,Chick-fil-a,1,1,7.6,3.6,4.0
+4168,Drumsticks,Southside,11,3,4.3,0.1,4.2
+4169,Burger,Ike's,1,1,2.1,2.0,0.1
+4170,Drumsticks,Chick-fil-a,3,1,7.7,3.2,4.5
+4171,Tune,Akino sushi,8,2,6.4,0.8,5.6
+4172,Pizza,Ike's,5,2,6.6,0.8,5.8
+4173,Parmesan cheese,Blaze pizza,10,3,7.9,0.5,7.4
+4174,Beans,Halal Guys,8,2,9.6,8.5,1.1
+4175,Beef,Chick-fil-a,12,3,3.1,2.1,1.0
+4176,Salad,Akino sushi,4,1,1.3,0.8,0.5
+4177,Drumsticks,Ike's,2,1,6.6,0.8,5.8
+4178,Drumsticks,Blaze pizza,9,3,4.7,3.6,1.1
+4179,Fries,Flip kitchen,4,1,9.3,8.2,1.1
+4180,Burger,Blaze pizza,2,1,9.8,2.0,7.8
+4181,Beans,Halal Guys,9,3,8.0,3.9,4.1
+4182,Burger,Flip kitchen,4,1,8.6,5.5,3.1
+4183,Drumsticks,Akino sushi,10,3,6.6,2.8,3.8
+4184,Beef,Akino sushi,3,1,5.6,0.8,4.8
+4185,Chicken,Halal Guys,8,2,4.0,2.5,1.5
+4186,Burger,Halal Guys,11,3,2.4,2.4,0.0
+4187,Salad,Southside,5,2,4.2,0.5,3.7
+4188,Beef,Globe,2,1,4.7,2.6,2.1
+4189,Beef,Blaze pizza,9,3,9.2,3.7,5.5
+4190,Salad,Flip kitchen,6,2,9.4,8.0,1.4
+4191,Drumsticks,Akino sushi,11,3,3.0,1.9,1.1
+4192,Burger,Akino sushi,3,1,3.1,2.7,0.4
+4193,Pork,Chipotle,1,1,2.1,1.9,0.2
+4194,Beef,Halal Guys,2,1,6.7,2.2,4.5
+4195,Burger,Halal Guys,6,2,5.5,3.9,1.6
+4196,Fries,Flip kitchen,3,1,3.3,0.9,2.4
+4197,Pork,Halal Guys,10,3,3.1,2.8,0.3
+4198,Chicken,Halal Guys,2,1,1.9,0.3,1.6
+4199,Pizza,Blaze pizza,6,2,8.9,3.7,5.2
+4200,Drumsticks,Akino sushi,4,1,4.7,0.5,4.2
+4201,Tune,Globe,12,3,6.5,6.0,0.5
+4202,Tune,Blaze pizza,3,1,5.7,2.4,3.3
+4203,Pizza,Chipotle,10,3,5.8,0.2,5.6
+4204,Parmesan cheese,Flip kitchen,3,1,4.3,3.7,0.6
+4205,Fries,Halal Guys,3,1,2.1,1.9,0.2
+4206,Fries,Nue Vegan,11,3,7.7,4.5,3.2
+4207,Chicken,Flip kitchen,1,1,9.6,0.3,9.3
+4208,Fries,Blaze pizza,10,3,3.8,3.4,0.4
+4209,Salad,Globe,2,1,8.3,6.2,2.1
+4210,Burger,Halal Guys,11,3,5.0,3.7,1.3
+4211,Pizza,Blaze pizza,10,3,6.7,6.4,0.3
+4212,Tune,Chick-fil-a,2,1,8.5,4.4,4.1
+4213,Beans,Halal Guys,7,2,7.9,7.0,0.9
+4214,Tune,Globe,5,2,1.1,0.9,0.2
+4215,Tune,Akino sushi,11,3,3.6,0.3,3.3
+4216,Beef,Chipotle,6,2,2.2,2.2,0.0
+4217,Fries,Nue Vegan,3,1,4.9,4.1,0.8
+4218,Salad,Globe,7,2,8.2,7.4,0.8
+4219,Salad,Ike's,5,2,1.2,1.0,0.2
+4220,Chicken,Chick-fil-a,11,3,9.5,0.9,8.6
+4221,Tune,Nue Vegan,3,1,8.2,7.8,0.4
+4222,Beef,Nue Vegan,9,3,2.2,0.8,1.4
+4223,Beef,Blaze pizza,4,1,5.6,4.7,0.9
+4224,Beef,Ike's,2,1,10.0,7.1,2.9
+4225,Burger,Chick-fil-a,6,2,4.1,2.6,1.5
+4226,Beans,Halal Guys,1,1,4.8,2.2,2.6
+4227,Salad,Halal Guys,6,2,8.1,4.7,3.4
+4228,Burger,Akino sushi,5,2,2.6,1.5,1.1
+4229,Fries,Chick-fil-a,2,1,3.4,1.1,2.3
+4230,Pizza,Ike's,4,1,4.5,0.7,3.8
+4231,Fries,Chipotle,10,3,2.3,1.2,1.1
+4232,Burger,Blaze pizza,11,3,2.7,2.1,0.6
+4233,Burger,Akino sushi,2,1,2.2,0.7,1.5
+4234,Parmesan cheese,Chick-fil-a,2,1,6.6,2.7,3.9
+4235,Burger,Halal Guys,6,2,8.1,2.7,5.4
+4236,Pizza,Halal Guys,2,1,9.4,0.7,8.7
+4237,Fries,Chick-fil-a,12,3,5.2,2.2,3.0
+4238,Chicken,Akino sushi,1,1,2.7,0.2,2.5
+4239,Chicken,Flip kitchen,2,1,6.9,3.1,3.8
+4240,Drumsticks,Nue Vegan,6,2,8.2,1.1,7.1
+4241,Fries,Nue Vegan,6,2,4.2,3.0,1.2
+4242,Parmesan cheese,Akino sushi,3,1,2.0,0.7,1.3
+4243,Pork,Chipotle,10,3,9.4,8.1,1.3
+4244,Beans,Blaze pizza,6,2,3.2,2.9,0.3
+4245,Salad,Ike's,9,3,2.3,2.1,0.2
+4246,Pizza,Flip kitchen,2,1,7.8,5.5,2.3
+4247,Drumsticks,Flip kitchen,2,1,9.9,8.6,1.3
+4248,Pork,Chipotle,4,1,6.7,5.4,1.3
+4249,Pork,Chick-fil-a,9,3,8.6,2.7,5.9
+4250,Fries,Chipotle,10,3,2.1,0.4,1.7
+4251,Chicken,Flip kitchen,5,2,2.8,2.4,0.4
+4252,Salad,Akino sushi,10,3,4.1,0.9,3.2
+4253,Tune,Southside,6,2,1.8,0.0,1.8
+4254,Beans,Akino sushi,10,3,1.3,0.8,0.5
+4255,Burger,Southside,10,3,6.7,3.7,3.0
+4256,Pizza,Chick-fil-a,4,1,7.6,5.7,1.9
+4257,Fries,Blaze pizza,7,2,7.1,0.6,6.5
+4258,Chicken,Nue Vegan,1,1,2.5,2.3,0.2
+4259,Pizza,Southside,7,2,5.6,1.5,4.1
+4260,Beef,Ike's,9,3,5.4,1.7,3.7
+4261,Parmesan cheese,Blaze pizza,8,2,4.5,4.3,0.2
+4262,Salad,Flip kitchen,6,2,4.0,1.0,3.0
+4263,Salad,Halal Guys,7,2,7.0,4.9,2.1
+4264,Burger,Nue Vegan,10,3,3.3,2.6,0.7
+4265,Tune,Nue Vegan,12,3,2.0,0.7,1.3
+4266,Beef,Blaze pizza,1,1,4.6,1.1,3.5
+4267,Tune,Southside,9,3,6.6,6.1,0.5
+4268,Burger,Globe,10,3,3.5,0.5,3.0
+4269,Beans,Globe,5,2,2.6,1.3,1.3
+4270,Fries,Southside,11,3,8.3,4.6,3.7
+4271,Parmesan cheese,Flip kitchen,10,3,4.8,3.5,1.3
+4272,Salad,Nue Vegan,12,3,9.2,4.5,4.7
+4273,Tune,Ike's,5,2,3.2,2.2,1.0
+4274,Parmesan cheese,Chipotle,11,3,5.8,3.7,2.1
+4275,Burger,Ike's,6,2,4.7,4.0,0.7
+4276,Pork,Ike's,6,2,8.9,5.1,3.8
+4277,Parmesan cheese,Chipotle,2,1,7.6,2.1,5.5
+4278,Fries,Chipotle,8,2,2.5,0.3,2.2
+4279,Tune,Chick-fil-a,5,2,7.3,6.0,1.3
+4280,Tune,Akino sushi,4,1,9.1,3.6,5.5
+4281,Beans,Chick-fil-a,12,3,2.3,1.8,0.5
+4282,Pizza,Chick-fil-a,5,2,3.6,2.6,1.0
+4283,Parmesan cheese,Globe,6,2,7.2,2.2,5.0
+4284,Fries,Blaze pizza,7,2,1.9,1.2,0.7
+4285,Chicken,Southside,2,1,8.8,5.2,3.6
+4286,Beans,Flip kitchen,8,2,4.8,2.3,2.5
+4287,Tune,Akino sushi,2,1,6.3,3.6,2.7
+4288,Salad,Chick-fil-a,11,3,1.2,1.0,0.2
+4289,Burger,Ike's,6,2,3.5,2.5,1.0
+4290,Parmesan cheese,Chick-fil-a,8,2,9.2,9.1,0.1
+4291,Pork,Globe,7,2,5.4,4.1,1.3
+4292,Parmesan cheese,Nue Vegan,9,3,7.6,5.9,1.7
+4293,Beans,Southside,8,2,7.7,1.6,6.1
+4294,Beans,Flip kitchen,7,2,3.7,0.0,3.7
+4295,Pork,Globe,8,2,7.8,7.8,0.0
+4296,Burger,Akino sushi,6,2,1.4,0.8,0.6
+4297,Beef,Akino sushi,4,1,6.5,2.3,4.2
+4298,Tune,Chick-fil-a,9,3,3.5,1.8,1.7
+4299,Tune,Chick-fil-a,2,1,6.6,6.5,0.1
+4300,Beef,Akino sushi,5,2,6.2,4.5,1.7
+4301,Beans,Southside,9,3,8.7,6.2,2.5
+4302,Parmesan cheese,Flip kitchen,7,2,7.6,6.4,1.2
+4303,Chicken,Blaze pizza,1,1,4.7,3.3,1.4
+4304,Beans,Southside,8,2,4.6,3.4,1.2
+4305,Pork,Halal Guys,5,2,8.2,4.8,3.4
+4306,Fries,Globe,11,3,4.5,0.3,4.2
+4307,Chicken,Nue Vegan,9,3,9.4,7.3,2.1
+4308,Chicken,Southside,4,1,4.3,3.7,0.6
+4309,Pizza,Chipotle,10,3,8.6,4.1,4.5
+4310,Fries,Flip kitchen,9,3,2.4,1.4,1.0
+4311,Pork,Chipotle,9,3,4.9,3.7,1.2
+4312,Beef,Halal Guys,8,2,4.4,0.0,4.4
+4313,Parmesan cheese,Southside,3,1,9.8,8.0,1.8
+4314,Drumsticks,Flip kitchen,7,2,4.2,0.7,3.5
+4315,Beans,Flip kitchen,6,2,4.0,0.8,3.2
+4316,Parmesan cheese,Akino sushi,7,2,8.9,1.9,7.0
+4317,Drumsticks,Ike's,3,1,2.4,0.5,1.9
+4318,Pizza,Globe,10,3,3.4,1.5,1.9
+4319,Parmesan cheese,Southside,12,3,3.3,3.0,0.3
+4320,Pizza,Chick-fil-a,2,1,3.1,0.0,3.1
+4321,Pork,Southside,11,3,2.4,2.0,0.4
+4322,Beans,Chick-fil-a,10,3,8.2,4.3,3.9
+4323,Drumsticks,Nue Vegan,7,2,2.4,0.6,1.8
+4324,Beef,Southside,11,3,2.4,1.4,1.0
+4325,Chicken,Flip kitchen,8,2,8.5,6.2,2.3
+4326,Fries,Ike's,9,3,8.9,3.5,5.4
+4327,Chicken,Southside,8,2,4.2,3.4,0.8
+4328,Salad,Nue Vegan,1,1,4.7,0.1,4.6
+4329,Salad,Blaze pizza,2,1,3.5,2.7,0.8
+4330,Drumsticks,Chipotle,8,2,1.9,0.3,1.6
+4331,Burger,Blaze pizza,1,1,9.2,8.6,0.6
+4332,Fries,Globe,3,1,3.7,1.2,2.5
+4333,Salad,Chick-fil-a,8,2,6.9,1.1,5.8
+4334,Pork,Chick-fil-a,9,3,4.6,4.2,0.4
+4335,Beans,Southside,2,1,1.5,0.1,1.4
+4336,Parmesan cheese,Southside,4,1,6.4,5.2,1.2
+4337,Salad,Blaze pizza,10,3,5.2,0.7,4.5
+4338,Salad,Ike's,11,3,9.4,0.4,9.0
+4339,Parmesan cheese,Southside,10,3,7.6,0.2,7.4
+4340,Tune,Chipotle,9,3,3.2,2.0,1.2
+4341,Chicken,Nue Vegan,10,3,7.4,3.7,3.7
+4342,Beans,Ike's,7,2,5.2,2.0,3.2
+4343,Tune,Ike's,10,3,7.1,3.3,3.8
+4344,Drumsticks,Flip kitchen,10,3,4.9,1.3,3.6
+4345,Pork,Globe,6,2,2.6,1.8,0.8
+4346,Parmesan cheese,Nue Vegan,7,2,7.1,6.5,0.6
+4347,Burger,Chipotle,9,3,7.2,4.9,2.3
+4348,Beef,Globe,9,3,5.1,3.7,1.4
+4349,Drumsticks,Flip kitchen,5,2,5.7,1.7,4.0
+4350,Tune,Chipotle,10,3,8.2,2.7,5.5
+4351,Beans,Chipotle,7,2,1.1,0.7,0.4
+4352,Salad,Southside,4,1,5.8,2.3,3.5
+4353,Drumsticks,Ike's,2,1,3.2,2.4,0.8
+4354,Fries,Flip kitchen,7,2,1.2,0.2,1.0
+4355,Salad,Globe,9,3,4.7,3.6,1.1
+4356,Fries,Chick-fil-a,4,1,7.8,0.0,7.8
+4357,Burger,Ike's,4,1,3.1,1.9,1.2
+4358,Pork,Globe,5,2,8.5,3.5,5.0
+4359,Parmesan cheese,Chipotle,6,2,8.7,5.9,2.8
+4360,Chicken,Chick-fil-a,3,1,1.2,1.0,0.2
+4361,Beans,Halal Guys,2,1,9.6,0.0,9.6
+4362,Parmesan cheese,Globe,1,1,5.6,4.1,1.5
+4363,Drumsticks,Ike's,8,2,7.5,4.9,2.6
+4364,Pork,Nue Vegan,3,1,6.8,0.2,6.6
+4365,Fries,Chipotle,3,1,1.3,1.1,0.2
+4366,Beans,Flip kitchen,5,2,8.6,7.4,1.2
+4367,Parmesan cheese,Flip kitchen,5,2,9.1,9.0,0.1
+4368,Burger,Southside,11,3,1.2,0.8,0.4
+4369,Chicken,Blaze pizza,6,2,9.1,2.2,6.9
+4370,Pork,Flip kitchen,8,2,7.2,5.3,1.9
+4371,Parmesan cheese,Halal Guys,12,3,3.7,0.9,2.8
+4372,Beef,Akino sushi,12,3,7.4,2.6,4.8
+4373,Tune,Nue Vegan,3,1,3.4,2.7,0.7
+4374,Beef,Blaze pizza,3,1,3.1,1.5,1.6
+4375,Burger,Nue Vegan,12,3,2.7,2.4,0.3
+4376,Tune,Nue Vegan,4,1,5.1,4.5,0.6
+4377,Pork,Globe,4,1,5.8,1.1,4.7
+4378,Chicken,Chick-fil-a,4,1,5.1,2.5,2.6
+4379,Fries,Chick-fil-a,2,1,3.2,3.0,0.2
+4380,Pork,Flip kitchen,10,3,9.8,1.9,7.9
+4381,Fries,Chipotle,8,2,8.4,7.3,1.1
+4382,Pork,Ike's,3,1,8.1,2.9,5.2
+4383,Parmesan cheese,Globe,4,1,9.3,0.6,8.7
+4384,Chicken,Blaze pizza,6,2,4.8,4.4,0.4
+4385,Chicken,Southside,8,2,2.0,2.0,0.0
+4386,Beef,Southside,2,1,8.9,2.2,6.7
+4387,Tune,Halal Guys,11,3,4.2,1.0,3.2
+4388,Beef,Nue Vegan,2,1,2.0,0.8,1.2
+4389,Fries,Chick-fil-a,8,2,4.5,0.0,4.5
+4390,Fries,Blaze pizza,12,3,1.0,0.0,1.0
+4391,Chicken,Southside,7,2,5.9,1.2,4.7
+4392,Pizza,Chick-fil-a,5,2,2.6,0.6,2.0
+4393,Parmesan cheese,Blaze pizza,5,2,1.7,1.0,0.7
+4394,Pork,Blaze pizza,3,1,8.9,7.4,1.5
+4395,Drumsticks,Globe,6,2,8.8,6.1,2.7
+4396,Beef,Flip kitchen,6,2,1.5,0.6,0.9
+4397,Chicken,Globe,10,3,6.1,3.4,2.7
+4398,Pork,Globe,4,1,8.6,2.5,6.1
+4399,Burger,Southside,11,3,1.5,0.3,1.2
+4400,Beans,Southside,11,3,2.2,0.1,2.1
+4401,Tune,Chipotle,2,1,5.3,3.8,1.5
+4402,Pizza,Southside,6,2,7.3,4.5,2.8
+4403,Tune,Flip kitchen,12,3,7.8,0.2,7.6
+4404,Parmesan cheese,Akino sushi,10,3,5.3,3.6,1.7
+4405,Tune,Akino sushi,1,1,3.9,3.1,0.8
+4406,Salad,Nue Vegan,1,1,5.9,0.0,5.9
+4407,Drumsticks,Southside,7,2,8.2,2.2,6.0
+4408,Beef,Ike's,2,1,5.6,4.1,1.5
+4409,Tune,Chick-fil-a,9,3,7.6,4.5,3.1
+4410,Beans,Akino sushi,6,2,6.6,1.0,5.6
+4411,Drumsticks,Ike's,10,3,6.2,0.2,6.0
+4412,Beef,Halal Guys,2,1,8.0,6.0,2.0
+4413,Parmesan cheese,Flip kitchen,5,2,7.9,3.2,4.7
+4414,Tune,Akino sushi,10,3,6.0,1.7,4.3
+4415,Chicken,Southside,3,1,8.6,3.1,5.5
+4416,Pizza,Flip kitchen,9,3,4.2,0.8,3.4
+4417,Beans,Southside,3,1,8.0,4.3,3.7
+4418,Parmesan cheese,Globe,1,1,4.1,2.0,2.1
+4419,Burger,Akino sushi,12,3,5.5,4.7,0.8
+4420,Salad,Chick-fil-a,6,2,9.6,7.0,2.6
+4421,Pork,Nue Vegan,11,3,3.2,2.1,1.1
+4422,Drumsticks,Halal Guys,12,3,4.6,1.0,3.6
+4423,Fries,Ike's,8,2,6.6,4.1,2.5
+4424,Fries,Southside,1,1,8.4,2.5,5.9
+4425,Parmesan cheese,Globe,5,2,9.1,2.9,6.2
+4426,Parmesan cheese,Blaze pizza,5,2,4.0,1.2,2.8
+4427,Beef,Flip kitchen,4,1,1.3,1.0,0.3
+4428,Tune,Flip kitchen,12,3,5.0,0.0,5.0
+4429,Pork,Chipotle,10,3,1.5,0.7,0.8
+4430,Burger,Akino sushi,3,1,8.4,7.2,1.2
+4431,Pork,Chipotle,12,3,9.8,6.2,3.6
+4432,Drumsticks,Southside,3,1,9.6,6.9,2.7
+4433,Beans,Southside,7,2,8.5,0.2,8.3
+4434,Fries,Akino sushi,7,2,1.5,0.7,0.8
+4435,Chicken,Flip kitchen,6,2,4.0,3.3,0.7
+4436,Tune,Nue Vegan,12,3,9.7,7.9,1.8
+4437,Drumsticks,Nue Vegan,1,1,5.6,5.4,0.2
+4438,Salad,Chipotle,5,2,8.8,4.6,4.2
+4439,Drumsticks,Halal Guys,3,1,4.1,0.8,3.3
+4440,Burger,Globe,7,2,1.0,0.8,0.2
+4441,Beans,Chick-fil-a,12,3,8.0,2.6,5.4
+4442,Drumsticks,Chick-fil-a,10,3,8.6,3.4,5.2
+4443,Fries,Globe,2,1,2.6,0.5,2.1
+4444,Pizza,Blaze pizza,12,3,5.0,4.3,0.7
+4445,Salad,Nue Vegan,12,3,3.6,2.4,1.2
+4446,Tune,Ike's,6,2,8.5,6.0,2.5
+4447,Burger,Chipotle,2,1,9.4,6.7,2.7
+4448,Beans,Halal Guys,7,2,7.3,6.0,1.3
+4449,Beef,Globe,6,2,2.1,0.9,1.2
+4450,Tune,Flip kitchen,11,3,7.8,0.4,7.4
+4451,Pork,Halal Guys,2,1,1.2,0.1,1.1
+4452,Chicken,Blaze pizza,3,1,1.7,1.4,0.3
+4453,Beans,Southside,6,2,2.9,0.6,2.3
+4454,Drumsticks,Nue Vegan,3,1,6.2,5.4,0.8
+4455,Pizza,Halal Guys,4,1,4.1,3.5,0.6
+4456,Beef,Blaze pizza,2,1,4.1,1.1,3.0
+4457,Pork,Chick-fil-a,3,1,8.9,0.4,8.5
+4458,Chicken,Flip kitchen,9,3,6.3,5.3,1.0
+4459,Beans,Ike's,10,3,9.8,1.6,8.2
+4460,Parmesan cheese,Halal Guys,6,2,1.1,0.5,0.6
+4461,Drumsticks,Ike's,4,1,7.5,4.1,3.4
+4462,Burger,Chick-fil-a,5,2,9.3,7.3,2.0
+4463,Pork,Nue Vegan,1,1,9.0,0.3,8.7
+4464,Chicken,Flip kitchen,12,3,5.1,3.3,1.8
+4465,Pork,Akino sushi,3,1,5.0,3.3,1.7
+4466,Beef,Chipotle,11,3,9.7,8.3,1.4
+4467,Drumsticks,Ike's,7,2,5.5,0.8,4.7
+4468,Pizza,Blaze pizza,1,1,6.9,5.7,1.2
+4469,Tune,Nue Vegan,9,3,2.0,1.2,0.8
+4470,Tune,Akino sushi,10,3,2.1,0.7,1.4
+4471,Tune,Globe,8,2,3.9,1.3,2.6
+4472,Pork,Akino sushi,12,3,5.2,1.5,3.7
+4473,Beans,Halal Guys,10,3,2.4,1.4,1.0
+4474,Fries,Halal Guys,8,2,7.8,6.0,1.8
+4475,Pork,Ike's,12,3,4.0,3.1,0.9
+4476,Tune,Nue Vegan,8,2,8.2,5.6,2.6
+4477,Burger,Ike's,3,1,8.5,4.0,4.5
+4478,Fries,Ike's,6,2,3.7,3.3,0.4
+4479,Drumsticks,Blaze pizza,4,1,2.9,0.1,2.8
+4480,Salad,Chipotle,8,2,6.2,2.8,3.4
+4481,Beans,Akino sushi,9,3,8.5,5.4,3.1
+4482,Beef,Globe,5,2,4.3,0.9,3.4
+4483,Beef,Globe,9,3,3.6,1.5,2.1
+4484,Tune,Ike's,6,2,8.0,6.4,1.6
+4485,Salad,Halal Guys,8,2,5.2,2.7,2.5
+4486,Pork,Ike's,8,2,5.6,0.2,5.4
+4487,Beans,Globe,11,3,7.9,3.9,4.0
+4488,Pizza,Chipotle,5,2,5.6,2.9,2.7
+4489,Burger,Chipotle,6,2,3.0,0.9,2.1
+4490,Burger,Blaze pizza,12,3,1.0,0.1,0.9
+4491,Salad,Flip kitchen,5,2,1.3,1.3,0.0
+4492,Tune,Blaze pizza,9,3,3.4,0.4,3.0
+4493,Beef,Halal Guys,10,3,3.2,0.2,3.0
+4494,Pizza,Chipotle,12,3,9.8,9.0,0.8
+4495,Salad,Halal Guys,6,2,6.8,6.6,0.2
+4496,Salad,Akino sushi,8,2,5.9,5.1,0.8
+4497,Pork,Southside,7,2,2.9,2.3,0.6
+4498,Tune,Blaze pizza,11,3,9.3,2.6,6.7
+4499,Chicken,Globe,5,2,4.5,1.6,2.9
+4500,Beef,Akino sushi,8,2,9.3,5.7,3.6
+4501,Drumsticks,Flip kitchen,11,3,9.4,0.3,9.1
+4502,Pizza,Akino sushi,8,2,6.6,3.0,3.6
+4503,Drumsticks,Akino sushi,4,1,6.7,2.9,3.8
+4504,Drumsticks,Globe,8,2,3.3,2.3,1.0
+4505,Burger,Blaze pizza,8,2,6.9,1.9,5.0
+4506,Beef,Globe,12,3,6.9,6.7,0.2
+4507,Beans,Ike's,1,1,6.7,3.5,3.2
+4508,Fries,Flip kitchen,4,1,4.0,2.8,1.2
+4509,Pork,Chipotle,2,1,7.3,0.7,6.6
+4510,Burger,Ike's,4,1,7.7,6.7,1.0
+4511,Beef,Flip kitchen,1,1,5.4,0.8,4.6
+4512,Parmesan cheese,Southside,9,3,5.4,2.3,3.1
+4513,Fries,Blaze pizza,7,2,9.5,3.0,6.5
+4514,Parmesan cheese,Halal Guys,5,2,2.7,1.3,1.4
+4515,Drumsticks,Ike's,3,1,3.2,2.6,0.6
+4516,Beans,Chick-fil-a,8,2,1.3,1.3,0.0
+4517,Pizza,Globe,1,1,9.6,4.5,5.1
+4518,Tune,Southside,8,2,5.3,3.0,2.3
+4519,Chicken,Nue Vegan,10,3,6.7,4.1,2.6
+4520,Parmesan cheese,Ike's,8,2,5.2,0.4,4.8
+4521,Parmesan cheese,Nue Vegan,9,3,7.0,6.8,0.2
+4522,Chicken,Chick-fil-a,4,1,5.1,4.6,0.5
+4523,Tune,Flip kitchen,12,3,6.9,3.5,3.4
+4524,Beans,Nue Vegan,9,3,7.6,4.8,2.8
+4525,Chicken,Southside,2,1,4.2,3.8,0.4
+4526,Beans,Blaze pizza,5,2,8.5,4.5,4.0
+4527,Salad,Southside,11,3,2.8,2.6,0.2
+4528,Parmesan cheese,Southside,12,3,3.2,1.2,2.0
+4529,Tune,Southside,6,2,6.1,5.5,0.6
+4530,Pizza,Blaze pizza,9,3,8.0,7.0,1.0
+4531,Parmesan cheese,Southside,11,3,9.3,8.7,0.6
+4532,Fries,Flip kitchen,9,3,7.8,1.5,6.3
+4533,Salad,Southside,2,1,2.9,2.7,0.2
+4534,Burger,Ike's,2,1,3.5,3.3,0.2
+4535,Chicken,Halal Guys,10,3,6.7,1.0,5.7
+4536,Drumsticks,Globe,4,1,5.0,3.9,1.1
+4537,Parmesan cheese,Ike's,4,1,7.9,1.4,6.5
+4538,Chicken,Akino sushi,1,1,9.4,6.7,2.7
+4539,Parmesan cheese,Chick-fil-a,11,3,7.8,5.9,1.9
+4540,Tune,Ike's,8,2,1.4,1.0,0.4
+4541,Beef,Ike's,9,3,5.8,5.6,0.2
+4542,Pizza,Akino sushi,12,3,1.4,0.3,1.1
+4543,Fries,Akino sushi,4,1,4.7,2.7,2.0
+4544,Drumsticks,Halal Guys,10,3,6.0,0.8,5.2
+4545,Chicken,Akino sushi,5,2,1.4,0.9,0.5
+4546,Beef,Halal Guys,7,2,10.0,9.0,1.0
+4547,Burger,Ike's,4,1,5.8,5.2,0.6
+4548,Tune,Chick-fil-a,8,2,2.3,1.0,1.3
+4549,Pizza,Akino sushi,4,1,1.7,0.7,1.0
+4550,Salad,Chick-fil-a,3,1,4.6,4.0,0.6
+4551,Chicken,Halal Guys,7,2,8.3,2.0,6.3
+4552,Drumsticks,Flip kitchen,8,2,9.0,5.1,3.9
+4553,Pizza,Ike's,8,2,2.7,1.9,0.8
+4554,Beef,Southside,3,1,9.8,3.2,6.6
+4555,Burger,Nue Vegan,7,2,5.4,4.6,0.8
+4556,Fries,Flip kitchen,1,1,2.4,1.4,1.0
+4557,Salad,Blaze pizza,2,1,2.8,0.9,1.9
+4558,Tune,Southside,2,1,5.9,4.1,1.8
+4559,Salad,Ike's,5,2,1.3,0.9,0.4
+4560,Pizza,Globe,2,1,7.3,1.6,5.7
+4561,Tune,Chipotle,1,1,1.0,0.7,0.3
+4562,Beans,Halal Guys,6,2,8.4,8.1,0.3
+4563,Tune,Halal Guys,7,2,3.5,0.6,2.9
+4564,Burger,Southside,7,2,5.3,3.5,1.8
+4565,Beef,Ike's,8,2,7.8,6.7,1.1
+4566,Fries,Southside,1,1,5.9,4.9,1.0
+4567,Salad,Blaze pizza,9,3,9.1,7.1,2.0
+4568,Fries,Flip kitchen,9,3,5.6,4.5,1.1
+4569,Pork,Southside,11,3,3.6,1.6,2.0
+4570,Pork,Halal Guys,2,1,4.2,2.2,2.0
+4571,Tune,Blaze pizza,6,2,4.2,0.3,3.9
+4572,Tune,Halal Guys,3,1,5.7,5.3,0.4
+4573,Salad,Blaze pizza,10,3,2.6,1.0,1.6
+4574,Drumsticks,Halal Guys,2,1,5.1,1.0,4.1
+4575,Pizza,Halal Guys,10,3,1.8,0.3,1.5
+4576,Parmesan cheese,Akino sushi,1,1,6.1,3.9,2.2
+4577,Drumsticks,Globe,3,1,2.6,2.0,0.6
+4578,Beef,Akino sushi,12,3,3.0,1.2,1.8
+4579,Pork,Globe,8,2,7.7,3.5,4.2
+4580,Fries,Chipotle,7,2,7.1,1.3,5.8
+4581,Parmesan cheese,Akino sushi,11,3,4.9,4.7,0.2
+4582,Tune,Nue Vegan,2,1,2.5,1.1,1.4
+4583,Salad,Blaze pizza,6,2,8.6,2.1,6.5
+4584,Salad,Globe,2,1,3.7,3.0,0.7
+4585,Salad,Chick-fil-a,11,3,1.9,0.8,1.1
+4586,Pork,Chick-fil-a,11,3,2.5,1.9,0.6
+4587,Tune,Globe,8,2,3.4,2.1,1.3
+4588,Tune,Blaze pizza,3,1,1.3,0.4,0.9
+4589,Burger,Flip kitchen,11,3,1.4,0.1,1.3
+4590,Salad,Halal Guys,2,1,2.7,1.4,1.3
+4591,Pork,Flip kitchen,12,3,8.9,1.9,7.0
+4592,Fries,Nue Vegan,3,1,5.3,1.0,4.3
+4593,Pizza,Globe,10,3,9.7,2.6,7.1
+4594,Beans,Nue Vegan,4,1,4.4,2.2,2.2
+4595,Beans,Halal Guys,7,2,9.5,9.0,0.5
+4596,Fries,Chick-fil-a,6,2,3.3,1.1,2.2
+4597,Burger,Halal Guys,2,1,1.7,0.4,1.3
+4598,Parmesan cheese,Blaze pizza,1,1,1.8,0.2,1.6
+4599,Burger,Flip kitchen,9,3,9.3,4.6,4.7
+4600,Pizza,Halal Guys,10,3,1.6,0.2,1.4
+4601,Drumsticks,Akino sushi,7,2,4.2,0.5,3.7
+4602,Parmesan cheese,Southside,12,3,1.4,0.2,1.2
+4603,Beef,Akino sushi,11,3,9.4,8.8,0.6
+4604,Pizza,Akino sushi,12,3,3.2,0.4,2.8
+4605,Fries,Nue Vegan,12,3,6.4,4.6,1.8
+4606,Chicken,Chipotle,11,3,2.7,0.3,2.4
+4607,Salad,Globe,9,3,9.1,8.2,0.9
+4608,Fries,Halal Guys,9,3,4.5,0.5,4.0
+4609,Beans,Flip kitchen,12,3,1.3,0.8,0.5
+4610,Pizza,Southside,10,3,8.1,1.8,6.3
+4611,Burger,Chick-fil-a,9,3,9.2,2.0,7.2
+4612,Burger,Halal Guys,8,2,7.1,5.2,1.9
+4613,Tune,Nue Vegan,12,3,4.3,1.5,2.8
+4614,Tune,Chipotle,11,3,1.3,0.7,0.6
+4615,Fries,Nue Vegan,7,2,6.7,4.3,2.4
+4616,Salad,Halal Guys,4,1,1.8,0.7,1.1
+4617,Tune,Blaze pizza,7,2,4.8,2.4,2.4
+4618,Pork,Halal Guys,4,1,8.9,4.9,4.0
+4619,Salad,Blaze pizza,8,2,3.1,1.3,1.8
+4620,Salad,Nue Vegan,3,1,6.4,0.9,5.5
+4621,Drumsticks,Halal Guys,12,3,8.4,6.1,2.3
+4622,Parmesan cheese,Akino sushi,2,1,2.9,0.8,2.1
+4623,Beans,Globe,9,3,9.4,4.8,4.6
+4624,Fries,Chick-fil-a,2,1,4.4,1.2,3.2
+4625,Pork,Globe,8,2,6.6,3.3,3.3
+4626,Fries,Chipotle,8,2,3.6,0.1,3.5
+4627,Beef,Nue Vegan,7,2,7.8,2.1,5.7
+4628,Burger,Globe,3,1,8.8,4.2,4.6
+4629,Salad,Chick-fil-a,5,2,6.7,4.6,2.1
+4630,Pork,Globe,7,2,3.8,3.3,0.5
+4631,Beef,Globe,11,3,6.7,2.0,4.7
+4632,Pork,Blaze pizza,7,2,3.1,1.4,1.7
+4633,Beef,Ike's,12,3,1.7,1.3,0.4
+4634,Pork,Nue Vegan,4,1,7.6,4.2,3.4
+4635,Fries,Akino sushi,12,3,3.2,2.3,0.9
+4636,Burger,Chipotle,1,1,5.5,4.5,1.0
+4637,Beans,Nue Vegan,5,2,4.8,3.3,1.5
+4638,Drumsticks,Flip kitchen,7,2,7.5,2.9,4.6
+4639,Drumsticks,Chick-fil-a,3,1,4.1,1.5,2.6
+4640,Fries,Ike's,2,1,6.5,3.2,3.3
+4641,Burger,Halal Guys,6,2,3.6,2.9,0.7
+4642,Pork,Akino sushi,1,1,8.0,6.5,1.5
+4643,Tune,Chipotle,5,2,3.3,0.6,2.7
+4644,Chicken,Chipotle,10,3,7.6,5.6,2.0
+4645,Tune,Globe,11,3,9.4,6.4,3.0
+4646,Drumsticks,Halal Guys,5,2,4.0,2.9,1.1
+4647,Beans,Chipotle,6,2,1.3,1.2,0.1
+4648,Chicken,Akino sushi,4,1,8.1,5.4,2.7
+4649,Tune,Flip kitchen,7,2,9.8,6.9,2.9
+4650,Pizza,Chick-fil-a,2,1,2.8,1.9,0.9
+4651,Drumsticks,Chick-fil-a,3,1,3.7,1.4,2.3
+4652,Pork,Akino sushi,11,3,8.1,7.3,0.8
+4653,Parmesan cheese,Chipotle,11,3,9.3,3.3,6.0
+4654,Beans,Halal Guys,12,3,6.0,3.0,3.0
+4655,Parmesan cheese,Halal Guys,3,1,5.9,5.1,0.8
+4656,Parmesan cheese,Flip kitchen,11,3,7.8,3.9,3.9
+4657,Pizza,Chipotle,4,1,5.6,4.8,0.8
+4658,Burger,Akino sushi,3,1,5.6,0.3,5.3
+4659,Beef,Akino sushi,7,2,6.1,2.4,3.7
+4660,Pork,Blaze pizza,4,1,3.1,2.6,0.5
+4661,Beans,Blaze pizza,1,1,7.3,0.8,6.5
+4662,Beans,Chick-fil-a,4,1,6.4,0.8,5.6
+4663,Fries,Globe,2,1,7.2,4.2,3.0
+4664,Burger,Blaze pizza,4,1,5.1,0.7,4.4
+4665,Tune,Blaze pizza,11,3,6.2,5.6,0.6
+4666,Pizza,Nue Vegan,11,3,7.5,5.0,2.5
+4667,Parmesan cheese,Ike's,7,2,5.5,5.0,0.5
+4668,Chicken,Blaze pizza,6,2,7.8,6.1,1.7
+4669,Fries,Ike's,5,2,4.8,3.3,1.5
+4670,Fries,Globe,12,3,6.4,1.3,5.1
+4671,Tune,Flip kitchen,4,1,9.2,7.6,1.6
+4672,Salad,Nue Vegan,1,1,3.9,2.6,1.3
+4673,Parmesan cheese,Ike's,9,3,4.9,1.6,3.3
+4674,Fries,Ike's,7,2,1.8,0.6,1.2
+4675,Parmesan cheese,Nue Vegan,2,1,3.7,2.6,1.1
+4676,Pork,Halal Guys,11,3,7.9,0.6,7.3
+4677,Pizza,Globe,10,3,9.0,2.8,6.2
+4678,Fries,Globe,7,2,2.8,0.6,2.2
+4679,Parmesan cheese,Blaze pizza,8,2,6.4,1.6,4.8
+4680,Chicken,Southside,5,2,1.1,0.9,0.2
+4681,Drumsticks,Halal Guys,7,2,9.6,8.2,1.4
+4682,Burger,Globe,12,3,4.9,4.0,0.9
+4683,Pizza,Chick-fil-a,11,3,3.0,0.4,2.6
+4684,Pizza,Southside,4,1,8.2,6.4,1.8
+4685,Pizza,Chipotle,1,1,9.6,8.7,0.9
+4686,Salad,Flip kitchen,9,3,9.3,1.6,7.7
+4687,Burger,Southside,4,1,8.6,2.3,6.3
+4688,Beans,Nue Vegan,2,1,5.3,0.7,4.6
+4689,Beef,Akino sushi,6,2,2.5,1.2,1.3
+4690,Pizza,Chipotle,11,3,4.0,0.4,3.6
+4691,Pizza,Halal Guys,3,1,5.4,2.2,3.2
+4692,Pizza,Akino sushi,11,3,9.1,1.5,7.6
+4693,Beans,Halal Guys,10,3,9.1,2.6,6.5
+4694,Salad,Chipotle,2,1,3.8,0.9,2.9
+4695,Fries,Nue Vegan,9,3,7.3,0.5,6.8
+4696,Pizza,Southside,6,2,5.2,0.9,4.3
+4697,Beans,Akino sushi,9,3,4.7,0.6,4.1
+4698,Pork,Akino sushi,5,2,5.7,4.6,1.1
+4699,Beef,Blaze pizza,10,3,10.0,2.0,8.0
+4700,Beans,Chick-fil-a,8,2,7.0,3.9,3.1
+4701,Fries,Ike's,2,1,2.8,1.1,1.7
+4702,Pizza,Akino sushi,1,1,6.5,0.7,5.8
+4703,Beans,Southside,4,1,3.5,1.4,2.1
+4704,Burger,Southside,10,3,4.7,2.9,1.8
+4705,Beef,Blaze pizza,2,1,4.7,0.3,4.4
+4706,Drumsticks,Blaze pizza,5,2,6.0,0.5,5.5
+4707,Burger,Southside,9,3,9.4,5.7,3.7
+4708,Tune,Southside,11,3,6.3,0.6,5.7
+4709,Tune,Chipotle,5,2,7.3,1.2,6.1
+4710,Drumsticks,Ike's,9,3,5.9,3.6,2.3
+4711,Pork,Blaze pizza,10,3,1.8,1.1,0.7
+4712,Beef,Ike's,10,3,2.3,1.1,1.2
+4713,Beef,Akino sushi,6,2,7.6,5.8,1.8
+4714,Drumsticks,Ike's,12,3,8.6,4.1,4.5
+4715,Pork,Halal Guys,11,3,3.5,1.4,2.1
+4716,Drumsticks,Flip kitchen,12,3,9.7,5.6,4.1
+4717,Tune,Ike's,3,1,1.2,0.2,1.0
+4718,Burger,Halal Guys,12,3,6.8,5.3,1.5
+4719,Pork,Southside,10,3,2.4,2.3,0.1
+4720,Parmesan cheese,Flip kitchen,3,1,4.7,3.4,1.3
+4721,Tune,Ike's,9,3,1.9,1.1,0.8
+4722,Burger,Chick-fil-a,5,2,6.2,5.2,1.0
+4723,Beef,Blaze pizza,11,3,4.7,3.5,1.2
+4724,Salad,Nue Vegan,9,3,6.3,3.4,2.9
+4725,Burger,Globe,3,1,3.2,1.0,2.2
+4726,Burger,Flip kitchen,8,2,4.7,3.3,1.4
+4727,Pizza,Ike's,9,3,8.5,4.2,4.3
+4728,Salad,Chick-fil-a,12,3,5.3,2.9,2.4
+4729,Drumsticks,Chick-fil-a,4,1,8.2,7.5,0.7
+4730,Pizza,Blaze pizza,3,1,8.6,4.3,4.3
+4731,Salad,Southside,10,3,2.3,0.4,1.9
+4732,Pizza,Halal Guys,10,3,2.4,2.4,0.0
+4733,Pork,Chick-fil-a,7,2,1.1,0.7,0.4
+4734,Tune,Chipotle,3,1,2.0,1.6,0.4
+4735,Pizza,Flip kitchen,8,2,4.1,2.6,1.5
+4736,Parmesan cheese,Ike's,11,3,7.0,3.7,3.3
+4737,Drumsticks,Globe,3,1,3.8,1.8,2.0
+4738,Parmesan cheese,Chipotle,1,1,2.3,2.0,0.3
+4739,Salad,Chipotle,8,2,1.7,1.0,0.7
+4740,Beef,Halal Guys,6,2,3.7,0.5,3.2
+4741,Parmesan cheese,Chipotle,9,3,3.2,2.0,1.2
+4742,Pizza,Blaze pizza,1,1,2.0,1.0,1.0
+4743,Beef,Chipotle,9,3,1.8,0.9,0.9
+4744,Salad,Blaze pizza,1,1,2.3,2.1,0.2
+4745,Burger,Nue Vegan,5,2,4.1,2.4,1.7
+4746,Salad,Nue Vegan,2,1,9.7,5.4,4.3
+4747,Pizza,Halal Guys,8,2,9.4,7.1,2.3
+4748,Drumsticks,Halal Guys,10,3,2.9,1.2,1.7
+4749,Tune,Flip kitchen,11,3,9.6,9.6,0.0
+4750,Beans,Ike's,8,2,3.2,2.9,0.3
+4751,Burger,Ike's,9,3,9.9,1.7,8.2
+4752,Fries,Akino sushi,12,3,1.7,1.2,0.5
+4753,Tune,Akino sushi,2,1,3.5,1.6,1.9
+4754,Pizza,Southside,5,2,2.6,1.6,1.0
+4755,Pork,Halal Guys,6,2,2.7,2.4,0.3
+4756,Chicken,Halal Guys,4,1,3.4,0.0,3.4
+4757,Pizza,Chick-fil-a,8,2,7.0,5.6,1.4
+4758,Chicken,Chipotle,3,1,1.5,0.3,1.2
+4759,Chicken,Flip kitchen,5,2,8.4,1.8,6.6
+4760,Beans,Flip kitchen,6,2,1.7,0.8,0.9
+4761,Parmesan cheese,Nue Vegan,5,2,1.5,1.3,0.2
+4762,Drumsticks,Chipotle,3,1,6.8,2.4,4.4
+4763,Chicken,Blaze pizza,12,3,5.6,3.0,2.6
+4764,Tune,Blaze pizza,12,3,1.7,1.2,0.5
+4765,Beef,Blaze pizza,8,2,4.8,1.1,3.7
+4766,Parmesan cheese,Chipotle,6,2,7.4,1.4,6.0
+4767,Tune,Chick-fil-a,10,3,5.5,0.2,5.3
+4768,Beef,Southside,11,3,7.9,6.8,1.1
+4769,Tune,Ike's,12,3,4.0,3.7,0.3
+4770,Parmesan cheese,Chipotle,5,2,6.4,6.2,0.2
+4771,Chicken,Akino sushi,12,3,1.2,0.9,0.3
+4772,Drumsticks,Southside,1,1,3.0,1.8,1.2
+4773,Pizza,Flip kitchen,8,2,6.0,0.5,5.5
+4774,Pizza,Blaze pizza,11,3,8.3,7.5,0.8
+4775,Burger,Southside,10,3,2.7,1.1,1.6
+4776,Beans,Akino sushi,4,1,8.5,5.3,3.2
+4777,Pizza,Ike's,4,1,9.7,4.5,5.2
+4778,Tune,Southside,12,3,4.2,2.6,1.6
+4779,Pizza,Akino sushi,11,3,4.1,1.6,2.5
+4780,Salad,Chipotle,7,2,4.8,2.1,2.7
+4781,Beans,Flip kitchen,4,1,7.3,5.8,1.5
+4782,Tune,Nue Vegan,3,1,9.4,6.5,2.9
+4783,Fries,Chick-fil-a,4,1,9.4,1.5,7.9
+4784,Pork,Southside,9,3,2.2,0.8,1.4
+4785,Pork,Halal Guys,10,3,8.7,8.5,0.2
+4786,Fries,Ike's,2,1,1.7,0.2,1.5
+4787,Fries,Blaze pizza,10,3,1.9,1.4,0.5
+4788,Pork,Chick-fil-a,4,1,9.4,8.0,1.4
+4789,Tune,Southside,1,1,7.1,0.1,7.0
+4790,Pizza,Southside,5,2,1.6,0.5,1.1
+4791,Burger,Halal Guys,4,1,7.1,0.3,6.8
+4792,Tune,Halal Guys,2,1,4.2,1.8,2.4
+4793,Burger,Halal Guys,3,1,3.9,1.4,2.5
+4794,Parmesan cheese,Nue Vegan,8,2,7.3,2.9,4.4
+4795,Tune,Akino sushi,1,1,2.1,1.6,0.5
+4796,Pork,Chipotle,8,2,8.5,1.7,6.8
+4797,Parmesan cheese,Akino sushi,6,2,4.8,1.3,3.5
+4798,Beef,Chipotle,9,3,4.2,2.6,1.6
+4799,Salad,Chipotle,7,2,4.1,0.6,3.5
+4800,Parmesan cheese,Southside,1,1,6.7,6.5,0.2
+4801,Parmesan cheese,Blaze pizza,1,1,1.1,1.0,0.1
+4802,Parmesan cheese,Southside,9,3,1.6,0.8,0.8
+4803,Beef,Halal Guys,11,3,4.0,0.5,3.5
+4804,Burger,Blaze pizza,12,3,4.4,0.2,4.2
+4805,Salad,Globe,4,1,5.7,3.4,2.3
+4806,Tune,Chipotle,8,2,7.7,6.9,0.8
+4807,Beef,Ike's,9,3,2.8,0.9,1.9
+4808,Chicken,Chipotle,4,1,5.1,1.0,4.1
+4809,Tune,Southside,2,1,3.5,0.9,2.6
+4810,Pizza,Ike's,10,3,3.4,2.8,0.6
+4811,Salad,Nue Vegan,12,3,9.2,8.3,0.9
+4812,Tune,Nue Vegan,1,1,5.4,2.6,2.8
+4813,Tune,Nue Vegan,3,1,5.7,2.5,3.2
+4814,Drumsticks,Globe,9,3,1.2,0.9,0.3
+4815,Drumsticks,Flip kitchen,4,1,5.1,2.8,2.3
+4816,Drumsticks,Nue Vegan,1,1,7.0,1.4,5.6
+4817,Drumsticks,Southside,4,1,1.0,0.9,0.1
+4818,Beef,Flip kitchen,7,2,8.4,1.3,7.1
+4819,Beef,Southside,7,2,7.5,4.9,2.6
+4820,Tune,Blaze pizza,5,2,9.6,8.5,1.1
+4821,Drumsticks,Flip kitchen,10,3,2.9,0.5,2.4
+4822,Chicken,Akino sushi,6,2,3.5,1.8,1.7
+4823,Parmesan cheese,Nue Vegan,3,1,5.3,4.6,0.7
+4824,Parmesan cheese,Halal Guys,7,2,1.4,0.7,0.7
+4825,Pizza,Chipotle,11,3,4.1,2.5,1.6
+4826,Chicken,Akino sushi,8,2,4.4,0.2,4.2
+4827,Pizza,Southside,11,3,6.1,0.8,5.3
+4828,Tune,Southside,5,2,2.4,2.4,0.0
+4829,Pork,Southside,4,1,2.3,0.5,1.8
+4830,Burger,Chipotle,8,2,2.2,2.0,0.2
+4831,Tune,Globe,9,3,8.4,6.7,1.7
+4832,Beans,Blaze pizza,5,2,10.0,4.0,6.0
+4833,Pork,Blaze pizza,11,3,4.2,3.5,0.7
+4834,Chicken,Blaze pizza,9,3,9.7,0.9,8.8
+4835,Pork,Chipotle,7,2,7.8,6.3,1.5
+4836,Beans,Southside,10,3,9.5,6.7,2.8
+4837,Chicken,Southside,3,1,9.6,1.8,7.8
+4838,Tune,Ike's,10,3,8.2,5.6,2.6
+4839,Pork,Chick-fil-a,9,3,9.2,2.5,6.7
+4840,Burger,Chick-fil-a,6,2,1.2,0.3,0.9
+4841,Salad,Nue Vegan,3,1,7.0,3.7,3.3
+4842,Drumsticks,Nue Vegan,7,2,7.9,3.7,4.2
+4843,Parmesan cheese,Blaze pizza,5,2,6.4,2.2,4.2
+4844,Drumsticks,Southside,12,3,2.1,1.4,0.7
+4845,Pork,Ike's,6,2,6.7,6.5,0.2
+4846,Drumsticks,Akino sushi,7,2,1.3,0.9,0.4
+4847,Parmesan cheese,Chipotle,3,1,9.6,2.8,6.8
+4848,Drumsticks,Chick-fil-a,8,2,6.5,3.7,2.8
+4849,Burger,Chipotle,10,3,2.1,1.7,0.4
+4850,Tune,Blaze pizza,5,2,7.5,2.1,5.4
+4851,Beef,Chick-fil-a,12,3,9.9,8.1,1.8
+4852,Pizza,Flip kitchen,9,3,2.6,0.5,2.1
+4853,Parmesan cheese,Flip kitchen,7,2,1.4,0.7,0.7
+4854,Parmesan cheese,Chick-fil-a,10,3,6.3,1.1,5.2
+4855,Tune,Nue Vegan,7,2,6.7,6.2,0.5
+4856,Pizza,Nue Vegan,3,1,1.9,0.8,1.1
+4857,Chicken,Nue Vegan,3,1,5.2,3.1,2.1
+4858,Parmesan cheese,Halal Guys,1,1,3.3,1.5,1.8
+4859,Burger,Nue Vegan,4,1,2.2,0.8,1.4
+4860,Pizza,Southside,10,3,7.2,0.5,6.7
+4861,Chicken,Southside,6,2,1.9,0.9,1.0
+4862,Fries,Southside,2,1,5.0,0.9,4.1
+4863,Beef,Southside,1,1,6.4,6.0,0.4
+4864,Pork,Globe,2,1,5.4,3.3,2.1
+4865,Drumsticks,Nue Vegan,11,3,6.5,3.5,3.0
+4866,Parmesan cheese,Nue Vegan,9,3,7.6,3.8,3.8
+4867,Parmesan cheese,Chipotle,10,3,4.5,3.5,1.0
+4868,Pizza,Halal Guys,9,3,4.6,2.4,2.2
+4869,Beef,Flip kitchen,2,1,9.5,2.4,7.1
+4870,Fries,Akino sushi,12,3,3.8,0.8,3.0
+4871,Salad,Flip kitchen,3,1,4.3,0.8,3.5
+4872,Burger,Globe,1,1,5.1,0.6,4.5
+4873,Pork,Nue Vegan,8,2,9.2,2.5,6.7
+4874,Pizza,Chipotle,5,2,6.9,0.9,6.0
+4875,Salad,Blaze pizza,1,1,5.7,4.5,1.2
+4876,Drumsticks,Halal Guys,11,3,6.5,4.6,1.9
+4877,Parmesan cheese,Chick-fil-a,12,3,7.6,1.9,5.7
+4878,Tune,Halal Guys,7,2,7.5,4.9,2.6
+4879,Pork,Flip kitchen,8,2,1.3,0.2,1.1
+4880,Burger,Chipotle,11,3,5.7,4.3,1.4
+4881,Parmesan cheese,Blaze pizza,3,1,7.8,4.9,2.9
+4882,Drumsticks,Nue Vegan,5,2,3.9,3.0,0.9
+4883,Parmesan cheese,Chick-fil-a,11,3,1.8,0.7,1.1
+4884,Fries,Nue Vegan,6,2,1.0,0.6,0.4
+4885,Fries,Nue Vegan,12,3,3.3,1.2,2.1
+4886,Pork,Chick-fil-a,8,2,8.1,1.3,6.8
+4887,Burger,Akino sushi,12,3,8.0,5.9,2.1
+4888,Chicken,Globe,7,2,6.2,1.3,4.9
+4889,Pork,Nue Vegan,6,2,1.3,0.6,0.7
+4890,Salad,Blaze pizza,4,1,6.6,5.0,1.6
+4891,Chicken,Nue Vegan,5,2,3.0,0.6,2.4
+4892,Chicken,Chick-fil-a,10,3,7.4,3.1,4.3
+4893,Burger,Globe,3,1,4.3,3.6,0.7
+4894,Salad,Globe,1,1,7.4,1.4,6.0
+4895,Tune,Akino sushi,1,1,5.5,3.3,2.2
+4896,Pizza,Nue Vegan,11,3,6.5,5.1,1.4
+4897,Beef,Chipotle,9,3,3.3,3.0,0.3
+4898,Tune,Blaze pizza,7,2,3.9,1.2,2.7
+4899,Pork,Nue Vegan,3,1,3.7,3.3,0.4
+4900,Tune,Chipotle,8,2,7.3,6.0,1.3
+4901,Beans,Nue Vegan,3,1,5.5,2.6,2.9
+4902,Parmesan cheese,Chick-fil-a,9,3,9.0,6.7,2.3
+4903,Chicken,Blaze pizza,6,2,2.3,2.0,0.3
+4904,Beef,Flip kitchen,5,2,2.9,1.3,1.6
+4905,Burger,Akino sushi,9,3,6.0,5.1,0.9
+4906,Drumsticks,Flip kitchen,6,2,2.3,1.0,1.3
+4907,Beef,Globe,7,2,2.1,1.2,0.9
+4908,Pizza,Blaze pizza,11,3,5.6,5.2,0.4
+4909,Beef,Halal Guys,4,1,8.7,0.6,8.1
+4910,Fries,Chipotle,6,2,3.3,3.0,0.3
+4911,Fries,Halal Guys,5,2,7.4,7.3,0.1
+4912,Beef,Globe,12,3,3.1,2.3,0.8
+4913,Parmesan cheese,Chipotle,6,2,5.7,3.0,2.7
+4914,Pizza,Flip kitchen,12,3,3.1,2.0,1.1
+4915,Drumsticks,Nue Vegan,7,2,8.7,0.6,8.1
+4916,Chicken,Chipotle,2,1,5.7,1.9,3.8
+4917,Drumsticks,Globe,10,3,4.0,2.4,1.6
+4918,Chicken,Blaze pizza,12,3,7.4,2.8,4.6
+4919,Chicken,Blaze pizza,5,2,2.1,1.7,0.4
+4920,Salad,Southside,11,3,4.0,1.3,2.7
+4921,Salad,Globe,7,2,1.5,1.3,0.2
+4922,Salad,Chick-fil-a,9,3,8.8,8.5,0.3
+4923,Tune,Blaze pizza,11,3,8.6,0.3,8.3
+4924,Tune,Nue Vegan,11,3,8.9,4.8,4.1
+4925,Tune,Blaze pizza,9,3,2.8,0.7,2.1
+4926,Fries,Akino sushi,9,3,2.1,0.8,1.3
+4927,Parmesan cheese,Southside,9,3,9.4,2.9,6.5
+4928,Beans,Chipotle,2,1,9.2,1.8,7.4
+4929,Chicken,Chipotle,9,3,7.6,6.1,1.5
+4930,Fries,Nue Vegan,11,3,3.3,2.2,1.1
+4931,Pizza,Chipotle,2,1,7.5,3.2,4.3
+4932,Tune,Akino sushi,5,2,3.4,0.1,3.3
+4933,Chicken,Halal Guys,7,2,6.1,2.0,4.1
+4934,Beef,Chick-fil-a,4,1,2.3,0.3,2.0
+4935,Drumsticks,Blaze pizza,6,2,3.3,0.6,2.7
+4936,Chicken,Halal Guys,10,3,6.8,3.5,3.3
+4937,Burger,Globe,3,1,7.5,3.7,3.8
+4938,Beans,Flip kitchen,4,1,4.7,2.8,1.9
+4939,Beef,Ike's,3,1,8.0,7.3,0.7
+4940,Burger,Globe,3,1,7.6,3.9,3.7
+4941,Beef,Nue Vegan,1,1,3.4,0.7,2.7
+4942,Burger,Akino sushi,1,1,8.3,7.7,0.6
+4943,Chicken,Southside,5,2,6.4,4.3,2.1
+4944,Burger,Southside,7,2,5.8,3.6,2.2
+4945,Drumsticks,Chick-fil-a,4,1,7.5,3.4,4.1
+4946,Parmesan cheese,Blaze pizza,4,1,3.0,1.6,1.4
+4947,Beef,Globe,1,1,7.2,5.3,1.9
+4948,Drumsticks,Halal Guys,5,2,8.4,3.7,4.7
+4949,Pork,Nue Vegan,5,2,1.5,0.7,0.8
+4950,Salad,Globe,11,3,4.9,0.9,4.0
+4951,Pizza,Ike's,9,3,4.3,3.9,0.4
+4952,Pizza,Nue Vegan,6,2,5.0,4.9,0.1
+4953,Tune,Blaze pizza,7,2,8.5,6.9,1.6
+4954,Beef,Southside,11,3,6.4,1.5,4.9
+4955,Beans,Ike's,4,1,7.2,1.8,5.4
+4956,Pizza,Nue Vegan,7,2,9.6,8.2,1.4
+4957,Parmesan cheese,Chipotle,8,2,4.2,2.2,2.0
+4958,Pork,Flip kitchen,9,3,8.2,6.5,1.7
+4959,Salad,Blaze pizza,1,1,8.0,2.0,6.0
+4960,Parmesan cheese,Chipotle,3,1,5.3,2.2,3.1
+4961,Pizza,Chick-fil-a,12,3,2.0,1.4,0.6
+4962,Fries,Nue Vegan,6,2,5.1,2.5,2.6
+4963,Beans,Blaze pizza,9,3,1.6,1.3,0.3
+4964,Pizza,Nue Vegan,3,1,8.3,1.3,7.0
+4965,Tune,Globe,7,2,8.8,1.0,7.8
+4966,Beef,Chick-fil-a,10,3,9.7,4.4,5.3
+4967,Beans,Nue Vegan,10,3,3.8,1.6,2.2
+4968,Parmesan cheese,Chipotle,9,3,6.0,3.0,3.0
+4969,Tune,Nue Vegan,9,3,6.7,4.3,2.4
+4970,Salad,Halal Guys,4,1,4.2,3.6,0.6
+4971,Parmesan cheese,Nue Vegan,2,1,5.0,2.3,2.7
+4972,Pork,Southside,5,2,9.9,1.2,8.7
+4973,Salad,Chick-fil-a,10,3,7.6,5.5,2.1
+4974,Beef,Flip kitchen,5,2,1.9,0.5,1.4
+4975,Beans,Globe,11,3,5.2,3.2,2.0
+4976,Beef,Akino sushi,2,1,8.0,2.8,5.2
+4977,Parmesan cheese,Southside,7,2,7.6,3.9,3.7
+4978,Fries,Southside,3,1,5.9,1.4,4.5
+4979,Salad,Ike's,4,1,2.2,1.5,0.7
+4980,Beef,Flip kitchen,5,2,2.9,1.4,1.5
+4981,Beef,Blaze pizza,11,3,6.7,3.7,3.0
+4982,Fries,Flip kitchen,1,1,5.7,5.1,0.6
+4983,Beef,Southside,2,1,2.3,2.0,0.3
+4984,Pizza,Flip kitchen,10,3,5.9,0.6,5.3
+4985,Parmesan cheese,Blaze pizza,9,3,1.9,0.6,1.3
+4986,Beans,Globe,12,3,10.0,7.4,2.6
+4987,Drumsticks,Chick-fil-a,10,3,3.4,3.3,0.1
+4988,Drumsticks,Akino sushi,4,1,1.5,0.6,0.9
+4989,Burger,Ike's,3,1,1.4,0.2,1.2
+4990,Salad,Globe,9,3,2.1,1.0,1.1
+4991,Pizza,Halal Guys,3,1,8.3,5.2,3.1
+4992,Pizza,Southside,6,2,6.0,2.9,3.1
+4993,Beans,Blaze pizza,5,2,9.9,6.8,3.1
+4994,Salad,Akino sushi,5,2,1.1,0.4,0.7
+4995,Fries,Akino sushi,11,3,6.4,4.0,2.4
+4996,Beans,Southside,7,2,4.4,0.6,3.8
+4997,Parmesan cheese,Halal Guys,2,1,8.7,0.5,8.2
+4998,Pork,Southside,9,3,7.0,2.4,4.6
+4999,Beans,Halal Guys,11,3,4.6,1.6,3.0
